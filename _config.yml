@@ -32,6 +32,6 @@ footer_image_width: 60
 
 
 collections:
-  design:
+  marketdata:
     output: true
     permalink: /marketdata/:path/
