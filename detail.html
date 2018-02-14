@@ -1,35 +1,38 @@
 <!DOCTYPE html>
-<!-- saved from url=(0062)https://streamdata.io/developers/api-gallery/the-guardian-api/ -->
 <html lang="en">
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
       <meta name="viewport" content="width=device-width, minimum-scale=1.0">
       <meta name="theme-color" content="#01c1d5">
-      <link rel="stylesheet" href="/market-data/streamdata-gallery-detail_files/style.css">
-      <link href="/market-data/streamdata-gallery-detail_files/css" rel="stylesheet">
-      <link rel="apple-touch-icon" sizes="180x180" href="https://streamdata.io/apple-touch-icon.png">
-      <link rel="icon" type="image/png" sizes="32x32" href="https://streamdata.io/favicon-32x32.png">
-      <link rel="icon" type="image/png" sizes="16x16" href="https://streamdata.io/favicon-16x16.png">
-      <link rel="manifest" href="https://streamdata.io/manifest.json">
-      <link rel="mask-icon" href="https://streamdata.io/safari-pinned-tab.svg" color="#ff4040">
+
+      <link rel="stylesheet" href="/market-data/streamdata-gallery-listing_files/style.css">
+      <link href="/market-data/streamdata-gallery-listing_files/font.css" rel="stylesheet">
+      <link rel="apple-touch-icon" sizes="180x180" href="/market-data/streamdata-gallery-listing_files/apple-touch-icon.png">
+      <link rel="icon" type="image/png" sizes="32x32" href="/market-data/streamdata-gallery-listing_files/favicon-32x32.png">
+      <link rel="icon" type="image/png" sizes="16x16" href="/market-data/streamdata-gallery-listing_files/favicon-16x16.png">
+      <link rel="manifest" href="/market-data/streamdata-gallery-listing_files/manifest.json">
+      <link rel="mask-icon" href="/market-data/streamdata-gallery-listing_files/safari-pinned-tab.svg" color="#ff4040">
       <meta name="theme-color" content="#ffffff">
-      <title>The Guardian API - Streamdata.io</title>
+      <title>API Gallery to evaluate API polling versus event-driven streaming</title>
+
       <!-- This site is optimized with the Yoast SEO plugin v6.2 - https://yoa.st/1yg?utm_content=6.2 -->
-      <link rel="canonical" href="https://streamdata.io/developers/api-gallery/the-guardian-api/">
+      <meta name="description" content="Have a look at some APIs and see how they&#39;ve benefitted from our realtime data streaming such as BitcoinAverage.com, New York CitiBike, GitHub Events, The Guardian, and more.">
+      <link rel="canonical" href="https://streamdata.io/developers/api-gallery/">
       <meta property="og:locale" content="en_US">
       <meta property="og:type" content="article">
-      <meta property="og:title" content="The Guardian API - Streamdata.io">
-      <meta property="og:url" content="https://streamdata.io/developers/api-gallery/the-guardian-api/">
+      <meta property="og:title" content="API Gallery to evaluate API polling versus event-driven streaming">
+      <meta property="og:description" content="Have a look at some APIs and see how they&#39;ve benefitted from our realtime data streaming such as BitcoinAverage.com, New York CitiBike, GitHub Events, The Guardian, and more.">
+      <meta property="og:url" content="https://streamdata.io/developers/api-gallery/">
       <meta property="og:site_name" content="Streamdata.io">
       <meta name="twitter:card" content="summary_large_image">
-      <meta name="twitter:title" content="The Guardian API - Streamdata.io">
-      <script type="text/javascript" src="/market-data/streamdata-gallery-detail_files/pd.js"></script><script type="text/javascript" src="/market-data/streamdata-gallery-detail_files/pd.js"></script><script type="text/javascript" src="/market-data/streamdata-gallery-detail_files/sidebarv2.js"></script><script async="" src="/market-data/streamdata-gallery-detail_files/analytics.js"></script><script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/streamdata.io\/","name":"Streamdata.io","potentialAction":{"@type":"SearchAction","target":"https:\/\/streamdata.io\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
-      <!-- / Yoast SEO plugin. -->
-      <link rel="dns-prefetch" href="https://s.w.org/">
+      <meta name="twitter:description" content="Have a look at some APIs and see how they&#39;ve benefitted from our realtime data streaming such as BitcoinAverage.com, New York CitiBike, GitHub Events, The Guardian, and more.">
+      <meta name="twitter:title" content="API Gallery to evaluate API polling versus event-driven streaming">
+
       <script type="text/javascript">
-         window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/streamdata.io\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.4"}};
+         window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https://streamdata-gallery.github.io/market-data/streamdata-gallery-listing_files/wp-emoji-release.min.js?ver=4.9.4"}};
          !function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
-      </script><script src="/market-data/streamdata-gallery-detail_files/wp-emoji-release.min.js" type="text/javascript" defer=""></script>
+      </script><script src="/market-data/streamdata-gallery-listing_files/wp-emoji-release.min.js" type="text/javascript" defer=""></script>
+
       <style type="text/css">
          img.wp-smiley,
          img.emoji {
@@ -44,38 +47,27 @@
          padding: 0 !important;
          }
       </style>
-      <link rel="stylesheet" id="contact-form-7-css" href="/market-data/streamdata-gallery-detail_files/styles.css" type="text/css" media="all">
-      <script type="text/javascript" src="/market-data/streamdata-gallery-detail_files/jquery.js"></script>
-      <script type="text/javascript" src="/market-data/streamdata-gallery-detail_files/jquery-migrate.min.js"></script>
+      <link rel="stylesheet" id="contact-form-7-css" href="/market-data/streamdata-gallery-listing_files/styles.css" type="text/css" media="all">
+      <script type="text/javascript" src="/market-data/streamdata-gallery-listing_files/jquery.js"></script>
+      <script type="text/javascript" src="/market-data/streamdata-gallery-listing_files/jquery-migrate.min.js"></script>
       <script type="text/javascript">
          /* <![CDATA[ */
          var cssTarget = "img.style-svg";
          var ForceInlineSVGActive = "false";
          /* ]]> */
       </script>
-      <script type="text/javascript" src="/market-data/streamdata-gallery-detail_files/svgs-inline-min.js"></script>
+      <script type="text/javascript" src="/market-data/streamdata-gallery-listing_files/svgs-inline-min.js"></script>
       <link rel="https://api.w.org/" href="https://streamdata.io/wp-json/">
       <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://streamdata.io/xmlrpc.php?rsd">
       <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://streamdata.io/wp-includes/wlwmanifest.xml">
       <meta name="generator" content="WordPress 4.9.4">
-      <link rel="shortlink" href="https://streamdata.io/?p=5192">
-      <link rel="alternate" type="application/json+oembed" href="https://streamdata.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstreamdata.io%2Fdevelopers%2Fapi-gallery%2Fthe-guardian-api%2F">
-      <link rel="alternate" type="text/xml+oembed" href="https://streamdata.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstreamdata.io%2Fdevelopers%2Fapi-gallery%2Fthe-guardian-api%2F&amp;format=xml">
-      <!-- BEGIN GADWP v5.1.2.5 Universal Analytics - https://deconf.com/google-analytics-dashboard-wordpress/ -->
-      <script>
-         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-         	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-         	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-         })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-           ga('create', 'UA-57963322-1', 'auto');
-           ga('send', 'pageview');
-      </script>
-      <!-- END GADWP Universal Analytics -->
-      <style type="text/css">/* Chart.js */
-         @-webkit-keyframes chartjs-render-animation{from{opacity:0.99}to{opacity:1}}@keyframes chartjs-render-animation{from{opacity:0.99}to{opacity:1}}.chartjs-render-monitor{-webkit-animation:chartjs-render-animation 0.001s;animation:chartjs-render-animation 0.001s;}
-      </style>
+      <link rel="shortlink" href="https://streamdata.io/?p=570">
+      <link rel="alternate" type="application/json+oembed" href="https://streamdata.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstreamdata.io%2Fdevelopers%2Fapi-gallery%2F">
+      <link rel="alternate" type="text/xml+oembed" href="https://streamdata.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstreamdata.io%2Fdevelopers%2Fapi-gallery%2F&amp;format=xml">
+
    </head>
-   <body class="page  " style="background-image: url(&#39;/img/api-detail-bg.jpg&#39;)" data-feedly-extension-follow-feed="1.0.3">
+   <body class="page  page--cover   page--top " style="background-image: url('/market-data/streamdata-gallery-listing_files/demos-background.png')" data-feedly-extension-follow-feed="1.0.3">
+
       <header class="header header--fixed header--notBottom header--notTop header--pinned">
          <div class="header__container">
             <a href="https://streamdata.io/developers/api-gallery/the-guardian-api/#" class="header__hamburger">
@@ -522,56 +514,13 @@
                </p>
             </div>
          </div>
-      </footer>
-      <script type="text/javascript">
-         <!--
-         piCId = '14306';
-         piAId = '273652';
+       </footer>
 
-         piHostname = 'pi.pardot.com';
-
-         (function() {
-         	function async_load(){
-         		var s = document.createElement('script'); s.type = 'text/javascript';
-         		s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
-         		var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
-         	}
-         	if(window.attachEvent) { window.attachEvent('onload', async_load); }
-         	else { window.addEventListener('load', async_load, false); }
-         })();
-         -->
-      </script><script type="text/javascript">
-         /* <![CDATA[ */
-         var wpcf7 = {"apiSettings":{"root":"https:\/\/streamdata.io\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
-         /* ]]> */
-      </script>
-      <script type="text/javascript" src="/market-data/streamdata-gallery-detail_files/scripts.js"></script>
-      <script type="text/javascript" src="/market-data/streamdata-gallery-detail_files/wp-embed.min.js"></script>
-      <script type="text/javascript" src="/market-data/streamdata-gallery-detail_files/se-v2.js"></script>
-      <script defer="" src="/market-data/streamdata-gallery-detail_files/svgxuse.js"></script>
-      <script src="/market-data/streamdata-gallery-detail_files/vendor.js"></script>
-      <script src="/market-data/streamdata-gallery-detail_files/bundle.js"></script>
-      <script type="text/javascript">
-         piAId = '273652';
-         piCId = '14306';
-         piHostname = 'pi.pardot.com';
-         (function() {
-             function async_load(){
-                 var s = document.createElement('script'); s.type = 'text/javascript';
-                 s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
-                 var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
-             }
-             if(window.attachEvent) { window.attachEvent('onload', async_load); }
-             else { window.addEventListener('load', async_load, false); }
-         })();
-      </script>
-      <script type="text/javascript">
-         (function (d, t) {
-           var bh = d.createElement(t), s = d.getElementsByTagName(t)[0];
-           bh.type = 'text/javascript';
-           bh.src = 'https://www.bugherd.com/sidebarv2.js?apikey=tlxcasg5xzvbuspybryysg';
-           s.parentNode.insertBefore(bh, s);
-           })(document, 'script');
-      </script>
-   </body>
-</html>
+       <script type="text/javascript" src="/market-data/streamdata-gallery-listing_files/scripts.js"></script>
+       <script type="text/javascript" src="/market-data/streamdata-gallery-listing_files/wp-embed.min.js"></script>
+       <script type="text/javascript" src="/market-data/streamdata-gallery-listing_files/se-v2.js"></script>
+       <script defer="" src="/market-data/streamdata-gallery-listing_files/svgxuse.js"></script>
+       <script src="/market-data/streamdata-gallery-listing_files/vendor.js"></script>
+       <script src="/market-data/streamdata-gallery-listing_files/bundle.js"></script>
+    </body>
+ </html>
