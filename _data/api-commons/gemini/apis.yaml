@@ -1,0 +1,64 @@
+name: Gemini
+description: Gemini Trust Company, LLC (Gemini) is a next generation digital asset
+  exchange and custodian that allows customers to buy, sell, and store digital assets
+  such as bitcoin and ether. Gemini is a New York trust company that is held to the
+  highest level of fiduciary obligations, capital reserve requirements, and banking
+  compliance standards. Gemini was founded in 2014, by brothers Cameron and Tyler
+  Winklevoss, to build a bridge to the future of money. For more information, visit
+  Gemini.com.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26489-gemini.jpg
+x-kinRank: "6"
+x-alexaRank: "3803"
+tags:
+- Technology
+- Marketplace
+- Market Data
+- Financial Services
+- Blockchain
+created: "2018-02-11"
+modified: "2018-02-11"
+url: https://raw.githubusercontent.com/api-stack/market-data/master/_data/api-commons/gemini/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-blog
+  url: https://gemini.com/blog/
+- type: x-blog-rss
+  url: https://gemini.com/feed/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/gemini-3
+- type: x-email
+  url: hello@gemini.com
+- type: x-email
+  url: privacy@gemini.com
+- type: x-email
+  url: datarequest@gemini.com
+- type: x-email
+  url: press@gemini.com
+- type: x-email
+  url: connectivity@gemini.com
+- type: x-errors
+  url: https://docs.gemini.com/rest-api/#error-codes
+- type: x-github
+  url: https://github.com/gemini
+- type: x-linkedin
+  url: https://www.linkedin.com/company/gemini-com/
+- type: x-privacy-policy
+  url: https://gemini.com/privacy-policy/
+- type: x-rate-limits
+  url: https://docs.gemini.com/rest-api/#rate-limits
+- type: x-sandbox
+  url: https://docs.gemini.com/rest-api/#sandbox
+- type: x-selfservice-registration
+  url: https://exchange.gemini.com/register
+- type: x-status
+  url: https://status.gemini.com/
+- type: x-twitter
+  url: https://twitter.com/GeminiDotCom
+- type: x-website
+  url: https://gemini.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
