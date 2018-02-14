@@ -1,0 +1,77 @@
+agger: "2.0"
+info:
+  title: Barchart API
+  description: Stock, futures and forex quotes, and historical data.
+  version: 1.0.0
+host: marketdata.websol.barchart.com
+basePath: /
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /getEquitiesByExchange.json:
+    get:
+      summary: Get Equities by Exchange
+      description: Receive all real-time or delayed stock and/or index price data
+        by exchange through a single onDemand query
+      operationId: getEquitiesByExchange
+      parameters:
+      - in: query
+        name: symbols
+        description: A symbol or code that identifies a financial instrument
+        type: string
+        format: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Equities
+  /getFuturesByExchange.json:
+    get:
+      summary: Get Futures by Exchange
+      description: Receive all real-time or delayed, or end-of-day Futures data by
+        exchange through a single onDemand query
+      operationId: getFuturesByExchange
+      responses:
+        200:
+          description: OK
+      tags:
+      - Futures
+  /getQuote.json:
+    get:
+      summary: Get Quote
+      description: The getQuote API is used to request price data, either real-time,
+        delayed or end-of-day, by symbol
+      operationId: getQuote
+      parameters:
+      - in: query
+        name: symbols
+        description: A symbol or code that identifies a financial instrument
+        type: string
+        format: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Quotes
+  getClosePrice.json:
+    get:
+      summary: Get Close Price
+      description: Get the close price for given instruments for the given date
+      operationId: getClosePrice
+      parameters:
+      - in: query
+        name: symbols
+        description: A symbol or code that identifies a financial instrument
+        type: string
+        format: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Stocks
+      - Price
+definitions: []
