@@ -1,0 +1,48 @@
+name: Alpha Vantage
+description: Alpha Vantage offers free APIs in JSON and CSV formats for realtime and
+  historical stock and forex data, digital/crypto currency data and over 50 technical
+  indicators. Supports intraday, daily, weekly, and monthly quotes and technical analysis
+  with cha...
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+  Shot 2018-01-22 at 4.52.35 PM.png
+x-kinRank: "8"
+x-alexaRank: "160846"
+tags:
+- Market Data
+- Have API Key
+- Free Tier
+- Blockchain
+created: "2018-02-11"
+modified: "2018-02-11"
+url: https://raw.githubusercontent.com/api-stack/market-data/master/_data/api-commons/alpha-vantage/apis.yaml
+specificationVersion: "0.14"
+apis:
+- name: Alpha Vantage
+  description: Alpha Vantage offers free APIs in JSON and CSV formats for realtime
+    and historical stock and forex data, digital/crypto currency data and over 50
+    technical indicators
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+    Shot 2018-01-22 at 4.52.35 PM.png
+  humanURL: https://www.alphavantage.co
+  baseURL: https://www.alphavantage.co
+  tags:
+  - Market Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-stack/market-data/master/_data/api-commons/alpha-vantage/alpha-vantage-openapi-spec.yaml
+x-common:
+- type: x-documentation
+  url: https://www.alphavantage.co/documentation/
+- type: x-selfservice-registration
+  url: https://www.alphavantage.co/support/#api-key
+- type: x-support
+  url: https://www.alphavantage.co/support/#support
+- type: x-terms-of-service
+  url: https://www.alphavantage.co/terms_of_service/
+- type: x-website
+  url: https://www.alphavantage.co
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
