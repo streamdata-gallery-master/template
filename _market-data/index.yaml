@@ -8,46 +8,46 @@ tags:
 - Market Data
 include:
 - name: 1Forge
-  url: https://raw.githubusercontent.com/api-stack/market-data/master/_data/api-commons/1forge/apis.yaml
+  url: 1forge/apis.yaml
 - name: Accern
-  url: https://raw.githubusercontent.com/api-stack/market-data/master/_data/api-commons/accern/apis.yaml
+  url: accern/apis.yaml
 - name: Alpha Vantage
-  url: https://raw.githubusercontent.com/api-stack/market-data/master/_data/api-commons/alpha-vantage/apis.yaml
+  url: alpha-vantage/apis.yaml
 - name: APIDataFeed
-  url: https://raw.githubusercontent.com/api-stack/market-data/master/_data/api-commons/apidatafeed/apis.yaml
+  url: apidatafeed/apis.yaml
 - name: Barchart
-  url: https://raw.githubusercontent.com/api-stack/market-data/master/_data/api-commons/barchart/apis.yaml
+  url: barchart/apis.yaml
 - name: Chetwood
-  url: https://raw.githubusercontent.com/api-stack/market-data/master/_data/api-commons/chetwood/apis.yaml
+  url: chetwood/apis.yaml
 - name: 'eSignal '
-  url: https://raw.githubusercontent.com/api-stack/market-data/master/_data/api-commons/esignal-/apis.yaml
+  url: esignal-/apis.yaml
 - name: Exante
-  url: https://raw.githubusercontent.com/api-stack/market-data/master/_data/api-commons/exante/apis.yaml
+  url: exante/apis.yaml
 - name: Gemini
-  url: https://raw.githubusercontent.com/api-stack/market-data/master/_data/api-commons/gemini/apis.yaml
+  url: gemini/apis.yaml
 - name: IEX
-  url: https://raw.githubusercontent.com/api-stack/market-data/master/_data/api-commons/iex/apis.yaml
+  url: iex/apis.yaml
 - name: Intercontinental Exchange
-  url: https://raw.githubusercontent.com/api-stack/market-data/master/_data/api-commons/intercontinental-exchange/apis.yaml
+  url: intercontinental-exchange/apis.yaml
 - name: Intradata
-  url: https://raw.githubusercontent.com/api-stack/market-data/master/_data/api-commons/intradata/apis.yaml
+  url: intradata/apis.yaml
 - name: Intrinio
-  url: https://raw.githubusercontent.com/api-stack/market-data/master/_data/api-commons/intrinio/apis.yaml
+  url: intrinio/apis.yaml
 - name: Knoema
-  url: https://raw.githubusercontent.com/api-stack/market-data/master/_data/api-commons/knoema/apis.yaml
+  url: knoema/apis.yaml
 - name: OANDA
-  url: https://raw.githubusercontent.com/api-stack/market-data/master/_data/api-commons/oanda/apis.yaml
+  url: oanda/apis.yaml
 - name: OnixS
-  url: https://raw.githubusercontent.com/api-stack/market-data/master/_data/api-commons/onixs/apis.yaml
+  url: onixs/apis.yaml
 - name: Quandl
-  url: https://raw.githubusercontent.com/api-stack/market-data/master/_data/api-commons/quandl/apis.yaml
+  url: quandl/apis.yaml
 - name: QUODD Financial
-  url: https://raw.githubusercontent.com/api-stack/market-data/master/_data/api-commons/quodd-financial/apis.yaml
+  url: quodd-financial/apis.yaml
 - name: QuoteMedia
-  url: https://raw.githubusercontent.com/api-stack/market-data/master/_data/api-commons/quotemedia/apis.yaml
+  url: quotemedia/apis.yaml
 - name: Thomson Reuters
-  url: https://raw.githubusercontent.com/api-stack/market-data/master/_data/api-commons/thomson-reuters/apis.yaml
+  url: thomson-reuters/apis.yaml
 - name: Tiingo
-  url: https://raw.githubusercontent.com/api-stack/market-data/master/_data/api-commons/tiingo/apis.yaml
+  url: tiingo/apis.yaml
 - name: TraderMade
-  url: https://raw.githubusercontent.com/api-stack/market-data/master/_data/api-commons/tradermade/apis.yaml
+  url: tradermade/apis.yaml
