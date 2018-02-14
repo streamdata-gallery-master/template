@@ -1,0 +1,10 @@
+---
+- title: Market Data & APIs
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-organization.jpg
+  header: These are the market data organizations I've aggregated so far. As I tag them, and organize them better I will break out into separate groups, and begin ranking them as well to understand which ones are the best to use.
+  footer: If you think there is an API I should have listed here feel free to tweet
+    it at me, or submit as a Github issue. Even though I do this full time, I'm still
+    a one person show, and I miss quite a bit, and depend on my network to help me
+    know what is going on.
+  tags: Client
+...
