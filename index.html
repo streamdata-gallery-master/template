@@ -1,0 +1,238 @@
+---
+layout: default
+title: Streamdata.io API Gallery
+---
+
+<div class="shortMasthead  shortMasthead--extra-top-padding ">
+   <div class="shortMasthead__container">
+      <h1 class="shortMasthead__headline enterAnimation enterAnimation--active" data-enter-animation="">Streaming API performance gallery</h1>
+      <h2 class="shortMasthead__subheadline enterAnimation enterAnimation--active" data-enter-animation=""></h2>
+      <div class="shortMasthead__body enterAnimation enterAnimation--active" data-enter-animation="">
+         <p style="text-align: center;"></p>
+         <p style="text-align: center;">&nbsp;<img class="aligncenter size-full wp-image-5347" src="/apis/assets/Streamdataio-API-Gallery.jpg" alt="" width="800" height="200"></p>
+         <p style="text-align: center;">What can you expect from streaming compared to polling an API?</p>
+         <p style="text-align: center;">We also asked ourselves this very same question, so we decided to perform tests on some APIs.<br>
+            You can discover more regarding what is possible with Streamdata.io below.
+         </p>
+         <p style="text-align: center;">Want us to test an API? Feel free to send it to us using the form at the bottom of the page.</p>
+      </div>
+   </div>
+</div>
+
+<section class="taggedLinkCards">
+   <section class="filterTags" data-filter-tags="">
+      <div class="filterTags__container">
+
+         <a href="index.html" class="filterTags__tag filterTags__tag--red" data-filter-tag-link="html5">
+         Market Data
+         </a>
+
+      </div>
+   </section>
+   <div class="taggedLinkCards__cards">
+
+     {% assign apijson = site.data.apis %}
+       {% assign contents = site.data.api-commons %}
+
+       {% for api in apijson.include %}
+
+         {% assign path = api.url  | replace: site.raw_url,'' %}
+         {% assign path = path  | replace: '/apis.yaml','' %}
+
+         {% for api in contents %}
+
+           {% assign api_name = api[0] %}
+           {% assign folder = api[1] %}
+
+           {% if api_name == path %}
+
+             {% for item in folder %}
+
+               {% assign item_name = item[0] %}
+
+               {% if item_name == 'apis' %}
+
+                 {% assign apijson = item[1] %}
+
+                 {% assign api_name = apijson.name %}
+                 {% assign api_description = apijson.description %}
+                 {% assign api_image = apijson.image %}
+                 {% assign api_json_url = apijson.url %}
+
+                 {% assign api_json_kin_rank = apijson.x-kinRank %}
+                 {% assign api_json_alexa_rank = apijson.x-alexaRank %}
+
+                 {% assign blog_url = '' %}
+                 {% assign blogrss_url = '' %}
+                 {% assign portal_url = '' %}
+                 {% assign gitub_url = '' %}
+                 {% assign twitter_url = '' %}
+                 {% assign website_url = '' %}
+                 {% assign getting_started_url = '' %}
+                 {% assign authentication_url = '' %}
+                 {% assign faq_url = '' %}
+                 {% assign login_url = '' %}
+                 {% assign signup_url = '' %}
+                 {% assign documentation_url = '' %}
+                 {% assign code_page_url = '' %}
+                 {% assign road_map_url = '' %}
+                 {% assign issue_url = '' %}
+                 {% assign change_log_url = '' %}
+                 {% assign status_dashboard_url = '' %}
+                 {% assign support_url = '' %}
+                 {% assign plan_url = '' %}
+                 {% assign rate_limit_url = '' %}
+                 {% assign terms_of_service_url = '' %}
+                 {% assign privacy_policy_url = '' %}
+
+                 {% for common in apijson.x-common %}
+
+                   {% if common.type == 'x-portal' %}
+                    {% assign portal_url = common.url %}
+                   {% endif %}
+
+                   {% if common.type == 'x-website' %}
+                    {% assign website_url = common.url %}
+                   {% endif %}
+
+                   {% if portal_url == '' %}
+                    {% assign portal_url = website_url %}
+                   {% endif %}
+
+                   {% if common.type == 'x-getting-started' %}
+                    {% assign getting_started_url = common.url %}
+                   {% endif %}
+                   {% if common.type == 'x-authentication-overview' %}
+                    {% assign authentication_url = common.url %}
+                   {% endif %}
+                   {% if common.type == 'x-faq' %}
+                    {% assign faq_url = common.url %}
+                   {% endif %}
+
+                   {% if common.type == 'x-login' %}
+                    {% assign login_url = common.url %}
+                   {% endif %}
+
+                   {% if common.type == 'x-selfservice-registration' %}
+                    {% assign signup_url = common.url %}
+                   {% endif %}
+
+                   {% if common.type == 'x-documentation' %}
+                    {% assign documentation_url = common.url %}
+                   {% endif %}
+
+                   {% if common.type == 'x-code-page' %}
+                    {% assign code_page_url = common.url %}
+                   {% endif %}
+
+                   {% if common.type == 'x-road-map' %}
+                    {% assign road_map_url = common.url %}
+                   {% endif %}
+                   {% if common.type == 'x-issues' %}
+                    {% assign issue_url = common.url %}
+                   {% endif %}
+                   {% if common.type == 'x-change-log' %}
+                    {% assign change_log_url = common.url %}
+                   {% endif %}
+                   {% if common.type == 'x-status' %}
+                    {% assign status_dashboard_url = common.url %}
+                   {% endif %}
+
+                   {% if common.type == 'x-support' %}
+                    {% assign support_url = common.url %}
+                   {% endif %}
+
+                   {% if common.type == 'x-blog' %}
+                    {% assign blog_url = common.url %}
+                   {% endif %}
+
+                   {% if common.type == 'x-blog-rss' %}
+                    {% assign blogrss_url = common.url %}
+                   {% endif %}
+
+                   {% if common.type == 'x-twitter' %}
+                    {% assign twitter_url = common.url %}
+                   {% endif %}
+
+                   {% if common.type == 'x-github' %}
+                    {% assign gitub_url = common.url %}
+                   {% endif %}
+
+                   {% if common.type == 'x-signup' %}
+                    {% assign gitub_url = common.url %}
+                   {% endif %}
+
+                   {% if common.type == 'x-dedicated-plans--pricing-page' %}
+                    {% assign plan_url = common.url %}
+                   {% endif %}
+                   {% if common.type == 'x-rate-limit' %}
+                    {% assign rate_limit_url = common.url %}
+                   {% endif %}
+
+                   {% if common.type == 'x-terms-of-service-page' %}
+                    {% assign terms_of_service_url = common.url %}
+                   {% endif %}
+                   {% if common.type == 'x-privacy-policy-page' %}
+                    {% assign privacy_policy_url = common.url %}
+                   {% endif %}
+
+                 {% endfor %}
+
+                 {% if api_json_kin_rank == '8' or api_json_kin_rank == '9' %}
+
+                   <div class="taggedLinkCard taggedLinkCard--red" data-platform="html5">
+                      <div class="taggedLinkCard__container enterAnimation enterAnimation--active" data-enter-animation="">
+                         <div class="taggedLinkCard__upper">
+                            <img src="{{ api_image }}" class="taggedLinkCard__image" alt="">
+                         </div>
+                         <div class="taggedLinkCard__lower">
+                            <div class="taggedLinkCard__copy">
+                               <h3 class="taggedLinkCard__title">{{ api_name }}</h3>
+                               <p class="taggedLinkCard__body">{{ api_description }}</p>
+                            </div>
+                            <p><a href="detail.html">Learn more</a></p>
+                         </div>
+                      </div>
+                   </div>
+
+                 {% endif %}
+
+               {% endif %}
+
+             {% endfor %}
+
+           {% endif %}
+
+         {% endfor %}
+
+       {% endfor %}
+
+   </div>
+</section>
+<div class="submitApi__overflowContainer" data-submit-api="">
+   <div class="submitApi submitApi--left-hand-image">
+      <div class="submitApi__container">
+         <div class="submitApi__imageContainer">
+            <img class="submitApi__image" src="/apis/assets/iphone_submit.png" alt="">
+         </div>
+         <div class="submitApi__formContainer">
+            <h2 class="submitApi__headline">Submit Your API</h2>
+            <h3 class="submitApi__subheadline">Join the gallery to find out how much you can save with Streamdata.io.</h3>
+            <div class="submitApi__form">
+               <form action="https://go.pardot.com/l/272652/2018-02-07/2fv1m" method="POST" class="form" novalidate="" data-parsley-errors-messages-disabled="">
+                  <div class="form__input-container">
+                     <input type="text" name="first_name" value="" size="40" class="form__input form__input--half form__input--dark" aria-required="true" aria-invalid="false" placeholder="*First Name">
+                     <input type="text" name="last_name" value="" size="40" class="form__input form__input--half form__input--dark" aria-required="true" aria-invalid="false" placeholder="*Last Name">
+                     <input type="text" name="company" value="" size="40" class="form__input form__input--dark" aria-invalid="false" placeholder="Company">
+                     <input type="email" name="email" value="" size="40" class="form__input form__input--dark" aria-required="true" aria-invalid="false" placeholder="*Email">
+                  </div>
+                  <div class="form__inline">
+                     <input type="text" name="api_url" value="" size="40" class="form__input form__input--dark" aria-required="true" aria-invalid="false" placeholder="*API URL">
+                     <input type="submit" value="Submit" class="form__button button button--blue-gradient button--noBorder">
+                  </div>
+               </form>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
