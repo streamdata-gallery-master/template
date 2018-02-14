@@ -5,79 +5,79 @@
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
       <meta name="viewport" content="width=device-width, minimum-scale=1.0">
       <meta name="theme-color" content="#01c1d5">
-      <link rel="stylesheet" href="https://streamdata.io/dist/style.css">
-      <link href="https://streamdata.io/streamdata-gallery-listing_files/css" rel="stylesheet">
-      <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-      <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-      <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-      <link rel="manifest" href="/manifest.json">
-      <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#ff4040">
+      <link rel="stylesheet" href="/market-data/streamdata-gallery-listing_files/style.css">
+      <link href="/market-data/streamdata-gallery-listing_files/css" rel="stylesheet">
+      <link rel="apple-touch-icon" sizes="180x180" href="https://streamdata.io/apple-touch-icon.png">
+      <link rel="icon" type="image/png" sizes="32x32" href="https://streamdata.io/favicon-32x32.png">
+      <link rel="icon" type="image/png" sizes="16x16" href="https://streamdata.io/favicon-16x16.png">
+      <link rel="manifest" href="https://streamdata.io/manifest.json">
+      <link rel="mask-icon" href="https://streamdata.io/safari-pinned-tab.svg" color="#ff4040">
       <meta name="theme-color" content="#ffffff">
       <title>API Gallery to evaluate API polling versus event-driven streaming</title>
-
-    <!-- This site is optimized with the Yoast SEO plugin v6.2 - https://yoa.st/1yg?utm_content=6.2 -->
-    <meta name="description" content="Have a look at some APIs and see how they&#039;ve benefitted from our realtime data streaming such as BitcoinAverage.com, New York CitiBike, GitHub Events, The Guardian, and more."/>
-    <link rel="canonical" href="https://streamdata.io/developers/api-gallery/" />
-    <meta property="og:locale" content="en_US" />
-    <meta property="og:type" content="article" />
-    <meta property="og:title" content="API Gallery to evaluate API polling versus event-driven streaming" />
-    <meta property="og:description" content="Have a look at some APIs and see how they&#039;ve benefitted from our realtime data streaming such as BitcoinAverage.com, New York CitiBike, GitHub Events, The Guardian, and more." />
-    <meta property="og:url" content="https://streamdata.io/developers/api-gallery/" />
-    <meta property="og:site_name" content="Streamdata.io" />
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:description" content="Have a look at some APIs and see how they&#039;ve benefitted from our realtime data streaming such as BitcoinAverage.com, New York CitiBike, GitHub Events, The Guardian, and more." />
-    <meta name="twitter:title" content="API Gallery to evaluate API polling versus event-driven streaming" />
-    <script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/streamdata.io\/","name":"Streamdata.io","potentialAction":{"@type":"SearchAction","target":"https:\/\/streamdata.io\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
-    <!-- / Yoast SEO plugin. -->
-
-    <link rel='dns-prefetch' href='//s.w.org' />
-    		<script type="text/javascript">
-    			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/streamdata.io\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.4"}};
-    			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
-    		</script>
-    		<style type="text/css">
-    img.wp-smiley,
-    img.emoji {
-    	display: inline !important;
-    	border: none !important;
-    	box-shadow: none !important;
-    	height: 1em !important;
-    	width: 1em !important;
-    	margin: 0 .07em !important;
-    	vertical-align: -0.1em !important;
-    	background: none !important;
-    	padding: 0 !important;
-    }
-    </style>
-    <link rel='stylesheet' id='contact-form-7-css' href='https://streamdata.io/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0' type='text/css' media='all' />
-    <script type='text/javascript' src='https://streamdata.io/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
-    <script type='text/javascript' src='https://streamdata.io/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
-    <script type='text/javascript'>
-    /* <![CDATA[ */
-    var cssTarget = "img.style-svg";
-    var ForceInlineSVGActive = "false";
-    /* ]]> */
-    </script>
-    <script type='text/javascript' src='https://streamdata.io/wp-content/plugins/svg-support/js/min/svgs-inline-min.js?ver=1.0.0'></script>
-    <link rel='https://api.w.org/' href='https://streamdata.io/wp-json/' />
-    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://streamdata.io/xmlrpc.php?rsd" />
-    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://streamdata.io/wp-includes/wlwmanifest.xml" />
-    <meta name="generator" content="WordPress 4.9.4" />
-    <link rel='shortlink' href='https://streamdata.io/?p=570' />
-    <link rel="alternate" type="application/json+oembed" href="https://streamdata.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstreamdata.io%2Fdevelopers%2Fapi-gallery%2F" />
-    <link rel="alternate" type="text/xml+oembed" href="https://streamdata.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstreamdata.io%2Fdevelopers%2Fapi-gallery%2F&#038;format=xml" />
-    <!-- BEGIN GADWP v5.1.2.5 Universal Analytics - https://deconf.com/google-analytics-dashboard-wordpress/ -->
-    <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-      ga('create', 'UA-57963322-1', 'auto');
-      ga('send', 'pageview');
-    </script>
-    <!-- END GADWP Universal Analytics -->
-
-    </head>
+      <!-- This site is optimized with the Yoast SEO plugin v6.2 - https://yoa.st/1yg?utm_content=6.2 -->
+      <meta name="description" content="Have a look at some APIs and see how they&#39;ve benefitted from our realtime data streaming such as BitcoinAverage.com, New York CitiBike, GitHub Events, The Guardian, and more.">
+      <link rel="canonical" href="https://streamdata.io/developers/api-gallery/">
+      <meta property="og:locale" content="en_US">
+      <meta property="og:type" content="article">
+      <meta property="og:title" content="API Gallery to evaluate API polling versus event-driven streaming">
+      <meta property="og:description" content="Have a look at some APIs and see how they&#39;ve benefitted from our realtime data streaming such as BitcoinAverage.com, New York CitiBike, GitHub Events, The Guardian, and more.">
+      <meta property="og:url" content="https://streamdata.io/developers/api-gallery/">
+      <meta property="og:site_name" content="Streamdata.io">
+      <meta name="twitter:card" content="summary_large_image">
+      <meta name="twitter:description" content="Have a look at some APIs and see how they&#39;ve benefitted from our realtime data streaming such as BitcoinAverage.com, New York CitiBike, GitHub Events, The Guardian, and more.">
+      <meta name="twitter:title" content="API Gallery to evaluate API polling versus event-driven streaming">
+      <script type="text/javascript" src="/market-data/streamdata-gallery-listing_files/pd.js"></script><script type="text/javascript" src="/market-data/streamdata-gallery-listing_files/pd.js"></script><script type="text/javascript" src="/market-data/streamdata-gallery-listing_files/sidebarv2.js"></script><script async="" src="/market-data/streamdata-gallery-listing_files/analytics.js"></script><script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/streamdata.io\/","name":"Streamdata.io","potentialAction":{"@type":"SearchAction","target":"https:\/\/streamdata.io\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+      <!-- / Yoast SEO plugin. -->
+      <link rel="dns-prefetch" href="https://s.w.org/">
+      <script type="text/javascript">
+         window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/streamdata.io\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.4"}};
+         !function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+      </script><script src="/market-data/streamdata-gallery-listing_files/wp-emoji-release.min.js" type="text/javascript" defer=""></script>
+      <style type="text/css">
+         img.wp-smiley,
+         img.emoji {
+         display: inline !important;
+         border: none !important;
+         box-shadow: none !important;
+         height: 1em !important;
+         width: 1em !important;
+         margin: 0 .07em !important;
+         vertical-align: -0.1em !important;
+         background: none !important;
+         padding: 0 !important;
+         }
+      </style>
+      <link rel="stylesheet" id="contact-form-7-css" href="/market-data/streamdata-gallery-listing_files/styles.css" type="text/css" media="all">
+      <script type="text/javascript" src="/market-data/streamdata-gallery-listing_files/jquery.js"></script>
+      <script type="text/javascript" src="/market-data/streamdata-gallery-listing_files/jquery-migrate.min.js"></script>
+      <script type="text/javascript">
+         /* <![CDATA[ */
+         var cssTarget = "img.style-svg";
+         var ForceInlineSVGActive = "false";
+         /* ]]> */
+      </script>
+      <script type="text/javascript" src="/market-data/streamdata-gallery-listing_files/svgs-inline-min.js"></script>
+      <link rel="https://api.w.org/" href="https://streamdata.io/wp-json/">
+      <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://streamdata.io/xmlrpc.php?rsd">
+      <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://streamdata.io/wp-includes/wlwmanifest.xml">
+      <meta name="generator" content="WordPress 4.9.4">
+      <link rel="shortlink" href="https://streamdata.io/?p=570">
+      <link rel="alternate" type="application/json+oembed" href="https://streamdata.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstreamdata.io%2Fdevelopers%2Fapi-gallery%2F">
+      <link rel="alternate" type="text/xml+oembed" href="https://streamdata.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstreamdata.io%2Fdevelopers%2Fapi-gallery%2F&amp;format=xml">
+      <!-- BEGIN GADWP v5.1.2.5 Universal Analytics - https://deconf.com/google-analytics-dashboard-wordpress/ -->
+      <script>
+         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+         	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+         	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+         })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+           ga('create', 'UA-57963322-1', 'auto');
+           ga('send', 'pageview');
+      </script>
+      <!-- END GADWP Universal Analytics -->
+      <style type="text/css">/* Chart.js */
+         @-webkit-keyframes chartjs-render-animation{from{opacity:0.99}to{opacity:1}}@keyframes chartjs-render-animation{from{opacity:0.99}to{opacity:1}}.chartjs-render-monitor{-webkit-animation:chartjs-render-animation 0.001s;animation:chartjs-render-animation 0.001s;}
+      </style>
+   </head>
    <body class="page  page--cover   page--top " style="background-image: url(&#39;https://streamdata.io/wp-content/uploads/2018/01/demos-background.png&#39;)" data-feedly-extension-follow-feed="1.0.3">
       <header class="header header--fixed header--notBottom header--pinned header--top">
          <div class="header__container">
@@ -88,7 +88,7 @@
                   <span class="header__hamburgerBar header__hamburgerBar--bottom"></span>
                </div>
             </a>
-            <a class="header__logo" href="https://streamdata.io/"><img src="https://streamdata.io/streamdata-gallery-listing_files/streamdata-logo.svg" alt="Streamdata.io Logo"></a>
+            <a class="header__logo" href="https://streamdata.io/"><img src="/market-data/streamdata-gallery-listing_files/streamdata-logo.svg" alt="Streamdata.io Logo"></a>
             <nav class="header__primaryNav">
                <ul class="header__primaryNavList">
                   <li class="header__primaryNavListItem">
@@ -178,19 +178,17 @@
       </header>
       <div class="shortMasthead  shortMasthead--extra-top-padding ">
          <div class="shortMasthead__container">
-
             <h1 class="shortMasthead__headline enterAnimation enterAnimation--active" data-enter-animation="">Streaming API performance gallery</h1>
             <h2 class="shortMasthead__subheadline enterAnimation enterAnimation--active" data-enter-animation=""></h2>
             <div class="shortMasthead__body enterAnimation enterAnimation--active" data-enter-animation="">
                <p style="text-align: center;"></p>
-               <p style="text-align: center;">&nbsp;<img class="aligncenter size-full wp-image-5347" src="https://streamdata.io/streamdata-gallery-listing_files/Streamdataio-API-Gallery.jpg" alt="" width="800" height="200"></p>
+               <p style="text-align: center;">&nbsp;<img class="aligncenter size-full wp-image-5347" src="/market-data/streamdata-gallery-listing_files/Streamdataio-API-Gallery.jpg" alt="" width="800" height="200"></p>
                <p style="text-align: center;">What can you expect from streaming compared to polling an API?</p>
                <p style="text-align: center;">We also asked ourselves this very same question, so we decided to perform tests on some APIs.<br>
                   You can discover more regarding what is possible with Streamdata.io below.
                </p>
                <p style="text-align: center;">Want us to test an API? Feel free to send it to us using the form at the bottom of the page.</p>
             </div>
-
          </div>
       </div>
       <section class="taggedLinkCards">
@@ -217,11 +215,10 @@
             </div>
          </section>
          <div class="taggedLinkCards__cards">
-
             <div class="taggedLinkCard taggedLinkCard--red" data-platform="html5">
                <div class="taggedLinkCard__container enterAnimation enterAnimation--active" data-enter-animation="">
                   <div class="taggedLinkCard__upper">
-                     <img src="https://streamdata.io/streamdata-gallery-listing_files/thegardian-250x153.jpg" class="taggedLinkCard__image" alt="">
+                     <img src="/market-data/streamdata-gallery-listing_files/thegardian-250x153.jpg" class="taggedLinkCard__image" alt="">
                   </div>
                   <div class="taggedLinkCard__lower">
                      <div class="taggedLinkCard__copy">
@@ -232,14 +229,209 @@
                   </div>
                </div>
             </div>
-
+            <div class="taggedLinkCard taggedLinkCard--red" data-platform="html5">
+               <div class="taggedLinkCard__container enterAnimation enterAnimation--active" data-enter-animation="">
+                  <div class="taggedLinkCard__upper">
+                     <img src="/market-data/streamdata-gallery-listing_files/Capture-d’écran-2018-02-05-à-11.11.48.png" class="taggedLinkCard__image" alt="">
+                  </div>
+                  <div class="taggedLinkCard__lower">
+                     <div class="taggedLinkCard__copy">
+                        <h3 class="taggedLinkCard__title">StackExchange Answers API</h3>
+                        <p class="taggedLinkCard__body">Get all answers to questions on one of the Stack Exchange sites, such as StackOverflow.</p>
+                     </div>
+                     <p><a href="https://streamdata.io/developers/api-gallery/stackexchange-answers-api">Learn more</a></p>
+                  </div>
+               </div>
+            </div>
+            <div class="taggedLinkCard taggedLinkCard--red" data-platform="html5">
+               <div class="taggedLinkCard__container enterAnimation enterAnimation--active" data-enter-animation="">
+                  <div class="taggedLinkCard__upper">
+                     <img src="/market-data/streamdata-gallery-listing_files/Capture-d’écran-2018-02-05-à-10.48.05.png" class="taggedLinkCard__image" alt="">
+                  </div>
+                  <div class="taggedLinkCard__lower">
+                     <div class="taggedLinkCard__copy">
+                        <h3 class="taggedLinkCard__title">Bay Area Bike Share API</h3>
+                        <p class="taggedLinkCard__body">Here you’ll find Bay Area Bike Share’s trip data for public use. So whether you’re a designer, developer, or just plain curious, feel free to download it and bring it to life!</p>
+                     </div>
+                     <p><a href="https://streamdata.io/developers/api-gallery/bay-area-bike-share-api">Learn more</a></p>
+                  </div>
+               </div>
+            </div>
+            <div class="taggedLinkCard taggedLinkCard--red" data-platform="html5">
+               <div class="taggedLinkCard__container enterAnimation" data-enter-animation="">
+                  <div class="taggedLinkCard__upper">
+                     <img src="/market-data/streamdata-gallery-listing_files/Capture-d’écran-2018-02-05-à-10.42.28.png" class="taggedLinkCard__image" alt="">
+                  </div>
+                  <div class="taggedLinkCard__lower">
+                     <div class="taggedLinkCard__copy">
+                        <h3 class="taggedLinkCard__title">New York CitiBike API</h3>
+                        <p class="taggedLinkCard__body">This is an API to get live informations (such as the available bikes, available docks, address…) for all the City Bike stations of New York.</p>
+                     </div>
+                     <p><a href="https://streamdata.io/developers/api-gallery/new-york-citibike-api">Learn more</a></p>
+                  </div>
+               </div>
+            </div>
+            <div class="taggedLinkCard taggedLinkCard--red" data-platform="html5">
+               <div class="taggedLinkCard__container enterAnimation" data-enter-animation="">
+                  <div class="taggedLinkCard__upper">
+                     <img src="/market-data/streamdata-gallery-listing_files/Capture-d’écran-2018-02-05-à-10.31.54.png" class="taggedLinkCard__image" alt="">
+                  </div>
+                  <div class="taggedLinkCard__lower">
+                     <div class="taggedLinkCard__copy">
+                        <h3 class="taggedLinkCard__title">City of Santa Monica Parking API</h3>
+                        <p class="taggedLinkCard__body">Represents information about public parking lots and structures, and the current number of available spaces.</p>
+                     </div>
+                     <p><a href="https://streamdata.io/developers/api-gallery/city-santa-monica-parking-api">Learn more</a></p>
+                  </div>
+               </div>
+            </div>
+            <div class="taggedLinkCard taggedLinkCard--red" data-platform="html5">
+               <div class="taggedLinkCard__container enterAnimation" data-enter-animation="">
+                  <div class="taggedLinkCard__upper">
+                     <img src="/market-data/streamdata-gallery-listing_files/Capture-d’écran-2018-02-05-à-10.25.25.png" class="taggedLinkCard__image" alt="">
+                  </div>
+                  <div class="taggedLinkCard__lower">
+                     <div class="taggedLinkCard__copy">
+                        <h3 class="taggedLinkCard__title">Parking availability in Grenoble (Fr) API</h3>
+                        <p class="taggedLinkCard__body">Grenoble area parkings availability in real time</p>
+                     </div>
+                     <p><a href="https://streamdata.io/developers/api-gallery/parking-availability-grenoble-fr-api">Learn more</a></p>
+                  </div>
+               </div>
+            </div>
+            <div class="taggedLinkCard taggedLinkCard--red" data-platform="html5">
+               <div class="taggedLinkCard__container enterAnimation" data-enter-animation="">
+                  <div class="taggedLinkCard__upper">
+                     <img src="/market-data/streamdata-gallery-listing_files/Capture-d’écran-2018-02-05-à-10.15.49.png" class="taggedLinkCard__image" alt="">
+                  </div>
+                  <div class="taggedLinkCard__lower">
+                     <div class="taggedLinkCard__copy">
+                        <h3 class="taggedLinkCard__title">Bay Area Rapid Transit API (BART)</h3>
+                        <p class="taggedLinkCard__body">This API retrieves different info on BART. In our example, it “returns Estimated Time of Departure (ETD) for the specified station.”.</p>
+                     </div>
+                     <p><a href="https://streamdata.io/developers/api-gallery/bay-area-rapid-transit-api-bart">Learn more</a></p>
+                  </div>
+               </div>
+            </div>
+            <div class="taggedLinkCard taggedLinkCard--red" data-platform="html5">
+               <div class="taggedLinkCard__container enterAnimation" data-enter-animation="">
+                  <div class="taggedLinkCard__upper">
+                     <img src="/market-data/streamdata-gallery-listing_files/metrola.jpg" class="taggedLinkCard__image" alt="">
+                  </div>
+                  <div class="taggedLinkCard__lower">
+                     <div class="taggedLinkCard__copy">
+                        <h3 class="taggedLinkCard__title">Los Angeles Metro API</h3>
+                        <p class="taggedLinkCard__body">Get all the Metro vehicles now running on a specific route.</p>
+                     </div>
+                     <p><a href="https://streamdata.io/developers/api-gallery/los-angeles-metro-api">Learn more</a></p>
+                  </div>
+               </div>
+            </div>
+            <div class="taggedLinkCard taggedLinkCard--red" data-platform="html5">
+               <div class="taggedLinkCard__container enterAnimation" data-enter-animation="">
+                  <div class="taggedLinkCard__upper">
+                     <img src="/market-data/streamdata-gallery-listing_files/TFLondon.png" class="taggedLinkCard__image" alt="">
+                  </div>
+                  <div class="taggedLinkCard__lower">
+                     <div class="taggedLinkCard__copy">
+                        <h3 class="taggedLinkCard__title">London Live Bus Arrivals API</h3>
+                        <p class="taggedLinkCard__body"></p>
+                     </div>
+                     <p><a href="https://streamdata.io/developers/api-gallery/london-live-bus-arrivals-api">Learn more</a></p>
+                  </div>
+               </div>
+            </div>
+            <div class="taggedLinkCard taggedLinkCard--red" data-platform="html5">
+               <div class="taggedLinkCard__container enterAnimation" data-enter-animation="">
+                  <div class="taggedLinkCard__upper">
+                     <img src="/market-data/streamdata-gallery-listing_files/Capture-d’écran-2018-02-05-à-09.47.36.png" class="taggedLinkCard__image" alt="">
+                  </div>
+                  <div class="taggedLinkCard__lower">
+                     <div class="taggedLinkCard__copy">
+                        <h3 class="taggedLinkCard__title">Realtime Dublin Bus Stop Information API</h3>
+                        <p class="taggedLinkCard__body">Get information on incoming buses for a given bus stop in Dublin in real time.</p>
+                     </div>
+                     <p><a href="https://streamdata.io/developers/api-gallery/realtime-dublin-bus-stop-information-api">Learn more</a></p>
+                  </div>
+               </div>
+            </div>
+            <div class="taggedLinkCard taggedLinkCard--red" data-platform="html5">
+               <div class="taggedLinkCard__container enterAnimation" data-enter-animation="">
+                  <div class="taggedLinkCard__upper">
+                     <img src="/market-data/streamdata-gallery-listing_files/SMTR-Rio.jpg" class="taggedLinkCard__image" alt="">
+                  </div>
+                  <div class="taggedLinkCard__lower">
+                     <div class="taggedLinkCard__copy">
+                        <h3 class="taggedLinkCard__title">Bus localization for the city of Rio de Janeiro API</h3>
+                        <p class="taggedLinkCard__body"></p>
+                     </div>
+                     <p><a href="https://streamdata.io/developers/api-gallery/bus-localization-city-rio-de-janeiro-api">Learn more</a></p>
+                  </div>
+               </div>
+            </div>
+            <div class="taggedLinkCard taggedLinkCard--red" data-platform="html5">
+               <div class="taggedLinkCard__container enterAnimation" data-enter-animation="">
+                  <div class="taggedLinkCard__upper">
+                     <img src="/market-data/streamdata-gallery-listing_files/itsfactory.jpg" class="taggedLinkCard__image" alt="">
+                  </div>
+                  <div class="taggedLinkCard__lower">
+                     <div class="taggedLinkCard__copy">
+                        <h3 class="taggedLinkCard__title">Realtime Tampere Bus Information API</h3>
+                        <p class="taggedLinkCard__body"></p>
+                     </div>
+                     <p><a href="https://streamdata.io/developers/api-gallery/realtime-tampere-bus-information-api">Learn more</a></p>
+                  </div>
+               </div>
+            </div>
+            <div class="taggedLinkCard taggedLinkCard--red" data-platform="html5">
+               <div class="taggedLinkCard__container enterAnimation" data-enter-animation="">
+                  <div class="taggedLinkCard__upper">
+                     <img src="/market-data/streamdata-gallery-listing_files/Capture-d’écran-2018-02-05-à-09.20.57.png" class="taggedLinkCard__image" alt="">
+                  </div>
+                  <div class="taggedLinkCard__lower">
+                     <div class="taggedLinkCard__copy">
+                        <h3 class="taggedLinkCard__title">Realtime Train Information at Helsinki station API</h3>
+                        <p class="taggedLinkCard__body">Open interface designed to share information about traveling to the Finnish rail network...</p>
+                     </div>
+                     <p><a href="https://streamdata.io/developers/api-gallery/realtime-train-information-helsinki-station-api">Learn more</a></p>
+                  </div>
+               </div>
+            </div>
+            <div class="taggedLinkCard taggedLinkCard--red" data-platform="html5">
+               <div class="taggedLinkCard__container enterAnimation" data-enter-animation="">
+                  <div class="taggedLinkCard__upper">
+                     <img src="/market-data/streamdata-gallery-listing_files/Capture-d’écran-2018-02-05-à-09.02.20.png" class="taggedLinkCard__image" alt="">
+                  </div>
+                  <div class="taggedLinkCard__lower">
+                     <div class="taggedLinkCard__copy">
+                        <h3 class="taggedLinkCard__title">Stocktwits API</h3>
+                        <p class="taggedLinkCard__body">The StockTwits API allows you to leverage the user base, social graph and content network that drive the StockTwits community...</p>
+                     </div>
+                     <p><a href="https://streamdata.io/developers/api-gallery/stocktwits-api">Learn more</a></p>
+                  </div>
+               </div>
+            </div>
+            <div class="taggedLinkCard taggedLinkCard--red" data-platform="html5">
+               <div class="taggedLinkCard__container enterAnimation" data-enter-animation="">
+                  <div class="taggedLinkCard__upper">
+                     <img src="/market-data/streamdata-gallery-listing_files/Capture-d’écran-2018-02-05-à-09.02.20-2.png" class="taggedLinkCard__image" alt="">
+                  </div>
+                  <div class="taggedLinkCard__lower">
+                     <div class="taggedLinkCard__copy">
+                        <h3 class="taggedLinkCard__title">StockTwits Streams Symbol Method API</h3>
+                        <p class="taggedLinkCard__body">The StockTwits API leverages the StockTwits community in order to enable your users access to access the StockTwits social graph...</p>
+                     </div>
+                     <p><a href="https://streamdata.io/developers/api-gallery/stocktwits-streams-symbol-method-api">Learn more</a></p>
+                  </div>
+               </div>
+            </div>
          </div>
       </section>
       <div class="submitApi__overflowContainer" data-submit-api="">
          <div class="submitApi submitApi--left-hand-image">
             <div class="submitApi__container">
                <div class="submitApi__imageContainer">
-                  <img class="submitApi__image" src="https://streamdata.io/streamdata-gallery-listing_files/iphone_submit.png" alt="">
+                  <img class="submitApi__image" src="/market-data/streamdata-gallery-listing_files/iphone_submit.png" alt="">
                </div>
                <div class="submitApi__formContainer">
                   <h2 class="submitApi__headline">Submit Your API</h2>
@@ -262,10 +454,8 @@
             </div>
          </div>
       </div>
-
       <footer class="footer">
          <div class="footer__container">
-
             <div class="footer__newsletter">
                <p class="footer__newsletterTitle">Sign up to our newsletter for news, updates, and Japanese emojis!</p>
                <form class="footer__newsletterForm" validate="" action="http://go.pardot.com/l/272652/2018-02-07/2fv23" method="POST">
@@ -277,9 +467,7 @@
                   </div>
                </form>
             </div>
-
             <h4 class="footer__title">Simpler data streaming for greater everything.</h4>
-
             <nav class="footer__primaryNav">
                <ul class="footer__primaryNavList">
                   <li class="footer__primaryNavListItem">
@@ -380,9 +568,8 @@
                   </li>
                </ul>
             </nav>
-
             <div class="footer__bottom">
-               <script type="text/javascript" src="https://streamdata.io/streamdata-gallery-listing_files/se-v2.js"></script>
+               <script type="text/javascript" src="/market-data/streamdata-gallery-listing_files/se-v2.js"></script>
                <span class="siteStatus" data-site-status="">
                   <svg class="siteStatus__icon">
                      <circle cx="6" cy="6" r="5" stroke="#417505" stroke-width="2" fill="#7ED321"></circle>
@@ -390,29 +577,48 @@
                   <a href="http://status.streamdata.io/"><span class="siteStatus__message status-none">All Systems Operational</span></a>
                </span>
                <span class="footer__social">
-               <a href="https://twitter.com/streamdataio" target="_blank"><img class="footer__socialItem" src="https://streamdata.io/streamdata-gallery-listing_files/share-bar-twitter.svg" title="Twitter" alt=""></a>
-               <a href="https://github.com/streamdataio" target="_blank"><img class="footer__socialItem" src="https://streamdata.io/streamdata-gallery-listing_files/share-bar-github.svg" title="GitHub" alt=""></a>
-               <a href="https://www.linkedin.com/company/streamdata-io" target="_blank"><img class="footer__socialItem" src="https://streamdata.io/streamdata-gallery-listing_files/share-bar-linkedIn.svg" title="LinkedIn" alt=""></a>
+               <a href="https://twitter.com/streamdataio" target="_blank"><img class="footer__socialItem" src="/market-data/streamdata-gallery-listing_files/share-bar-twitter.svg" title="Twitter" alt=""></a>
+               <a href="https://github.com/streamdataio" target="_blank"><img class="footer__socialItem" src="/market-data/streamdata-gallery-listing_files/share-bar-github.svg" title="GitHub" alt=""></a>
+               <a href="https://www.linkedin.com/company/streamdata-io" target="_blank"><img class="footer__socialItem" src="/market-data/streamdata-gallery-listing_files/share-bar-linkedIn.svg" title="LinkedIn" alt=""></a>
                </span>
             </div>
          </div>
-
          <div class="footer__sub">
             <div class="footer__subContainer">
-               <a class="footer__subLogo" href="https://streamdata.io/"><img src="https://streamdata.io/streamdata-gallery-listing_files/streamdata-logo-white.svg" alt="streamdata.io logo"></a>
+               <a class="footer__subLogo" href="https://streamdata.io/"><img src="/market-data/streamdata-gallery-listing_files/streamdata-logo-white.svg" alt="streamdata.io logo"></a>
                <p class="footer__subCopyright">
                   © 2018 Streamdata.io All rights reserved
                </p>
             </div>
          </div>
       </footer>
+      <script type="text/javascript">
+         <!--
+         piCId = '14306';
+         piAId = '273652';
 
-      <script type='text/javascript' src='https://streamdata.io/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0'></script>
-      <script type='text/javascript' src='https://streamdata.io/wp-includes/js/wp-embed.min.js?ver=4.9.4'></script>
+         piHostname = 'pi.pardot.com';
 
-        <script type="text/javascript" src="https://cdn.statuspage.io/se-v2.js"></script>
-        <script defer src='https://streamdata.io/dist/svgxuse.js'></script>
-        <script src='https://streamdata.io/dist/vendor.js'></script>
-        <script src='https://streamdata.io/dist/bundle.js'></script>
+         (function() {
+         	function async_load(){
+         		var s = document.createElement('script'); s.type = 'text/javascript';
+         		s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+         		var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+         	}
+         	if(window.attachEvent) { window.attachEvent('onload', async_load); }
+         	else { window.addEventListener('load', async_load, false); }
+         })();
+         -->
+      </script><script type="text/javascript">
+         /* <![CDATA[ */
+         var wpcf7 = {"apiSettings":{"root":"https:\/\/streamdata.io\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+         /* ]]> */
+      </script>
+      <script type="text/javascript" src="/market-data/streamdata-gallery-listing_files/scripts.js"></script>
+      <script type="text/javascript" src="/market-data/streamdata-gallery-listing_files/wp-embed.min.js"></script>
+      <script type="text/javascript" src="/market-data/streamdata-gallery-listing_files/se-v2.js"></script>
+      <script defer="" src="/market-data/streamdata-gallery-listing_files/svgxuse.js"></script>
+      <script src="/market-data/streamdata-gallery-listing_files/vendor.js"></script>
+      <script src="/market-data/streamdata-gallery-listing_files/bundle.js"></script>
    </body>
 </html>
