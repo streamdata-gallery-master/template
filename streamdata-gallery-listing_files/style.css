@@ -331,37 +331,37 @@ img{
     font-family:proxima;
     font-style:normal;
     font-weight:100;
-    src:url("/market-data/streamdata-gallery-listing_files/ProximaNova_Light.svg#proxima") format("svg"),url("/market-data/streamdata-gallery-listing_files/ProximaNova_Light.ttf") format("truetype"),url("/market-data/streamdata-gallery-listing_files/ProximaNova_Light.woff") format("woff")
+    src:url("/market-data/streamdata-gallery-listing_files/ProximaNova_Light.svg#proxima") format("svg"),url("/fonts/proxima/ProximaNova_Light.ttf") format("truetype"),url("/fonts/proxima/ProximaNova_Light.woff") format("woff")
 }
 @font-face{
     font-family:proxima;
     font-style:normal;
     font-weight:200;
-    src:url("/market-data/streamdata-gallery-listing_files/ProximaNova_Regular.svg#proxima") format("svg"),url("/market-data/streamdata-gallery-listing_files/ProximaNova_Regular.ttf") format("truetype"),url("/market-data/streamdata-gallery-listing_files/ProximaNova_Regular.woff") format("woff")
+    src:url("/fonts/proxima/ProximaNova_Regular.svg#proxima") format("svg"),url("/fonts/proxima/ProximaNova_Regular.ttf") format("truetype"),url("/fonts/proxima/ProximaNova_Regular.woff") format("woff")
 }
 @font-face{
     font-family:proxima;
     font-style:normal;
     font-weight:300;
-    src:url("/market-data/streamdata-gallery-listing_files/ProximaNova_Semibold.svg#proxima") format("svg"),url("/market-data/streamdata-gallery-listing_files/ProximaNova_Semibold.ttf") format("truetype"),url("/market-data/streamdata-gallery-listing_files/ProximaNova_Semibold.woff") format("woff")
+    src:url("/fonts/proxima/ProximaNova_Semibold.svg#proxima") format("svg"),url("/fonts/proxima/ProximaNova_Semibold.ttf") format("truetype"),url("/fonts/proxima/ProximaNova_Semibold.woff") format("woff")
 }
 @font-face{
     font-family:proxima;
     font-style:normal;
     font-weight:400;
-    src:url("/market-data/streamdata-gallery-listing_files/ProximaNova_Bold.svg#proxima") format("svg"),url("/market-data/streamdata-gallery-listing_files/ProximaNova_Bold.ttf") format("truetype"),url("/market-data/streamdata-gallery-listing_files/ProximaNova_Bold.woff") format("woff")
+    src:url("/fonts/proxima/ProximaNova_Bold.svg#proxima") format("svg"),url("/fonts/proxima/ProximaNova_Bold.ttf") format("truetype"),url("/fonts/proxima/ProximaNova_Bold.woff") format("woff")
 }
 @font-face{
     font-family:proxima;
     font-style:normal;
     font-weight:500;
-    src:url("/market-data/streamdata-gallery-listing_files/ProximaNova_ExtraBold.svg#proxima") format("svg"),url("/market-data/streamdata-gallery-listing_files/ProximaNova_ExtraBold.ttf") format("truetype"),url("/market-data/streamdata-gallery-listing_files/ProximaNova_ExtraBold.woff") format("woff")
+    src:url("/fonts/proxima/ProximaNova_ExtraBold.svg#proxima") format("svg"),url("/fonts/proxima/ProximaNova_ExtraBold.ttf") format("truetype"),url("/fonts/proxima/ProximaNova_ExtraBold.woff") format("woff")
 }
 @font-face{
     font-family:proxima;
     font-style:normal;
     font-weight:600;
-    src:url("/market-data/streamdata-gallery-listing_files/ProximaNova_Black.svg#proxima") format("svg"),url("/market-data/streamdata-gallery-listing_files/ProximaNova_Black.ttf") format("truetype"),url("/market-data/streamdata-gallery-listing_files/ProximaNova_Black.woff") format("woff")
+    src:url("/fonts/proxima/ProximaNova_Black.svg#proxima") format("svg"),url("/fonts/proxima/ProximaNova_Black.ttf") format("truetype"),url("/fonts/proxima/ProximaNova_Black.woff") format("woff")
 }
 .icon{
     display:inline-block;
