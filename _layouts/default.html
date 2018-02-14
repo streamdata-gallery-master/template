@@ -1,33 +1,17 @@
 <!DOCTYPE html>
-<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<html lang="en">
   {% include head.html %}
-  <body>
+  <body class="page  page--cover   page--top " style="background-image: url('/market-data/assets/demos-background.png')" data-feedly-extension-follow-feed="1.0.3">
 
-			<div id="wrapper">
-					<div id="main">
-						<div class="inner">
+  {% include header.html %}
+  {{ content }}
+  {% include footer.html %}
 
-              {% include header.html %}
-    	        {{ content }}
-              {% include footer.html %}
-
-            </div>
-          </div>
-
-          <div id="sidebar">
-          <div class="inner">
-
-            {% include sidebar_nav.html %}
-
-            {% include sidebar_partners.html %}
-
-            {% include sidebar_getintouch.html %}
-          </div>
-          </div>
-
-      </div>
-
-{% include footer_scripts.html %}
-
+  <script type="text/javascript" src="/market-data/assets/scripts.js"></script>
+  <script type="text/javascript" src="/market-data/assets/wp-embed.min.js"></script>
+  <script type="text/javascript" src="/market-data/assets/se-v2.js"></script>
+  <script defer="" src="/market-data/assets/svgxuse.js"></script>
+  <script src="/market-data/assets/vendor.js"></script>
+  <script src="/market-data/assets/bundle.js"></script>
 </body>
 </html>
