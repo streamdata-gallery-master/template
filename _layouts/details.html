@@ -4,7 +4,7 @@ layout: default
 
 {% assign slug = page.info.title | replace: ' ','-' | downcase %}
 
-{% for api in site %}
+{% for api in site.data %}
   HERE: {{ api }}<br />
 {% endfor %}
 
