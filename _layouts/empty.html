@@ -1,9 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-  {% include head.html %}
-  <body class="page  page--cover   page--top " style="background-image: url('/market-data/assets/demos-background.png')" data-feedly-extension-follow-feed="1.0.3">
+{% assign slug = page.info.title | replace: ' ','-' | downcase %}
 
-  {{ content }}
-
-</body>
-</html>
+{% for api in site.market_data %}
+  HERE1: {{ api }}<br />
+{% endfor %}
