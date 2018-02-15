@@ -25,9 +25,12 @@ github_repo: market-data
 github_branch: master
 
 collections:
-  design:
-    output: true
-    permalink: /design/:path/
   market_data:
     output: true
-    permalink: /market-data/:path/    
+    permalink: /market-data/:path/
+    defaults:
+      - scope:
+          path: ""
+          type: market_data
+        values:
+          layout: details
