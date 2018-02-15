@@ -1,1 +1,3 @@
-{{ site.market_data }}
+{% for item in site.market_data %}
+  {{ item }}<br /><br />
+{% endfor %}
