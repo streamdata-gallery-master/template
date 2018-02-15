@@ -4,6 +4,10 @@ layout: default
 
 {% assign slug = page.info.title | replace: ' ','-' | downcase %}
 
+{% for item in site.market_data %}
+  {{ item }}<br /><br />
+{% endfor %}
+
 <section class="APIDetailHeader  APIDetailHeader--extra-top-padding ">
    <div class="APIDetailHeader__container">
       <div class="APIDetailHeader__left">
