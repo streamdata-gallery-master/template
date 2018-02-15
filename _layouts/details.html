@@ -3,7 +3,8 @@ layout: default
 ---
 
 {% assign slug = page.info.title | replace: ' ','-' | downcase %}
-HERE: {{ site.market_data }}
+HERE: {{ site.market_data[slug] }}<br />
+
 <section class="APIDetailHeader  APIDetailHeader--extra-top-padding ">
    <div class="APIDetailHeader__container">
       <div class="APIDetailHeader__left">
