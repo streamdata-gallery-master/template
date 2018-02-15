@@ -28,3 +28,9 @@ collections:
   market_data:
     output: true
     permalink: /market-data/:path/
+
+defaults:
+  - scope:
+      type: market_data
+    values:
+      layout: details
