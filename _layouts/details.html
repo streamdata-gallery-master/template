@@ -2,4 +2,181 @@
 layout: default
 ---
 
-{{ page.name }}
+<section class="APIDetailHeader  APIDetailHeader--extra-top-padding ">
+   <div class="APIDetailHeader__container">
+      <div class="APIDetailHeader__left">
+         <img src="{{ api_image }}" alt="The Guardian API" class="APIDetailHeader__image">
+      </div>
+      <div class="APIDetailHeader__right">
+         <h1 class="APIDetailHeader__title">{{ page.api_name }}</h1>
+         <h2 class="APIDetailHeader__subtitle">{{ page.api_name }}</h2>
+         <div class="APIDetailHeader__dateContainer">
+            <p class="APIDetailHeader__dateCallout">Posted on:</p>
+            <p class="APIDetailHeader__date">Feb 5, 2018</p>
+         </div>
+      </div>
+   </div>
+</section>
+<section class="APIDetailStats">
+   <h2 class="APIDetailStats__title">Savings With Streamdata.io</h2>
+   <div class="APIDetailStats__row">
+      <div class="APIDetailStats__statContainer">
+         <p class="APIDetailStats__stat">62.20%</p>
+         <p class="APIDetailStats__copy">Client bandwidth savings</p>
+      </div>
+      <div class="APIDetailStats__statContainer">
+         <p class="APIDetailStats__stat">99.00%</p>
+         <p class="APIDetailStats__copy">Server bandwidth savings</p>
+      </div>
+      <div class="APIDetailStats__statContainer">
+         <p class="APIDetailStats__stat">91.00%</p>
+         <p class="APIDetailStats__copy">Server CPU savings</p>
+      </div>
+   </div>
+</section>
+<section class="APIDescription">
+   <div class="APIDesciption__container">
+      <h2 class="APIDescription__header">API Description</h2>
+      <div class="APIDescription__table">
+         <div class="APIDescription__tableHeader">
+            <p class="APIDescription__tableHeaderCopy">API</p>
+         </div>
+         <div class="APIDescription__tableBody">
+            <div class="APIDescription__tableBodyCopy">
+               <p>{{ page.api_name }}</p>
+            </div>
+         </div>
+      </div>
+      <div class="APIDescription__table">
+         <div class="APIDescription__tableHeader">
+            <p class="APIDescription__tableHeaderCopy">Provider</p>
+         </div>
+         <div class="APIDescription__tableBody">
+            <div class="APIDescription__tableBodyCopy">
+               <p>{{ page.api_name }}</p>
+            </div>
+         </div>
+      </div>
+      <div class="APIDescription__table">
+         <div class="APIDescription__tableHeader">
+            <p class="APIDescription__tableHeaderCopy">API decription</p>
+         </div>
+         <div class="APIDescription__tableBody">
+            <div class="APIDescription__tableBodyCopy">
+               <p>{{ page.api_description }}</p>
+            </div>
+         </div>
+      </div>
+      <div class="APIDescription__table">
+         <div class="APIDescription__tableHeader">
+            <p class="APIDescription__tableHeaderCopy">API URL</p>
+         </div>
+         <div class="APIDescription__tableBody">
+            <div class="APIDescription__tableBodyCopy">
+               <p><a href="http://content.guardianapis.com/search?api-key=test" target="_blank" rel="noopener">http://content.guardianapis.com/search?api-key=test</a></p>
+            </div>
+         </div>
+      </div>
+      <div class="APIDescription__table">
+         <div class="APIDescription__tableHeader">
+            <p class="APIDescription__tableHeaderCopy">ProgrammableWeb entry</p>
+         </div>
+         <div class="APIDescription__tableBody">
+            <div class="APIDescription__tableBodyCopy">
+               <p><a href="https://www.programmableweb.com/api/guardian" target="_blank" rel="noopener">https://www.programmableweb.com/api/guardian</a></p>
+            </div>
+         </div>
+      </div>
+      <p class="APIDescription__instructions">Curl command through streamdata.io</p>
+   </div>
+   <div class="APIDescription__browserWindow">
+      <div class="APIDescription__browserWindowTitlteBar">
+         <div class="APIDescription__browserWindowControls">
+            <svg class="APIDescrption__browserWindowControl APIDescrption__browserWindowClose">
+               <circle cx="6" cy="6" r="3" fill="#D0021B"></circle>
+            </svg>
+            <svg class="APIDescrption__browserWindowControl APIDescrption__browserWindowMinimize">
+               <circle cx="6" cy="6" r="3" fill="#F8E71C"></circle>
+            </svg>
+            <svg class="APIDescrption__browserWindowControl APIDescrption__browserWindowExpand">
+               <circle cx="6" cy="6" r="3" fill="#7ED321"></circle>
+            </svg>
+         </div>
+      </div>
+      <div class="APIDescrpition__browserWindowMain">
+         <p class="APIDescription__browserWindowMainCopy">
+            curl <span class="APIDescription__browserWindowCopyMainLink">"https://proxy.streamdata.io/http://content.guardianapis.com/search?api-key=test"</span>
+         </p>
+      </div>
+   </div>
+</section>
+<section class="APISpecs">
+   <div class="APISpecs__container">
+      <div class="APISpecs__column">
+         <h2 class="APISpecs__header">API Specifications</h2>
+         <div class="APISpecs__row">
+            <div class="APISpecs__rowHeader">
+               <div class="APISpecs__rowHeaderCopy">Average content length</div>
+            </div>
+            <div class="APISpecs__rowStats">
+               <div class="APISpecs__rowStatsCopy">
+                  <p><strong>5.38 Kb</strong></p>
+               </div>
+            </div>
+         </div>
+         <div class="APISpecs__row">
+            <div class="APISpecs__rowHeader">
+               <div class="APISpecs__rowHeaderCopy">Content update frequency</div>
+            </div>
+            <div class="APISpecs__rowStats">
+               <div class="APISpecs__rowStatsCopy">
+                  <p><strong>122 second(s)</strong></p>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="APISpecs__column">
+         <h2 class="APISpecs__header">Test Conditions</h2>
+         <div class="APISpecs__row">
+            <div class="APISpecs__rowHeader">
+               <div class="APISpecs__rowHeaderCopy">Date of test</div>
+            </div>
+            <div class="APISpecs__rowStats">
+               <div class="APISpecs__rowStatsCopy">
+                  <p><strong>02/17/17 11:35</strong></p>
+               </div>
+            </div>
+         </div>
+         <div class="APISpecs__row">
+            <div class="APISpecs__rowHeader">
+               <div class="APISpecs__rowHeaderCopy">Simultaneous users simulated</div>
+            </div>
+            <div class="APISpecs__rowStats">
+               <div class="APISpecs__rowStatsCopy">
+                  <p><strong>1000</strong></p>
+               </div>
+            </div>
+         </div>
+         <div class="APISpecs__row">
+            <div class="APISpecs__rowHeader">
+               <div class="APISpecs__rowHeaderCopy">Duration of test</div>
+            </div>
+            <div class="APISpecs__rowStats">
+               <div class="APISpecs__rowStatsCopy">
+                  <p><strong>2.42 minute(s)</strong></p>
+               </div>
+            </div>
+         </div>
+         <div class="APISpecs__row">
+            <div class="APISpecs__rowHeader">
+               <div class="APISpecs__rowHeaderCopy">Polling frequency used for test</div>
+            </div>
+            <div class="APISpecs__rowStats">
+               <div class="APISpecs__rowStatsCopy">
+                  <p><strong>60 second(s)</strong></p>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
