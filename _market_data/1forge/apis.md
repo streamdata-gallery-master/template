@@ -20,10 +20,8 @@ url: https://raw.githubusercontent.com/api-stack/market-data/master/_data/api-co
 specificationVersion: "0.14"
 apis:
   - name: 1Forge
-    description: Exchange Rate API, Currency Conversion API and Realtime Forex Quote
-      API
-    image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
-      Shot 2018-01-22 at 4.54.47 PM.png
+    description: Exchange Rate API, Currency Conversion API and Realtime Forex Quote API
+    image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen Shot 2018-01-22 at 4.54.47 PM.png
     humanURL: https://1forge.com
     baseURL: https://1forge.com
     tags:
@@ -56,7 +54,7 @@ x-common:
     url: https://1forge.com/forex-data-api/terms-of-use
   - type: x-website
     url: https://1forge.com
-include: []
+include:
 maintainers:
   - FN: Kin Lane
     x-twitter: apievangelist
