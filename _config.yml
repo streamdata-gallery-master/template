@@ -28,3 +28,6 @@ collections:
   design:
     output: true
     permalink: /design/:path/
+  market_data:
+    output: true
+    permalink: /market-data/:path/    
