@@ -1,41 +1,59 @@
 ---
-swagger: "2.0"
-info:
-  title: hello
-  description: 1Forge provides real-time quote data (bid &amp; ask) for 240+ pairs.
-    To see a full list of supported currency pairs, please see the full currency pair
-    list. At this time, we do not offer historical data, however, clients are more
-    than welcome to archive our quotes locally for internal use.
-  version: 1.0.0
-host: forex.1forge.com
-basePath: 1.0.3/
-schemes:
-- http
-produces:
-- application/json
-consumes:
-- application/json
-paths:
-  /market_status:
-    get:
-      summary: Market Status
-      description: Checks to see if a market is open or not
-      operationId: marketStatus
-      parameters:
-      - in: query
-        name: api_key
-        description: The api key
-        type: string
-        format: string
-      - in: query
-        name: format
-        description: The format to return
-        type: string
-        format: string
-      responses:
-        200:
-          description: OK
-      tags:
-      - Markets
-      - Status
-definitions: []
+name: 1Forge
+description: Exchange Rate API, Currency Conversion API and Realtime Forex Quote API. Serving realtime tick data for over 500 forex currency pairs and commodities.
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/1forge-logo.png
+x-kinRank: "8"
+x-alexaRank: "648546"
+tags:
+  - Technology
+  - SaaS
+  - REST
+  - Market Data
+  - Have API Key
+  - Forex Quote
+  - Currency Conversion
+created: "2018-02-11"
+modified: "2018-02-11"
+url: https://raw.githubusercontent.com/api-stack/market-data/master/_data/api-commons/1forge/apis.yaml
+specificationVersion: "0.14"
+apis:
+  - name: 1Forge
+    description: Exchange Rate API, Currency Conversion API and Realtime Forex Quote API
+    image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/1forge-logo.png
+    humanURL: https://1forge.com
+    baseURL: https://1forge.com
+    tags:
+      - Market Data
+    properties:
+      - type: x-openapi-spec
+        url: https://raw.githubusercontent.com/api-stack/market-data/master/_data/api-commons/1forge/1forge-openapi-spec.yaml
+x-common:
+  - type: x-code
+    url: https://1forge.com/forex-data-api/libraries
+  - type: x-documentation
+    url: https://1forge.com/forex-data-api/api-documentation
+  - type: x-email
+    url: contact@1forge.com
+  - type: x-embeddable
+    url: https://1forge.com/forex-data-api/widgets
+  - type: x-faq
+    url: https://1forge.com/forex-data-api/faq
+  - type: x-github
+    url: https://github.com/1Forge
+  - type: x-license-agreement
+    url: https://1forge.com/forex-data-api/license-agreement
+  - type: x-pricing
+    url: https://1forge.com/forex-data-api/pricing
+  - type: x-privacy-policy
+    url: https://1forge.com/privacy-policy
+  - type: x-selfservice-registration
+    url: https://1forge.com/register
+  - type: x-terms-of-service
+    url: https://1forge.com/forex-data-api/terms-of-use
+  - type: x-website
+    url: https://1forge.com
+include:
+maintainers:
+  - FN: Kin Lane
+    x-twitter: apievangelist
+    email: info@apievangelist.com
