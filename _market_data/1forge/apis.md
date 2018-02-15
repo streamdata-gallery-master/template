@@ -27,10 +27,10 @@ apis:
     humanURL: https://1forge.com
     baseURL: https://1forge.com
     tags:
-    - Market Data
+      - Market Data
     properties:
-    - type: x-openapi-spec
-      url: https://raw.githubusercontent.com/api-stack/market-data/master/_data/api-commons/1forge/1forge-openapi-spec.yaml
+      - type: x-openapi-spec
+        url: https://raw.githubusercontent.com/api-stack/market-data/master/_data/api-commons/1forge/1forge-openapi-spec.yaml
 x-common:
   - type: x-code
     url: https://1forge.com/forex-data-api/libraries
@@ -61,3 +61,4 @@ maintainers:
   - FN: Kin Lane
     x-twitter: apievangelist
     email: info@apievangelist.com
+---
