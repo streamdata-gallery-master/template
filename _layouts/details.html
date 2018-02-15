@@ -3,7 +3,10 @@ layout: default
 ---
 
 {% assign slug = page.info.title | replace: ' ','-' | downcase %}
-HERE: {{ site.market_data[slug] }}<br />
+
+{% for api in site.market_data %}
+  HERE: {{ api[0] }}<br />
+{% endfor %}
 
 <section class="APIDetailHeader  APIDetailHeader--extra-top-padding ">
    <div class="APIDetailHeader__container">
