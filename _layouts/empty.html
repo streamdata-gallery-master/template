@@ -1,7 +1,1 @@
-{% assign slug = page.info.title | replace: ' ','-' | downcase %}
-
-{% for api in site.market_data %}
-  HERE: {{ api }}<br />
-{% endfor %}
-
-OK2: {{ site.market_data.1forge.apis }}
+{{ site.market_data }}
