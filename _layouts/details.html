@@ -2,6 +2,10 @@
 layout: default
 ---
 
+{% assign slug = page.info.title | replace: ' ','-' | downcase %}
+slug: {{ slug }}<br />
+HERE: {{ site.market_data[slug] }}<br />
+
 <section class="APIDetailHeader  APIDetailHeader--extra-top-padding ">
    <div class="APIDetailHeader__container">
       <div class="APIDetailHeader__left">
@@ -9,7 +13,7 @@ layout: default
       </div>
       <div class="APIDetailHeader__right">
          <h1 class="APIDetailHeader__title">{{ page.info.title }}</h1>
-         <h2 class="APIDetailHeader__subtitle">{{ page.paths[0][0].summary }}</h2>
+         <h2 class="APIDetailHeader__subtitle">{{ page.info.description }}</h2>
          <div class="APIDetailHeader__dateContainer">
             <p class="APIDetailHeader__dateCallout">Posted on:</p>
             <p class="APIDetailHeader__date">Feb 5, 2018</p>
