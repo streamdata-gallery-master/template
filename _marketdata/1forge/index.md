@@ -1,3 +1,4 @@
+---
 layout: details
 name: 1Forge
 description: Exchange Rate API, Currency Conversion API and Realtime Forex Quote API.
