@@ -33,18 +33,23 @@ title: Streamdata.io API Gallery
      {% for item in site.market_data %}
        {% if item.swagger %}
          {% if item.swagger == "2.0" %}
-            name: {{ item.info.title }}<br />
-            {% assign api_slug = item.info.title | replace: ' ','-' | downcase %}
+
+           {% assign api_name = "" %}
+           {% assign api_description = "" %}
+           {% assign api_image = "" %}
+           {% assign api_json_url = "" %}
+           {% assign api_json_kin_rank = "" %}
+           {% assign api_json_alexa_rank = "" %}
+
             {% for entry in site.market_data %}
               {% if entry.name %}
                 {% if item.info.title == entry.name %}
-                  {% assign apis_json = entry %}
-                  {% assign api_name = apis_json.name %}
-                  {% assign api_description = apis_json.description %}
-                  {% assign api_image = apis_json.image %}
-                  {% assign api_json_url = apis_json.url %}
-                  {% assign api_json_kin_rank = apis_json.x-kinRank %}
-                  {% assign api_json_alexa_rank = apis_json.x-alexaRank %}
+                  {% assign api_name = entry.name %}
+                  {% assign api_description = entry.description %}
+                  {% assign api_image = entry.image %}
+                  {% assign api_json_url = entry.url %}
+                  {% assign api_json_kin_rank = entry.x-kinRank %}
+                  {% assign api_json_alexa_rank = entry.x-alexaRank %}
                 {% endif %}
               {% endif %}
             {% endfor %}
