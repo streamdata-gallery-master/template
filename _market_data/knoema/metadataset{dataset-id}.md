@@ -1,7 +1,7 @@
 ---
 swagger: "2.0"
 info:
-  title: Knoema API
+  title: Knoema
   description: You don&rsquo;t need to be a developer to get started. We made a number
     of useful platform features available as ready to use widgets. You can put a dashboard
     or presentation with any visualization/content you like and then embed it in your
