@@ -37,12 +37,11 @@ title: Streamdata.io API Gallery
          {% if item.swagger == "2.0" %}
 
             {% assign slug = item.info.title | replace: ' ','-' | downcase %}
-            {% for item in site.market_data %}
-              {% if item.name %}
-
-                check: {{ item.info.title }} == {{ item.name }}<br>
-                {% if item.info.title == item.name %}
-                  {% assign apis_json = item %}
+            {% for entry in site.market_data %}
+              {% if entry.name %}
+                check: {{ item.info.title }} == {{ entry.name }}<br>
+                {% if item.info.title == entry.name %}
+                  {% assign apis_json = entry %}
                   {% assign api_name = apis_json.name %}
                   {% assign api_description = apis_json.description %}
                   {% assign api_image = apis_json.image %}
