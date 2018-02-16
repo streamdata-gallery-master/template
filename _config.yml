@@ -33,4 +33,4 @@ defaults:
   - scope:
       type: market_data
     values:
-      layout: empty
+      layout: details
