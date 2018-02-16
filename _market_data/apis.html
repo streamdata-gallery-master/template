@@ -41,19 +41,16 @@ title: Streamdata.io API Gallery
          {% assign api_json_kin_rank = item.x-kinRank %}
          {% assign api_json_alexa_rank = item.x-alexaRank %}
 
-         <br />{{ api_name }}<br />
+         <br />API: {{ api_name }}<br />
 
        {% endif %}
 
        {% if item.swagger %}
-
          {% if item.swagger == "2.0" %}
 
-            OpenAPI<br />
-            {{ item.info.title }}<br />
+            OpenAPI: {{ item.info.title }}<br />
 
          {% endif %}
-
        {% endif %}
 
      {% endfor %}
