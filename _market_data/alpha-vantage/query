@@ -16,39 +16,18 @@ produces:
 consumes:
 - application/json
 paths:
-  /query?function=RSI:
+  /query?function=SECTOR:
     get:
-      summary: Relative Strength Index (RSI)
-      description: This API returns the relative strength index (RSI) values
-      operationId: getRelativeStrengthIndex
-      parameters:
-      - in: query
-        name: interval
-        description: Time interval between two consecutive data points in the time
-          series
-        type: string
-        format: string
-      - in: query
-        name: series_type
-        description: The desired price type in the time series
-        type: string
-        format: string
-      - in: query
-        name: symbol
-        description: The name of the equity of your choice
-        type: string
-        format: string
-      - in: query
-        name: time_period
-        description: Number of data points used to calculate each moving average value
-        type: string
-        format: string
+      summary: Sector Performance
+      description: This API returns the realtime and historical sector performances
+        calculated from S&P500 incumbents
+      operationId: getSectorPerformance
       responses:
         200:
           description: OK
       tags:
       - Market Data
-      - Relative Strength Index
-      - RSI
+      - Sector
+      - Performance
 definitions: []
 ---
