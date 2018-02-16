@@ -30,7 +30,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query?function=ad.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query-function-ad.md
 - name: Alpha Vantage
   description: Composed of a tight-knit community of researchers, engineers, and business
     professionals, Alpha Vantage Inc
@@ -42,7 +42,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query?function=adx.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query-function-adx.md
 - name: Alpha Vantage
   description: Composed of a tight-knit community of researchers, engineers, and business
     professionals, Alpha Vantage Inc
@@ -54,7 +54,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query?function=aroon.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query-function-aroon.md
 - name: Alpha Vantage
   description: Composed of a tight-knit community of researchers, engineers, and business
     professionals, Alpha Vantage Inc
@@ -66,7 +66,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query?function=batch-stock-quotes.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query-function-batch-stock-quotes.md
 - name: Alpha Vantage
   description: Composed of a tight-knit community of researchers, engineers, and business
     professionals, Alpha Vantage Inc
@@ -78,7 +78,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query?function=bbands.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query-function-bbands.md
 - name: Alpha Vantage
   description: Composed of a tight-knit community of researchers, engineers, and business
     professionals, Alpha Vantage Inc
@@ -90,7 +90,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query?function=cci.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query-function-cci.md
 - name: Alpha Vantage
   description: Composed of a tight-knit community of researchers, engineers, and business
     professionals, Alpha Vantage Inc
@@ -102,7 +102,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query?function=currency-exchange-rate.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query-function-currency-exchange-rate.md
 - name: Alpha Vantage
   description: Composed of a tight-knit community of researchers, engineers, and business
     professionals, Alpha Vantage Inc
@@ -114,7 +114,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query?function=digital-currency-daily.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query-function-digital-currency-daily.md
 - name: Alpha Vantage
   description: Composed of a tight-knit community of researchers, engineers, and business
     professionals, Alpha Vantage Inc
@@ -126,7 +126,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query?function=digital-currency-intraday.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query-function-digital-currency-intraday.md
 - name: Alpha Vantage
   description: Composed of a tight-knit community of researchers, engineers, and business
     professionals, Alpha Vantage Inc
@@ -138,7 +138,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query?function=digital-currency-monthly.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query-function-digital-currency-monthly.md
 - name: Alpha Vantage
   description: Composed of a tight-knit community of researchers, engineers, and business
     professionals, Alpha Vantage Inc
@@ -150,7 +150,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query?function=digital-currency-weekly.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query-function-digital-currency-weekly.md
 - name: Alpha Vantage
   description: Composed of a tight-knit community of researchers, engineers, and business
     professionals, Alpha Vantage Inc
@@ -162,7 +162,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query?function=ema.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query-function-ema.md
 - name: Alpha Vantage
   description: Composed of a tight-knit community of researchers, engineers, and business
     professionals, Alpha Vantage Inc
@@ -174,7 +174,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query?function=macd.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query-function-macd.md
 - name: Alpha Vantage
   description: Composed of a tight-knit community of researchers, engineers, and business
     professionals, Alpha Vantage Inc
@@ -186,7 +186,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query?function=obv.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query-function-obv.md
 - name: Alpha Vantage
   description: Composed of a tight-knit community of researchers, engineers, and business
     professionals, Alpha Vantage Inc
@@ -198,7 +198,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query?function=rsi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query-function-rsi.md
 - name: Alpha Vantage
   description: Composed of a tight-knit community of researchers, engineers, and business
     professionals, Alpha Vantage Inc
@@ -210,7 +210,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query?function=sector.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query-function-sector.md
 - name: Alpha Vantage
   description: Composed of a tight-knit community of researchers, engineers, and business
     professionals, Alpha Vantage Inc
@@ -222,7 +222,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query?function=sma.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query-function-sma.md
 - name: Alpha Vantage
   description: Composed of a tight-knit community of researchers, engineers, and business
     professionals, Alpha Vantage Inc
@@ -234,7 +234,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query?function=stoch.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query-function-stoch.md
 - name: Alpha Vantage
   description: Composed of a tight-knit community of researchers, engineers, and business
     professionals, Alpha Vantage Inc
@@ -246,7 +246,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query?function=time-series-daily.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query-function-time-series-daily.md
 - name: Alpha Vantage
   description: Composed of a tight-knit community of researchers, engineers, and business
     professionals, Alpha Vantage Inc
@@ -258,7 +258,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query?function=time-series-daily-adjusted.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query-function-time-series-daily-adjusted.md
 - name: Alpha Vantage
   description: Composed of a tight-knit community of researchers, engineers, and business
     professionals, Alpha Vantage Inc
@@ -270,7 +270,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query?function=time-series-intraday.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query-function-time-series-intraday.md
 - name: Alpha Vantage
   description: Composed of a tight-knit community of researchers, engineers, and business
     professionals, Alpha Vantage Inc
@@ -282,7 +282,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query?function=time-series-monthly.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query-function-time-series-monthly.md
 - name: Alpha Vantage
   description: Composed of a tight-knit community of researchers, engineers, and business
     professionals, Alpha Vantage Inc
@@ -294,7 +294,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query?function=time-series-monthly-adjusted.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query-function-time-series-monthly-adjusted.md
 - name: Alpha Vantage
   description: Composed of a tight-knit community of researchers, engineers, and business
     professionals, Alpha Vantage Inc
@@ -306,7 +306,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query?function=time-series-weekly.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/alpha-vantage/query-function-time-series-weekly.md
 x-common:
 - type: x-command-line-interface
   url: https://www.npmjs.com/package/alpha-vantage-cli
