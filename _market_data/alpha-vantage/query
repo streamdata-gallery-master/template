@@ -16,12 +16,11 @@ produces:
 consumes:
 - application/json
 paths:
-  /query?function=MACD:
+  /query?function=OBV:
     get:
-      summary: Moving Average Convergence / Divergence (MACD)
-      description: This API returns the moving average convergence / divergence (MACD)
-        values
-      operationId: getMovingAverageConvergenceDivergence
+      summary: Balance Volume (OBV)
+      description: This API returns the on balance volume (OBV) values
+      operationId: getBalanceVolume
       parameters:
       - in: query
         name: interval
@@ -30,18 +29,8 @@ paths:
         type: string
         format: string
       - in: query
-        name: series_type
-        description: The desired price type in the time series
-        type: string
-        format: string
-      - in: query
         name: symbol
         description: The name of the equity of your choice
-        type: string
-        format: string
-      - in: query
-        name: time_period
-        description: Number of data points used to calculate each moving average value
         type: string
         format: string
       responses:
@@ -49,7 +38,7 @@ paths:
           description: OK
       tags:
       - Market Data
-      - Moving Average Convergence
-      - MACD
+      - Balance Volume
+      - OBV
 definitions: []
 ---
