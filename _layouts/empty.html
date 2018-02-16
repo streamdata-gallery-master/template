@@ -3,7 +3,8 @@
 {% assign slug = page.info.title | replace: ' ','-' | downcase %}
 slug: {{ slug }}<br /><br />
 {% for item in site.market_data %}
+  checK: {{ slug }} == {{ item.name }}<br />
   {% if slug == item.name %}
-    {{ item[1] }}<br /><br />
+    show: {{ item[1] }}<br /><br />
   {% endif %}
 {% endfor %}
