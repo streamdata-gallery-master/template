@@ -3,5 +3,7 @@
 {% assign slug = page.info.title %}
 slug: {{ slug }}<br />
 {% for item in site.market_data %}
+  {% if item.name %}
   HERE: {{ item.name }}<br />
+  {% endif %}
 {% endfor %}
