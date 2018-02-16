@@ -14,6 +14,130 @@ layout: default
   {% endif %}
 {% endfor %}
 
+{% assign api_name = apis_json.name %}
+{% assign api_description = apis_json.description %}
+{% assign api_image = apis_json.image %}
+{% assign api_json_url = apis_json.url %}
+
+{% assign api_json_kin_rank = apis_json.x-kinRank %}
+{% assign api_json_alexa_rank = apis_json.x-alexaRank %}
+
+{% assign blog_url = '' %}
+{% assign blogrss_url = '' %}
+{% assign portal_url = '' %}
+{% assign gitub_url = '' %}
+{% assign twitter_url = '' %}
+{% assign website_url = '' %}
+{% assign getting_started_url = '' %}
+{% assign authentication_url = '' %}
+{% assign faq_url = '' %}
+{% assign login_url = '' %}
+{% assign signup_url = '' %}
+{% assign documentation_url = '' %}
+{% assign code_page_url = '' %}
+{% assign road_map_url = '' %}
+{% assign issue_url = '' %}
+{% assign change_log_url = '' %}
+{% assign status_dashboard_url = '' %}
+{% assign support_url = '' %}
+{% assign plan_url = '' %}
+{% assign rate_limit_url = '' %}
+{% assign terms_of_service_url = '' %}
+{% assign privacy_policy_url = '' %}
+
+{% for common in apis_json.x-common %}
+
+  {% if common.type == 'x-portal' %}
+   {% assign portal_url = common.url %}
+  {% endif %}
+
+  {% if common.type == 'x-website' %}
+   {% assign website_url = common.url %}
+  {% endif %}
+
+  {% if portal_url == '' %}
+   {% assign portal_url = website_url %}
+  {% endif %}
+
+  {% if common.type == 'x-getting-started' %}
+   {% assign getting_started_url = common.url %}
+  {% endif %}
+  {% if common.type == 'x-authentication-overview' %}
+   {% assign authentication_url = common.url %}
+  {% endif %}
+  {% if common.type == 'x-faq' %}
+   {% assign faq_url = common.url %}
+  {% endif %}
+
+  {% if common.type == 'x-login' %}
+   {% assign login_url = common.url %}
+  {% endif %}
+
+  {% if common.type == 'x-selfservice-registration' %}
+   {% assign signup_url = common.url %}
+  {% endif %}
+
+  {% if common.type == 'x-documentation' %}
+   {% assign documentation_url = common.url %}
+  {% endif %}
+
+  {% if common.type == 'x-code-page' %}
+   {% assign code_page_url = common.url %}
+  {% endif %}
+
+  {% if common.type == 'x-road-map' %}
+   {% assign road_map_url = common.url %}
+  {% endif %}
+  {% if common.type == 'x-issues' %}
+   {% assign issue_url = common.url %}
+  {% endif %}
+  {% if common.type == 'x-change-log' %}
+   {% assign change_log_url = common.url %}
+  {% endif %}
+  {% if common.type == 'x-status' %}
+   {% assign status_dashboard_url = common.url %}
+  {% endif %}
+
+  {% if common.type == 'x-support' %}
+   {% assign support_url = common.url %}
+  {% endif %}
+
+  {% if common.type == 'x-blog' %}
+   {% assign blog_url = common.url %}
+  {% endif %}
+
+  {% if common.type == 'x-blog-rss' %}
+   {% assign blogrss_url = common.url %}
+  {% endif %}
+
+  {% if common.type == 'x-twitter' %}
+   {% assign twitter_url = common.url %}
+  {% endif %}
+
+  {% if common.type == 'x-github' %}
+   {% assign gitub_url = common.url %}
+  {% endif %}
+
+  {% if common.type == 'x-signup' %}
+   {% assign gitub_url = common.url %}
+  {% endif %}
+
+  {% if common.type == 'x-dedicated-plans--pricing-page' %}
+   {% assign plan_url = common.url %}
+  {% endif %}
+  {% if common.type == 'x-rate-limit' %}
+   {% assign rate_limit_url = common.url %}
+  {% endif %}
+
+  {% if common.type == 'x-terms-of-service-page' %}
+   {% assign terms_of_service_url = common.url %}
+  {% endif %}
+  {% if common.type == 'x-privacy-policy-page' %}
+   {% assign privacy_policy_url = common.url %}
+  {% endif %}
+
+{% endfor %}
+
 {% for path in page.paths %}
   {% assign path = path[0] %}
   {% for method in path[1] %}
@@ -25,21 +149,14 @@ layout: default
   {% endfor %}
 {% endfor %}
 
-path: {{ path }}<br />
-verb: {{ verb }}<br />
-summary: {{ api_path_summary }}<br />
-desc: {{ api_path_description }}<br />
-param: {{ api_path_parameters }}<br />
-tags: {{ api_path_tags }}<br />
-
 <section class="APIDetailHeader  APIDetailHeader--extra-top-padding ">
    <div class="APIDetailHeader__container">
       <div class="APIDetailHeader__left">
          <img src="{{ apis_json.image }}" alt="{{ page.info.title }}" class="APIDetailHeader__image">
       </div>
       <div class="APIDetailHeader__right">
-         <h1 class="APIDetailHeader__title">{{ page.info.title }}</h1>
-         <h2 class="APIDetailHeader__subtitle">{{ page.info.description }}</h2>
+         <h1 class="APIDetailHeader__title">{{ api_name }} - {{ api_path_summary }}</h1>
+         <h2 class="APIDetailHeader__subtitle">{{ api_path_description }}</h2>
          <div class="APIDetailHeader__dateContainer">
             <p class="APIDetailHeader__dateCallout">Posted on:</p>
             <p class="APIDetailHeader__date">{{ apis_json.modified }}</p>
@@ -73,7 +190,7 @@ tags: {{ api_path_tags }}<br />
          </div>
          <div class="APIDescription__tableBody">
             <div class="APIDescription__tableBodyCopy">
-               <p>{{ page.info.title }}</p>
+               <p>{{ api_path_summary }}</p>
             </div>
          </div>
       </div>
@@ -93,7 +210,7 @@ tags: {{ api_path_tags }}<br />
          </div>
          <div class="APIDescription__tableBody">
             <div class="APIDescription__tableBodyCopy">
-               <p>{{ page.paths[0][0].description }}</p>
+               <p>{{ api_path_description }}</p>
             </div>
          </div>
       </div>
