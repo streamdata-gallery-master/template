@@ -16,11 +16,12 @@ produces:
 consumes:
 - application/json
 paths:
-  /query?function=EMA:
+  /query?function=MACD:
     get:
-      summary: 'Exponential Moving Average (EMA) '
-      description: 'This API returns the exponential moving average (EMA) '
-      operationId: getExponentialMovingAverage
+      summary: Moving Average Convergence / Divergence (MACD)
+      description: This API returns the moving average convergence / divergence (MACD)
+        values
+      operationId: getMovingAverageConvergenceDivergence
       parameters:
       - in: query
         name: interval
@@ -48,7 +49,7 @@ paths:
           description: OK
       tags:
       - Market Data
-      - Exponential Moving Average
-      - EMA
+      - Moving Average Convergence
+      - MACD
 definitions: []
 ---
