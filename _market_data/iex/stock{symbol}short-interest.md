@@ -18,7 +18,7 @@ consumes:
 paths:
   /stock/{symbol}/short-interest:
     get:
-      summary: IEX Short Interest List
+      summary: Short Interest List
       description: Refer to the Short Interest specification for further details
       operationId: iex-short-interest-list
       parameters:
