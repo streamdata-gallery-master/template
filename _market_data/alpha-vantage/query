@@ -16,12 +16,12 @@ produces:
 consumes:
 - application/json
 paths:
-  /query?function=DIGITAL_CURRENCY_INTRADAY:
+  /query?function=DIGITAL_CURRENCY_MONTHLY:
     get:
-      summary: Digital Currencies Intraday
-      description: This API returns the realtime intraday time series (in 5-minute
-        intervals) for any digital currency (e
-      operationId: getDigitalCurrenciesIntraday
+      summary: Digital Currencies Monthly
+      description: This API returns the monthly historical time series for a digital
+        currency (e
+      operationId: getDigitalCurrenciesMonthly
       parameters:
       - in: query
         name: market
@@ -39,7 +39,7 @@ paths:
       tags:
       - Market Data
       - Digital Currencies
-      - Intraday
+      - Monthly
       - Time Series
 definitions: []
 ---
