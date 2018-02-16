@@ -36,10 +36,10 @@ title: Streamdata.io API Gallery
        {% if item.swagger %}
          {% if item.swagger == "2.0" %}
 
-            {% assign slug = item.info.title %}
+            {% assign slug = item.info.title | replace: ' ','-' | downcase %}
             {% for item in site.market_data %}
               {% if item.name %}
-                {% if slug == item.name %}
+                {% if item.info.title == item.name %}
                   {% assign apis_json = item %}
                   {% assign api_name = apis_json.name %}
                   {% assign api_description = apis_json.description %}
@@ -72,7 +72,7 @@ title: Streamdata.io API Gallery
                         <h3 class="taggedLinkCard__title">{{ api_name }}<br />{{ api_path_summary }}</h3>
                         <p class="taggedLinkCard__body">{{ api_path_description }}</p>
                      </div>
-                     <p><a href="detail.html">Learn more</a></p>
+                     <p><a href="{{ slug }}/">Learn more</a></p>
                   </div>
                </div>
             </div>
