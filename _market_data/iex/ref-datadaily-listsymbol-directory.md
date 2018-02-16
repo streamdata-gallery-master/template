@@ -1,5 +1,5 @@
 ---
-  swagger: "2.0"
+swagger: "2.0"
 info:
   title: IEX Trading
   description: The IEX API is a set of services designed for developers and engineers.
