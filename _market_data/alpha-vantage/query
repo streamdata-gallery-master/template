@@ -16,14 +16,28 @@ produces:
 consumes:
 - application/json
 paths:
-  /query?function=TIME_SERIES_DAILY_ADJUSTED:
+  /query?function=TIME_SERIES_INTRADAY:
     get:
-      summary: Daily Time Series Adjusted
-      description: This API returns daily time series (date, daily open, daily high,
-        daily low, daily close, daily volume, daily adjusted close, and split/dividend
-        events) of the equity specified, covering up to 20 years of historical data
-      operationId: getDailyTimeSeriesAdjusted
+      summary: Intraday Time Series
+      description: This API returns intraday time series (timestamp, open, high, low,
+        close, volume) of the equity specified, updated realtime
+      operationId: getIntradayTimeSeries
       parameters:
+      - in: query
+        name: datatype
+        description: By default, datatype=json
+        type: string
+        format: string
+      - in: query
+        name: interval
+        description: The interval for series (1min, 5min, 15min, 30min, 60min)
+        type: string
+        format: string
+      - in: query
+        name: outputsize
+        description: By default, outputsize=compact
+        type: string
+        format: string
       - in: query
         name: symbol
         description: The stocker ticker symbol
