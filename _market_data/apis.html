@@ -39,6 +39,8 @@ title: Streamdata.io API Gallery
             {% assign slug = item.info.title | replace: ' ','-' | downcase %}
             {% for item in site.market_data %}
               {% if item.name %}
+
+                check: {{ item.info.title }} == {{ item.name }}<br>
                 {% if item.info.title == item.name %}
                   {% assign apis_json = item %}
                   {% assign api_name = apis_json.name %}
