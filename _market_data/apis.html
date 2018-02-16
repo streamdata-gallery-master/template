@@ -46,10 +46,14 @@ title: Streamdata.io API Gallery
 
        {% endif %}
 
-       {% if item.swagger = "2.0" %}
+       {% if item.swagger %}
 
-          OpenAPI<br />
-          {{ item.info.title }}<br />
+         {% if item.swagger = "2.0" %}
+
+            OpenAPI<br />
+            {{ item.info.title }}<br />
+
+         {% endif %}
 
        {% endif %}
 
