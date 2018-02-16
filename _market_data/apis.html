@@ -32,23 +32,25 @@ title: Streamdata.io API Gallery
    <div class="taggedLinkCards__cards">
 
      {% for item in site.market_data %}
-       {% if item.name %}
-
-         {% assign api_name = item.name %}
-         {% assign api_description = item.description %}
-         {% assign api_image = item.image %}
-         {% assign api_json_url = item.url %}
-         {% assign api_json_kin_rank = item.x-kinRank %}
-         {% assign api_json_alexa_rank = item.x-alexaRank %}
-
-         <br />API: {{ api_name }}<br />
-
-       {% endif %}
 
        {% if item.swagger %}
          {% if item.swagger == "2.0" %}
 
             OpenAPI: {{ item.info.title }}<br />
+            {% assign slug = page.info.title %}
+            {% for item in site.market_data %}
+              {% if item.name %}
+                {% if slug == item.name %}
+                  {% assign apis_json = item %}
+                  {% assign api_name = apis_json.name %}
+                  {% assign api_description = apis_json.description %}
+                  {% assign api_image = apis_json.image %}
+                  {% assign api_json_url = apis_json.url %}
+                  {% assign api_json_kin_rank = apis_json.x-kinRank %}
+                  {% assign api_json_alexa_rank = apis_json.x-alexaRank %}
+                {% endif %}
+              {% endif %}
+            {% endfor %}
 
             {% for path in item.paths %}
               {% assign path = path[0] %}
@@ -61,8 +63,20 @@ title: Streamdata.io API Gallery
               {% endfor %}
             {% endfor %}
 
-            api_path_summary: {{ api_path_summary }}<br />
-            api_path_description: {{ api_path_description }}<br />
+            <div class="taggedLinkCard taggedLinkCard--red" data-platform="html5">
+               <div class="taggedLinkCard__container enterAnimation enterAnimation--active" data-enter-animation="">
+                  <div class="taggedLinkCard__upper">
+                     <img src="{{ api_image }}" class="taggedLinkCard__image" alt="">
+                  </div>
+                  <div class="taggedLinkCard__lower">
+                     <div class="taggedLinkCard__copy">
+                        <h3 class="taggedLinkCard__title">{{ api_name }} - {{ api_path_summary }}</h3>
+                        <p class="taggedLinkCard__body">{{ api_path_description }}</p>
+                     </div>
+                     <p><a href="detail.html">Learn more</a></p>
+                  </div>
+               </div>
+            </div>
 
          {% endif %}
        {% endif %}
