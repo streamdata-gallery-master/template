@@ -16,14 +16,13 @@ produces:
 consumes:
 - application/json
 paths:
-  /query?function=TIME_SERIES_MONTHLY_ADJUSTED:
+  /query?function=TIME_SERIES_WEEKLY:
     get:
-      summary: Monthly Time Series Adjusted
-      description: This API returns monthly adjusted time series (last trading day
-        of each month, monthly open, monthly high, monthly low, monthly close, monthly
-        adjusted close, monthly volume, monthly dividend) of the equity specified,
-        covering up to 20 years of historical data
-      operationId: getMonthlyTimeSeriesAdjusted
+      summary: Weekly Time Series
+      description: This API returns weekly time series (last trading day of each week,
+        weekly open, weekly high, weekly low, weekly close, weekly volume) of the
+        equity specified, covering up to 20 years of historical data
+      operationId: getWeeklyTimeSeries
       parameters:
       - in: query
         name: symbol
