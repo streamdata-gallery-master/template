@@ -16,34 +16,27 @@ produces:
 consumes:
 - application/json
 paths:
-  /query?function=CCI:
+  /query?function=CURRENCY_EXCHANGE_RATE:
     get:
-      summary: 'Commodity Channel Index (CCI) '
-      description: This API returns the commodity channel index (CCI) values
-      operationId: getCommodityChannelIndex
+      summary: Currency Exchange Rates
+      description: Realtime currency exchange rates for physical and digital currencies
+      operationId: getCurrencyExchangeRates
       parameters:
       - in: query
-        name: interval
-        description: Time interval between two consecutive data points in the time
-          series
+        name: from_currency
+        description: The currency you would like to get the exchange rate for
         type: string
         format: string
       - in: query
-        name: symbol
-        description: The name of the equity of your choice
-        type: string
-        format: string
-      - in: query
-        name: time_period
-        description: Number of data points used to calculate each moving average value
+        name: to_currency
+        description: The destination currency for the exchange rate
         type: string
         format: string
       responses:
         200:
           description: OK
       tags:
-      - Market Data
-      - Commodity Channel Index
-      - CCI
+      - Currency
+      - ' Exchange Rates'
 definitions: []
 ---
