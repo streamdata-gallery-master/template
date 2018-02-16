@@ -16,21 +16,17 @@ produces:
 consumes:
 - application/json
 paths:
-  /query?function=STOCH:
+  /query?function=TIME_SERIES_DAILY:
     get:
-      summary: Stochastic Oscillator (STOCH)
-      description: This API returns the stochastic oscillator (STOCH) values
-      operationId: getStochasticOscillator
+      summary: Daily Time Series
+      description: This API returns daily time series (date, daily open, daily high,
+        daily low, daily close, daily volume) of the equity specified, covering up
+        to 20 years of historical data
+      operationId: getDailyTimeSeries
       parameters:
       - in: query
-        name: interval
-        description: Time interval between two consecutive data points in the time
-          series
-        type: string
-        format: string
-      - in: query
         name: symbol
-        description: The name of the equity of your choice
+        description: The stocker ticker symbol
         type: string
         format: string
       responses:
@@ -38,7 +34,6 @@ paths:
           description: OK
       tags:
       - Market Data
-      - Stochastic Oscillator
-      - STOCH
+      - ' Time Series'
 definitions: []
 ---
