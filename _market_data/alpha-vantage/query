@@ -16,11 +16,11 @@ produces:
 consumes:
 - application/json
 paths:
-  /query?function=ADX:
+  /query?function=AROON:
     get:
-      summary: Average Directional Movement Index (ADX)
-      description: This API returns the average directional movement index (ADX) values
-      operationId: getAverageDirectionalMovementIndex
+      summary: Aroon (AROON)
+      description: This API returns the Aroon (AROON) values
+      operationId: getArroon
       parameters:
       - in: query
         name: interval
@@ -43,7 +43,7 @@ paths:
           description: OK
       tags:
       - Market Data
-      - Average Directional Movement Index
-      - ADX
+      - Aroon
+      - AROON
 definitions: []
 ---
