@@ -16,11 +16,11 @@ produces:
 consumes:
 - application/json
 paths:
-  /query?function=OBV:
+  /query?function=RSI:
     get:
-      summary: Balance Volume (OBV)
-      description: This API returns the on balance volume (OBV) values
-      operationId: getBalanceVolume
+      summary: Relative Strength Index (RSI)
+      description: This API returns the relative strength index (RSI) values
+      operationId: getRelativeStrengthIndex
       parameters:
       - in: query
         name: interval
@@ -29,8 +29,18 @@ paths:
         type: string
         format: string
       - in: query
+        name: series_type
+        description: The desired price type in the time series
+        type: string
+        format: string
+      - in: query
         name: symbol
         description: The name of the equity of your choice
+        type: string
+        format: string
+      - in: query
+        name: time_period
+        description: Number of data points used to calculate each moving average value
         type: string
         format: string
       responses:
@@ -38,7 +48,7 @@ paths:
           description: OK
       tags:
       - Market Data
-      - Balance Volume
-      - OBV
+      - Relative Strength Index
+      - RSI
 definitions: []
 ---
