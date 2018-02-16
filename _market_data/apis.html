@@ -43,6 +43,7 @@ title: Streamdata.io API Gallery
 
             {% for entry in site.market_data %}
               {% if entry.name %}
+                check: {{ item.info.title }} == {{ entry.name }}<br />
                 {% if item.info.title == entry.name %}
                   {% assign api_name = entry.name %}
                   {% assign api_description = entry.description %}
