@@ -18,7 +18,7 @@ consumes:
 paths:
   /ref-data/daily-list/next-day-ex-date:
     get:
-      summary: IEX Next Day Ex Date
+      summary: Next Day Ex Date
       description: Refer to the Daily list specification for futher details
       operationId: iex-next-day-ex-date
       parameters:
