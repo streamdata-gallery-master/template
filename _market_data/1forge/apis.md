@@ -1,4 +1,4 @@
-name: 1Forge
+---name: 1Forge
 description: Exchange Rate API, Currency Conversion API and Realtime Forex Quote API.
   Serving realtime tick data for over 500 forex currency pairs and commodities.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
@@ -127,4 +127,4 @@ include: []
 maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
-  email: info@apievangelist.com
+  email: info@apievangelist.com---
