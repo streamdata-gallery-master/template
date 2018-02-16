@@ -30,16 +30,12 @@ title: Streamdata.io API Gallery
       </div>
    </section>
    <div class="taggedLinkCards__cards">
-
      {% for item in site.market_data %}
-
        {% if item.swagger %}
          {% if item.swagger == "2.0" %}
-
             {% assign slug = item.info.title | replace: ' ','-' | downcase %}
             {% for entry in site.market_data %}
               {% if entry.name %}
-                check: {{ item.info.title }} == {{ entry.name }}<br>
                 {% if item.info.title == entry.name %}
                   {% assign apis_json = entry %}
                   {% assign api_name = apis_json.name %}
@@ -51,7 +47,6 @@ title: Streamdata.io API Gallery
                 {% endif %}
               {% endif %}
             {% endfor %}
-
             {% for path in item.paths %}
               {% assign path = path[0] %}
               {% for method in path[1] %}
@@ -62,7 +57,6 @@ title: Streamdata.io API Gallery
                 {% assign api_path_tags = method[1].tags %}
               {% endfor %}
             {% endfor %}
-
             <div class="taggedLinkCard taggedLinkCard--red" data-platform="html5">
                <div class="taggedLinkCard__container enterAnimation enterAnimation--active" data-enter-animation="">
                   <div class="taggedLinkCard__upper">
@@ -70,19 +64,16 @@ title: Streamdata.io API Gallery
                   </div>
                   <div class="taggedLinkCard__lower">
                      <div class="taggedLinkCard__copy">
-                        <h3 class="taggedLinkCard__title">{{ api_name }}<br />{{ api_path_summary }}</h3>
+                        <h3 class="taggedLinkCard__title"><a href="{{ slug }}/">{{ api_name }}<br />{{ api_path_summary }}</a></h3>
                         <p class="taggedLinkCard__body">{{ api_path_description }}</p>
                      </div>
                      <p><a href="{{ slug }}/">Learn more</a></p>
                   </div>
                </div>
             </div>
-
          {% endif %}
        {% endif %}
-
      {% endfor %}
-
    </div>
 </section>
 <div class="submitApi__overflowContainer" data-submit-api="">
