@@ -16,13 +16,13 @@ produces:
 consumes:
 - application/json
 paths:
-  /query?function=TIME_SERIES_DAILY:
+  /query?function=TIME_SERIES_DAILY_ADJUSTED:
     get:
-      summary: Daily Time Series
+      summary: Daily Time Series Adjusted
       description: This API returns daily time series (date, daily open, daily high,
-        daily low, daily close, daily volume) of the equity specified, covering up
-        to 20 years of historical data
-      operationId: getDailyTimeSeries
+        daily low, daily close, daily volume, daily adjusted close, and split/dividend
+        events) of the equity specified, covering up to 20 years of historical data
+      operationId: getDailyTimeSeriesAdjusted
       parameters:
       - in: query
         name: symbol
