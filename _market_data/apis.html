@@ -36,8 +36,7 @@ title: Streamdata.io API Gallery
        {% if item.swagger %}
          {% if item.swagger == "2.0" %}
 
-            OpenAPI: {{ item.info.title }}<br />
-            {% assign slug = page.info.title %}
+            {% assign slug = item.info.title %}
             {% for item in site.market_data %}
               {% if item.name %}
                 {% if slug == item.name %}
@@ -70,7 +69,7 @@ title: Streamdata.io API Gallery
                   </div>
                   <div class="taggedLinkCard__lower">
                      <div class="taggedLinkCard__copy">
-                        <h3 class="taggedLinkCard__title">{{ api_name }} - {{ api_path_summary }}</h3>
+                        <h3 class="taggedLinkCard__title">{{ api_name }}<br />{{ api_path_summary }}</h3>
                         <p class="taggedLinkCard__body">{{ api_path_description }}</p>
                      </div>
                      <p><a href="detail.html">Learn more</a></p>
