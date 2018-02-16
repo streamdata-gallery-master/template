@@ -16,12 +16,12 @@ produces:
 consumes:
 - application/json
 paths:
-  /query?function=DIGITAL_CURRENCY_MONTHLY:
+  /query?function=DIGITAL_CURRENCY_WEEKLY:
     get:
-      summary: Digital Currencies Monthly
-      description: This API returns the monthly historical time series for a digital
+      summary: Digital Currencies Weekly
+      description: This API returns the weekly historical time series for a digital
         currency (e
-      operationId: getDigitalCurrenciesMonthly
+      operationId: getDigitalCurrenciesWeekly
       parameters:
       - in: query
         name: market
@@ -39,7 +39,7 @@ paths:
       tags:
       - Market Data
       - Digital Currencies
-      - Monthly
+      - Weekly
       - Time Series
 definitions: []
 ---
