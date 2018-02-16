@@ -1,17 +1,7 @@
 
-
 {% assign slug = page.info.title | replace: ' ','-' | downcase %}
 slug: {{ slug }}<br />
 <br />
-index: {{ site.market_data.1forge.index }}<br />
-<br />
 {% for item in site.market_data %}
-
-  {% assign this = item %}
-
-  this: {{ this }}<br />
-
-  {% if slug == item.name %}
-    {{ item }}<br /><br />
-  {% endif %}
+item: {{ item.name }}<br />
 {% endfor %}
