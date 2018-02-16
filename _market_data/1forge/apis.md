@@ -14,8 +14,8 @@ tags:
 - Have API Key
 - Forex Quote
 - Currency Conversion
-created: "2018-02-15"
-modified: "2018-02-15"
+created: "2018-02-16"
+modified: "2018-02-16"
 url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/1forge/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -30,7 +30,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/1forge/convert.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/1forge/-convert.md
 - name: 1Forge
   description: Exchange Rate API, Currency Conversion API and Realtime Forex Quote
     API
@@ -42,7 +42,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/1forge/market-status.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/1forge/-market-status.md
 - name: 1Forge
   description: Exchange Rate API, Currency Conversion API and Realtime Forex Quote
     API
@@ -54,7 +54,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/1forge/quota.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/1forge/-quota.md
 - name: 1Forge
   description: Exchange Rate API, Currency Conversion API and Realtime Forex Quote
     API
@@ -66,7 +66,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/1forge/quotes.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/1forge/-quotes.md
 - name: 1Forge
   description: Exchange Rate API, Currency Conversion API and Realtime Forex Quote
     API
@@ -78,7 +78,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/1forge/symbols.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/1forge/-symbols.md
 x-common:
 - type: x-code
   url: https://1forge.com/forex-data-api/libraries
