@@ -3,7 +3,8 @@
 {% assign slug = page.info.title | replace: ' ','-' | downcase %}
 slug: {{ slug }}<br />
 <br />
-
+index: {{ site.market_data.1forge.index }}<br />
+<br />
 {% for item in site.market_data %}
 
   Check: {{ slug }} == {{ item.name }}<br />
