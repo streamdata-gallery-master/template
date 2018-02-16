@@ -1,7 +1,7 @@
 ---
 swagger: "2.0"
 info:
-  title: Quandl API
+  title: Quandl
   description: The Quandl API
   version: 1.0.0
 host: www.quandl.com
