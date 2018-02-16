@@ -4,6 +4,8 @@
 slug: {{ slug }}<br />
 {% for item in site.market_data %}
   {% if item.name %}
-  HERE: {{ item.name }}<br />
+    {% if slug == item.name %}
+      HERE: {{ item.name }}<br />
+    {% endif %}
   {% endif %}
 {% endfor %}
