@@ -1,4 +1,5 @@
----  swagger: "2.0"
+---
+  swagger: "2.0"
 info:
   title: 1Forge
   description: 1Forge provides real-time quote data (bid &amp; ask) for 240+ pairs.
@@ -41,4 +42,5 @@ paths:
           description: OK
       tags:
       - Quotes
-definitions: []---
+definitions: []
+---
