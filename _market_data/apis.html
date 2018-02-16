@@ -31,32 +31,7 @@ title: Streamdata.io API Gallery
    </section>
    <div class="taggedLinkCards__cards">
 
-     {% for item in site.market_data %}
-       {% if item.name %}
-
-         {% assign api_name = item.name %}
-         {% assign api_description = item.description %}
-         {% assign api_image = item.image %}
-         {% assign api_json_url = item.url %}
-         {% assign api_json_kin_rank = item.x-kinRank %}
-         {% assign api_json_alexa_rank = item.x-alexaRank %}
-
-         <br />{{ api_name }}<br />
-
-       {% endif %}
-
-       {% if item.swagger %}
-
-         {% if item.swagger = "2.0" %}
-
-            OpenAPI<br />
-            {{ item.info.title }}<br />
-
-         {% endif %}
-
-       {% endif %}
-
-     {% endfor %}
+    
 
    </div>
 </section>
