@@ -5,6 +5,9 @@ slug: {{ slug }}<br />
 <br />
 
 {% for item in site.market_data %}
+
+  Check: {{ slug }} == {{ item.name }}<br />
+
   {% if slug == item.name %}
     {{ item }}<br /><br />
   {% endif %}
