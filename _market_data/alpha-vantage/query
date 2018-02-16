@@ -16,27 +16,30 @@ produces:
 consumes:
 - application/json
 paths:
-  /query?function=CURRENCY_EXCHANGE_RATE:
+  /query?function=DIGITAL_CURRENCY_DAILY:
     get:
-      summary: Currency Exchange Rates
-      description: Realtime currency exchange rates for physical and digital currencies
-      operationId: getCurrencyExchangeRates
+      summary: Digital Currencies Daily
+      description: This API returns the daily historical time series for a digital
+        currency (e
+      operationId: getDigitalCurrenciesDaily
       parameters:
       - in: query
-        name: from_currency
-        description: The currency you would like to get the exchange rate for
+        name: market
+        description: The exchange market of your choice
         type: string
         format: string
       - in: query
-        name: to_currency
-        description: The destination currency for the exchange rate
+        name: symbol
+        description: The digital/crypto currency of your choice
         type: string
         format: string
       responses:
         200:
           description: OK
       tags:
-      - Currency
-      - ' Exchange Rates'
+      - Market Data
+      - Digital Currencies
+      - Daily
+      - Time Series
 definitions: []
 ---
