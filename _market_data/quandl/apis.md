@@ -46,7 +46,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/quandl/databases{database-code}.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/quandl/databases-database-code-.md
 - name: Quandl API
   description: Quandl delivers financial data to users in the format they want
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11440-quandl.jpg
@@ -56,7 +56,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/quandl/databases{database-code}codes.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/quandl/databases-database-code-codes.md
 - name: Quandl API
   description: Quandl delivers financial data to users in the format they want
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11440-quandl.jpg
@@ -66,7 +66,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/quandl/databases{database-code}data.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/quandl/databases-database-code-data.md
 - name: Quandl API
   description: Quandl delivers financial data to users in the format they want
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11440-quandl.jpg
@@ -86,7 +86,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/quandl/datasets{database-code}{dataset-code}.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/quandl/datasets-database-code--dataset-code-.md
 - name: Quandl API
   description: Quandl delivers financial data to users in the format they want
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11440-quandl.jpg
@@ -96,7 +96,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/quandl/datasets{database-code}{dataset-code}data.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/quandl/datasets-database-code--dataset-code-data.md
 - name: Quandl API
   description: Quandl delivers financial data to users in the format they want
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11440-quandl.jpg
@@ -106,7 +106,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/quandl/datasets{database-code}{dataset-code}metadata.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/quandl/datasets-database-code--dataset-code-metadata.md
 x-common:
 - type: x-authentication
   url: https://docs.quandl.com/docs#section-authentication
