@@ -16,16 +16,31 @@ produces:
 consumes:
 - application/json
 paths:
-  /query?function=BATCH_STOCK_QUOTES:
+  /query?function=BBANDS:
     get:
-      summary: Batch Stock Quotes
-      description: The batch stock quotes API enables the querying of multiple stock
-        quotes with a single API request, updated realtime
-      operationId: getBatchStockQuotes
+      summary: Bollinger bands (BBANDS)
+      description: This API returns the Bollinger bands (BBANDS) values
+      operationId: getbollingerBands
       parameters:
       - in: query
-        name: symbols
-        description: Up to 100 stock symbols seperated by comma
+        name: interval
+        description: Time interval between two consecutive data points in the time
+          series
+        type: string
+        format: string
+      - in: query
+        name: series_type
+        description: The desired price type in the time series
+        type: string
+        format: string
+      - in: query
+        name: symbol
+        description: The name of the equity of your choice
+        type: string
+        format: string
+      - in: query
+        name: time_period
+        description: Number of data points used to calculate each moving average value
         type: string
         format: string
       responses:
@@ -33,7 +48,7 @@ paths:
           description: OK
       tags:
       - Market Data
-      - Time Series
-      - ' Stock Quotes'
+      - Bollinger bands
+      - BBANDS
 definitions: []
 ---
