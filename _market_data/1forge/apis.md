@@ -43,7 +43,7 @@ apis:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/1forge/convert.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/1forge/market_status.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/1forge/market-status.md
 - name: 1Forge
   description: Exchange Rate API, Currency Conversion API and Realtime Forex Quote
     API
@@ -57,7 +57,7 @@ apis:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/1forge/convert.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/1forge/market_status.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/1forge/market-status.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/1forge/quota.md
 - name: 1Forge
@@ -73,7 +73,7 @@ apis:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/1forge/convert.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/1forge/market_status.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/1forge/market-status.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/1forge/quota.md
   - type: x-openapi-spec
@@ -91,7 +91,7 @@ apis:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/1forge/convert.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/1forge/market_status.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/1forge/market-status.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/1forge/quota.md
   - type: x-openapi-spec
