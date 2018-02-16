@@ -16,21 +16,31 @@ produces:
 consumes:
 - application/json
 paths:
-  /query?function=DIGITAL_CURRENCY_WEEKLY:
+  /query?function=EMA:
     get:
-      summary: Digital Currencies Weekly
-      description: This API returns the weekly historical time series for a digital
-        currency (e
-      operationId: getDigitalCurrenciesWeekly
+      summary: 'Exponential Moving Average (EMA) '
+      description: 'This API returns the exponential moving average (EMA) '
+      operationId: getExponentialMovingAverage
       parameters:
       - in: query
-        name: market
-        description: The exchange market of your choice
+        name: interval
+        description: Time interval between two consecutive data points in the time
+          series
+        type: string
+        format: string
+      - in: query
+        name: series_type
+        description: The desired price type in the time series
         type: string
         format: string
       - in: query
         name: symbol
-        description: The digital/crypto currency of your choice
+        description: The name of the equity of your choice
+        type: string
+        format: string
+      - in: query
+        name: time_period
+        description: Number of data points used to calculate each moving average value
         type: string
         format: string
       responses:
@@ -38,8 +48,7 @@ paths:
           description: OK
       tags:
       - Market Data
-      - Digital Currencies
-      - Weekly
-      - Time Series
+      - Exponential Moving Average
+      - EMA
 definitions: []
 ---
