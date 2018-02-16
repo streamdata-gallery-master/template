@@ -1,7 +1,7 @@
 ---
 swagger: "2.0"
 info:
-  title: Intrinio API
+  title: Intrinio
   description: Through our Intrinio Data Marketplace, we offer a wide selection of
     financial data feeds sourced by our own proprietary processes as well as from
     many data vendors. The primary application of the Intrinio API is for use in third-party
