@@ -16,21 +16,16 @@ produces:
 consumes:
 - application/json
 paths:
-  /query?function=BBANDS:
+  /query?function=CCI:
     get:
-      summary: Bollinger bands (BBANDS)
-      description: This API returns the Bollinger bands (BBANDS) values
-      operationId: getbollingerBands
+      summary: 'Commodity Channel Index (CCI) '
+      description: This API returns the commodity channel index (CCI) values
+      operationId: getCommodityChannelIndex
       parameters:
       - in: query
         name: interval
         description: Time interval between two consecutive data points in the time
           series
-        type: string
-        format: string
-      - in: query
-        name: series_type
-        description: The desired price type in the time series
         type: string
         format: string
       - in: query
@@ -48,7 +43,7 @@ paths:
           description: OK
       tags:
       - Market Data
-      - Bollinger bands
-      - BBANDS
+      - Commodity Channel Index
+      - CCI
 definitions: []
 ---
