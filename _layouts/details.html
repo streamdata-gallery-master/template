@@ -14,7 +14,9 @@ layout: default
   {% endif %}
 {% endfor %}
 
-HERE4: {{ page.paths[0] }}<br>
+{% for path in path.paths %}
+  path: {{ path }}<br />
+{% endfor %}
 
 <section class="APIDetailHeader  APIDetailHeader--extra-top-padding ">
    <div class="APIDetailHeader__container">
