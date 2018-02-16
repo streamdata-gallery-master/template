@@ -16,26 +16,16 @@ produces:
 consumes:
 - application/json
 paths:
-  /query?function=AROON:
+  /query?function=BATCH_STOCK_QUOTES:
     get:
-      summary: Aroon (AROON)
-      description: This API returns the Aroon (AROON) values
-      operationId: getArroon
+      summary: Batch Stock Quotes
+      description: The batch stock quotes API enables the querying of multiple stock
+        quotes with a single API request, updated realtime
+      operationId: getBatchStockQuotes
       parameters:
       - in: query
-        name: interval
-        description: Time interval between two consecutive data points in the time
-          series
-        type: string
-        format: string
-      - in: query
-        name: symbol
-        description: The name of the equity of your choice
-        type: string
-        format: string
-      - in: query
-        name: time_period
-        description: Number of data points used to calculate each moving average value
+        name: symbols
+        description: Up to 100 stock symbols seperated by comma
         type: string
         format: string
       responses:
@@ -43,7 +33,7 @@ paths:
           description: OK
       tags:
       - Market Data
-      - Aroon
-      - AROON
+      - Time Series
+      - ' Stock Quotes'
 definitions: []
 ---
