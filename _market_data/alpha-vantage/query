@@ -16,11 +16,11 @@ produces:
 consumes:
 - application/json
 paths:
-  /query?function=SMA:
+  /query?function=STOCH:
     get:
-      summary: Simple Moving Average (SMA)
-      description: This API returns the simple moving average (SMA) values
-      operationId: getSimpleMovingAverage
+      summary: Stochastic Oscillator (STOCH)
+      description: This API returns the stochastic oscillator (STOCH) values
+      operationId: getStochasticOscillator
       parameters:
       - in: query
         name: interval
@@ -29,18 +29,8 @@ paths:
         type: string
         format: string
       - in: query
-        name: series_type
-        description: The desired price type in the time series
-        type: string
-        format: string
-      - in: query
         name: symbol
         description: The name of the equity of your choice
-        type: string
-        format: string
-      - in: query
-        name: time_period
-        description: Number of data points used to calculate each moving average value
         type: string
         format: string
       responses:
@@ -48,7 +38,7 @@ paths:
           description: OK
       tags:
       - Market Data
-      - Simple Moving Average
-      - SMA
+      - Stochastic Oscillator
+      - STOCH
 definitions: []
 ---
