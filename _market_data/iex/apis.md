@@ -34,8 +34,6 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepauction.md
-  - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepbook.md
 - name: IEX Trading API
   description: IEX, the Investors Exchange, is a fair, simple and transparent stock
@@ -47,10 +45,6 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepauction.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepbook.md
-  - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepop-halt-status.md
 - name: IEX Trading API
   description: IEX, the Investors Exchange, is a fair, simple and transparent stock
@@ -61,12 +55,6 @@ apis:
   tags:
   - Gallery
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepauction.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepbook.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepop-halt-status.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepsecurity-event.md
 - name: IEX Trading API
@@ -78,14 +66,6 @@ apis:
   tags:
   - Gallery
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepauction.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepbook.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepop-halt-status.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepsecurity-event.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepsystem-event.md
 - name: IEX Trading API
@@ -97,16 +77,6 @@ apis:
   tags:
   - Gallery
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepauction.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepbook.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepop-halt-status.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepsecurity-event.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepsystem-event.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/hist.md
 - name: IEX Trading API
@@ -118,18 +88,6 @@ apis:
   tags:
   - Gallery
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepauction.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepbook.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepop-halt-status.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepsecurity-event.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepsystem-event.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/hist.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/market.md
 - name: IEX Trading API
@@ -141,20 +99,6 @@ apis:
   tags:
   - Gallery
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepauction.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepbook.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepop-halt-status.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepsecurity-event.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepsystem-event.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/hist.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/market.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/ref-datadaily-listnext-day-ex-date.md
 - name: IEX Trading API
@@ -166,22 +110,6 @@ apis:
   tags:
   - Gallery
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepauction.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepbook.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepop-halt-status.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepsecurity-event.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepsystem-event.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/hist.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/market.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/ref-datadaily-listnext-day-ex-date.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/ref-datadaily-listsymbol-directory.md
 - name: IEX Trading API
@@ -193,24 +121,6 @@ apis:
   tags:
   - Gallery
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepauction.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepbook.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepop-halt-status.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepsecurity-event.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepsystem-event.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/hist.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/market.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/ref-datadaily-listnext-day-ex-date.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/ref-datadaily-listsymbol-directory.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/statshistorical.md
 - name: IEX Trading API
@@ -222,26 +132,6 @@ apis:
   tags:
   - Gallery
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepauction.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepbook.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepop-halt-status.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepsecurity-event.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepsystem-event.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/hist.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/market.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/ref-datadaily-listnext-day-ex-date.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/ref-datadaily-listsymbol-directory.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/statshistorical.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/statsrecent.md
 - name: IEX Trading API
@@ -253,28 +143,6 @@ apis:
   tags:
   - Gallery
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepauction.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepbook.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepop-halt-status.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepsecurity-event.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepsystem-event.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/hist.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/market.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/ref-datadaily-listnext-day-ex-date.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/ref-datadaily-listsymbol-directory.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/statshistorical.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/statsrecent.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stockmarketbatch.md
 - name: IEX Trading API
@@ -286,30 +154,6 @@ apis:
   tags:
   - Gallery
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepauction.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepbook.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepop-halt-status.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepsecurity-event.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepsystem-event.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/hist.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/market.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/ref-datadaily-listnext-day-ex-date.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/ref-datadaily-listsymbol-directory.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/statshistorical.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/statsrecent.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stockmarketbatch.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}chart{range}.md
 - name: IEX Trading API
@@ -321,32 +165,6 @@ apis:
   tags:
   - Gallery
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepauction.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepbook.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepop-halt-status.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepsecurity-event.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepsystem-event.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/hist.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/market.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/ref-datadaily-listnext-day-ex-date.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/ref-datadaily-listsymbol-directory.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/statshistorical.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/statsrecent.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stockmarketbatch.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}chart{range}.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}delayed-quote.md
 - name: IEX Trading API
@@ -358,34 +176,6 @@ apis:
   tags:
   - Gallery
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepauction.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepbook.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepop-halt-status.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepsecurity-event.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepsystem-event.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/hist.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/market.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/ref-datadaily-listnext-day-ex-date.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/ref-datadaily-listsymbol-directory.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/statshistorical.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/statsrecent.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stockmarketbatch.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}chart{range}.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}delayed-quote.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}earnings.md
 - name: IEX Trading API
@@ -397,36 +187,6 @@ apis:
   tags:
   - Gallery
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepauction.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepbook.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepop-halt-status.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepsecurity-event.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepsystem-event.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/hist.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/market.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/ref-datadaily-listnext-day-ex-date.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/ref-datadaily-listsymbol-directory.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/statshistorical.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/statsrecent.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stockmarketbatch.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}chart{range}.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}delayed-quote.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}earnings.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}financials.md
 - name: IEX Trading API
@@ -438,38 +198,6 @@ apis:
   tags:
   - Gallery
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepauction.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepbook.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepop-halt-status.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepsecurity-event.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepsystem-event.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/hist.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/market.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/ref-datadaily-listnext-day-ex-date.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/ref-datadaily-listsymbol-directory.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/statshistorical.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/statsrecent.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stockmarketbatch.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}chart{range}.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}delayed-quote.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}earnings.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}financials.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}list.md
 - name: IEX Trading API
@@ -481,40 +209,6 @@ apis:
   tags:
   - Gallery
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepauction.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepbook.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepop-halt-status.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepsecurity-event.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepsystem-event.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/hist.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/market.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/ref-datadaily-listnext-day-ex-date.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/ref-datadaily-listsymbol-directory.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/statshistorical.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/statsrecent.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stockmarketbatch.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}chart{range}.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}delayed-quote.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}earnings.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}financials.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}list.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}newslast{range}.md
 - name: IEX Trading API
@@ -526,42 +220,6 @@ apis:
   tags:
   - Gallery
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepauction.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepbook.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepop-halt-status.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepsecurity-event.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepsystem-event.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/hist.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/market.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/ref-datadaily-listnext-day-ex-date.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/ref-datadaily-listsymbol-directory.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/statshistorical.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/statsrecent.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stockmarketbatch.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}chart{range}.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}delayed-quote.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}earnings.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}financials.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}list.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}newslast{range}.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}previous.md
 - name: IEX Trading API
@@ -573,44 +231,6 @@ apis:
   tags:
   - Gallery
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepauction.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepbook.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepop-halt-status.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepsecurity-event.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepsystem-event.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/hist.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/market.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/ref-datadaily-listnext-day-ex-date.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/ref-datadaily-listsymbol-directory.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/statshistorical.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/statsrecent.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stockmarketbatch.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}chart{range}.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}delayed-quote.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}earnings.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}financials.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}list.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}newslast{range}.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}previous.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}quote.md
 - name: IEX Trading API
@@ -622,46 +242,6 @@ apis:
   tags:
   - Gallery
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepauction.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepbook.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepop-halt-status.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepsecurity-event.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepsystem-event.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/hist.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/market.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/ref-datadaily-listnext-day-ex-date.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/ref-datadaily-listsymbol-directory.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/statshistorical.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/statsrecent.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stockmarketbatch.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}chart{range}.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}delayed-quote.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}earnings.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}financials.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}list.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}newslast{range}.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}previous.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}quote.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}short-interest.md
 - name: IEX Trading API
@@ -673,48 +253,6 @@ apis:
   tags:
   - Gallery
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepauction.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepbook.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepop-halt-status.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepsecurity-event.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepsystem-event.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/hist.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/market.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/ref-datadaily-listnext-day-ex-date.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/ref-datadaily-listsymbol-directory.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/statshistorical.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/statsrecent.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stockmarketbatch.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}chart{range}.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}delayed-quote.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}earnings.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}financials.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}list.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}newslast{range}.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}previous.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}quote.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}short-interest.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}splits{range}.md
 - name: IEX Trading API
@@ -726,50 +264,6 @@ apis:
   tags:
   - Gallery
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepauction.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepbook.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepop-halt-status.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepsecurity-event.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/deepsystem-event.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/hist.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/market.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/ref-datadaily-listnext-day-ex-date.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/ref-datadaily-listsymbol-directory.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/statshistorical.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/statsrecent.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stockmarketbatch.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}chart{range}.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}delayed-quote.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}earnings.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}financials.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}list.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}newslast{range}.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}previous.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}quote.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}short-interest.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock{symbol}splits{range}.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/tops.md
 x-common:
