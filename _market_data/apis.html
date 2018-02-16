@@ -50,6 +50,20 @@ title: Streamdata.io API Gallery
 
             OpenAPI: {{ item.info.title }}<br />
 
+            {% for path in item.paths %}
+              {% assign path = path[0] %}
+              {% for method in path[1] %}
+                {% assign verb = method[0] %}
+                {% assign api_path_summary = method[1].summary %}
+                {% assign api_path_description = method[1].description %}
+                {% assign api_path_parameters = method[1].parameters %}
+                {% assign api_path_tags = method[1].tags %}
+              {% endfor %}
+            {% endfor %}
+
+            api_path_summary: {{ api_path_summary }}<br />
+            api_path_description: {{ api_path_description }}<br />
+
          {% endif %}
        {% endif %}
 
