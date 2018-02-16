@@ -16,11 +16,11 @@ produces:
 consumes:
 - application/json
 paths:
-  /query?function=AD:
+  /query?function=ADX:
     get:
-      summary: Chaikin A/D line (AD)
-      description: This API returns the Chaikin A/D line (AD) values
-      operationId: getChalkinADLine
+      summary: Average Directional Movement Index (ADX)
+      description: This API returns the average directional movement index (ADX) values
+      operationId: getAverageDirectionalMovementIndex
       parameters:
       - in: query
         name: interval
@@ -33,12 +33,17 @@ paths:
         description: The name of the equity of your choice
         type: string
         format: string
+      - in: query
+        name: time_period
+        description: Number of data points used to calculate each moving average value
+        type: string
+        format: string
       responses:
         200:
           description: OK
       tags:
       - Market Data
-      - Chaikin A/D Line
-      - AD)
+      - Average Directional Movement Index
+      - ADX
 definitions: []
 ---
