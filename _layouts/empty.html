@@ -7,8 +7,9 @@ index: {{ site.market_data.1forge.index }}<br />
 <br />
 {% for item in site.market_data %}
 
-  Check: {{ slug }} == {{ item.name }}<br />
-  {{ item }}<br /><br />
+  {% assign this = item %}
+
+  this: {{ this }}<br />
 
   {% if slug == item.name %}
     {{ item }}<br /><br />
