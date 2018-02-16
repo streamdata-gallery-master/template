@@ -18,7 +18,7 @@ consumes:
 paths:
   /ref-data/daily-list/symbol-directory:
     get:
-      summary: IEX Corporate Actions
+      summary: Corporate Actions
       description: Refer to the Daily list specification for futher details
       operationId: iex-corporate-actions
       parameters:
