@@ -1,6 +1,6 @@
 
 
-{% assign slug = page.info.title | replace: ' ','-' | downcase %}
+{% assign slug = page.info.title %}
 slug: {{ slug }}<br />
 {% for item in site.market_data %}
   {% if slug == item.name %}
