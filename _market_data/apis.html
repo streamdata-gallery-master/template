@@ -33,6 +33,7 @@ title: Streamdata.io API Gallery
      {% for item in site.market_data %}
        {% if item.swagger %}
          {% if item.swagger == "2.0" %}
+            name: {{ item.info.title }}<br />
             {% assign api_slug = item.info.title | replace: ' ','-' | downcase %}
             {% for entry in site.market_data %}
               {% if entry.name %}
