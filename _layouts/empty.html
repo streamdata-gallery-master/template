@@ -1,13 +1,13 @@
 
 
-{% assign slug = page.info.title | replace: ' ','-' | downcase %}
+{% assign slug = page.info.title %}
+
 slug: {{ slug }}<br /><br />
+
 {% for item in site.market_data %}
-  {% if item.name %}
-    {% assign slug2 = item.name | replace: ' ','-' | downcase %}
+    {% assign slug2 = item.name %}
     checK: {{ slug }} == {{ slug2 }}<br />
     {% if slug == slug2 %}
       show: {{ item[1] }}<br /><br />
     {% endif %}
-  {% endif %}
 {% endfor %}
