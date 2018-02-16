@@ -2,23 +2,29 @@
 layout: default
 ---
 
-{% assign slug = page.info.title | replace: ' ','-' | downcase %}
+{% assign openapi = page | replace: ' ','-' | downcase %}
+{% assign slug = openapi.info.title | replace: ' ','-' | downcase %}
 
+{% assign slug = page.info.title %}
 {% for item in site.market_data %}
-  {{ item }}<br /><br />
+  {% if item.name %}
+    {% if slug == item.name %}
+      {% assign apis_json = item %}
+    {% endif %}
+  {% endif %}
 {% endfor %}
 
 <section class="APIDetailHeader  APIDetailHeader--extra-top-padding ">
    <div class="APIDetailHeader__container">
       <div class="APIDetailHeader__left">
-         <img src="{{ api_image }}" alt="The Guardian API" class="APIDetailHeader__image">
+         <img src="{{ apis_json.image }}" alt="{{ page.info.title }}" class="APIDetailHeader__image">
       </div>
       <div class="APIDetailHeader__right">
          <h1 class="APIDetailHeader__title">{{ page.info.title }}</h1>
          <h2 class="APIDetailHeader__subtitle">{{ page.info.description }}</h2>
          <div class="APIDetailHeader__dateContainer">
             <p class="APIDetailHeader__dateCallout">Posted on:</p>
-            <p class="APIDetailHeader__date">Feb 5, 2018</p>
+            <p class="APIDetailHeader__date">{{ apis_json.modified }}</p>
          </div>
       </div>
    </div>

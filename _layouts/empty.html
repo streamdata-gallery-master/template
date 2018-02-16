@@ -1,11 +1,10 @@
 
 
 {% assign slug = page.info.title %}
-slug: {{ slug }}<br />
 {% for item in site.market_data %}
   {% if item.name %}
     {% if slug == item.name %}
-      HERE: {{ item.name }}<br />
+      {% assign apis_json = item %}
     {% endif %}
   {% endif %}
 {% endfor %}
