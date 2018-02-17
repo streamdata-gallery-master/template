@@ -31,6 +31,9 @@ collections:
   media:
     output: true
     permalink: /media/:path/
+  social_network:
+    output: true
+    permalink: /social_network/:path/    
 
 defaults:
   - scope:
@@ -41,3 +44,7 @@ defaults:
       type: media
     values:
       layout: media
+  - scope:
+      type: social_network
+    values:
+      layout: social_network
