@@ -6,7 +6,7 @@ description: The Guardian is a British national daily newspaper which has grown 
   by tag and section, and a suite of open source data and tools. The Guardian makes
   content accessible to increase traffic, brand awareness, and as a marketing vehicle,
   including partnership opportunities via platform program.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/1200px-The_Guardian_2018.svg.png
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/the-guardian-logo.png
 x-kinRank: "9"
 x-alexaRank: ""
 tags:
@@ -24,7 +24,7 @@ apis:
   description: The Guardian is a British national daily newspaper which has grown
     into a national paper associated with a complex organisational structure and an
     international multimedia and web presence
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/1200px-The_Guardian_2018.svg.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/the-guardian-logo.png
   humanURL: http://open-platform.theguardian.com/documentation/
   baseURL: http://open-platform.theguardian.com/documentation/
   tags:
@@ -36,7 +36,7 @@ apis:
   description: The Guardian is a British national daily newspaper which has grown
     into a national paper associated with a complex organisational structure and an
     international multimedia and web presence
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/1200px-The_Guardian_2018.svg.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/the-guardian-logo.png
   humanURL: http://open-platform.theguardian.com/documentation/
   baseURL: http://open-platform.theguardian.com/documentation/
   tags:
@@ -48,7 +48,7 @@ apis:
   description: The Guardian is a British national daily newspaper which has grown
     into a national paper associated with a complex organisational structure and an
     international multimedia and web presence
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/1200px-The_Guardian_2018.svg.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/the-guardian-logo.png
   humanURL: http://open-platform.theguardian.com/documentation/
   baseURL: http://open-platform.theguardian.com/documentation/
   tags:
@@ -60,7 +60,7 @@ apis:
   description: The Guardian is a British national daily newspaper which has grown
     into a national paper associated with a complex organisational structure and an
     international multimedia and web presence
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/1200px-The_Guardian_2018.svg.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/the-guardian-logo.png
   humanURL: http://open-platform.theguardian.com/documentation/
   baseURL: http://open-platform.theguardian.com/documentation/
   tags:
