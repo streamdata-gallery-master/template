@@ -19,10 +19,10 @@ consumes:
 - application/json
 paths:
   offer:
-    native:
-      summary: Native Native Offer
+    put:
+      summary: Update Native Offer
       description: Native Offer
-      operationId: nativeNativeOffer
+      operationId: updateNativeOffer
       responses:
         200:
           description: Successful Response
