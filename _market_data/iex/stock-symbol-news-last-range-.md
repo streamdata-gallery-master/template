@@ -40,10 +40,10 @@ paths:
       - financial news
 definitions: []
 x-streamrank:
-  polling_total_time_average: "0.39984464003165"
-  polling_size_download_average: "12122.165348101"
-  streaming_total_time_average: "0.28470493196203"
-  streaming_size_download_average: "6271.6147151899"
+  polling_total_time_average: "0.4"
+  polling_size_download_average: "12122.17"
+  streaming_total_time_average: "0.28"
+  streaming_size_download_average: "6271.61"
   change_yes: "174"
   change_no: "1090"
   time_percentage: "29"
