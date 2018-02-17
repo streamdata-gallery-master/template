@@ -183,7 +183,7 @@ layout: default
             </div>
             <div class="APISpecs__rowStats">
                <div class="APISpecs__rowStatsCopy">
-                  <p><strong>{{ stream_rank.last_run }}</strong></p>
+                  <p><strong>{{ stream_rank.last_run | date: ""%b %y"" }}</strong></p>
                </div>
             </div>
          </div>
@@ -193,7 +193,7 @@ layout: default
             </div>
             <div class="APISpecs__rowStats">
                <div class="APISpecs__rowStatsCopy">
-                  <p><strong>{{ days_run }} days</strong></p>
+                  <p><strong>{{ stream_rank.days_run }} days</strong></p>
                </div>
             </div>
          </div>
