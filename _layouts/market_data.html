@@ -117,16 +117,72 @@ layout: default
             </div>
          </div>
       </div>
+
+      {% if signup_url != '' %}
       <div class="APIDescription__table">
          <div class="APIDescription__tableHeader">
-            <p class="APIDescription__tableHeaderCopy">ProgrammableWeb entry</p>
+            <p class="APIDescription__tableHeaderCopy">Sign Up Page</p>
          </div>
          <div class="APIDescription__tableBody">
             <div class="APIDescription__tableBodyCopy">
-               <p><a href="https://www.programmableweb.com/api/guardian" target="_blank" rel="noopener">https://www.programmableweb.com/api/guardian</a></p>
+               <p><a href="{{ signup_url }}" target="_blank" rel="noopener">{{ signup_url }}</a></p>
             </div>
          </div>
       </div>
+      {% endif %}
+
+      {% if documentation_url != '' %}
+      <div class="APIDescription__table">
+         <div class="APIDescription__tableHeader">
+            <p class="APIDescription__tableHeaderCopy">Documentation</p>
+         </div>
+         <div class="APIDescription__tableBody">
+            <div class="APIDescription__tableBodyCopy">
+               <p><a href="{{ documentation_url }}" target="_blank" rel="noopener">{{ documentation_url }}</a></p>
+            </div>
+         </div>
+      </div>
+      {% endif %}
+
+      {% if twitter_url != '' %}
+      <div class="APIDescription__table">
+         <div class="APIDescription__tableHeader">
+            <p class="APIDescription__tableHeaderCopy">Twitter</p>
+         </div>
+         <div class="APIDescription__tableBody">
+            <div class="APIDescription__tableBodyCopy">
+               <p><a href="{{ twitter_url }}" target="_blank" rel="noopener">{{ twitter_url }}</a></p>
+            </div>
+         </div>
+      </div>
+      {% endif %}
+
+      {% if gitub_url != '' %}
+      <div class="APIDescription__table">
+         <div class="APIDescription__tableHeader">
+            <p class="APIDescription__tableHeaderCopy">Github</p>
+         </div>
+         <div class="APIDescription__tableBody">
+            <div class="APIDescription__tableBodyCopy">
+               <p><a href="{{ gitub_url }}" target="_blank" rel="noopener">{{ gitub_url }}</a></p>
+            </div>
+         </div>
+      </div>
+      {% endif %}
+
+      {% if terms_of_service_url != '' %}
+      <div class="APIDescription__table">
+         <div class="APIDescription__tableHeader">
+            <p class="APIDescription__tableHeaderCopy">Terms of Service</p>
+         </div>
+         <div class="APIDescription__tableBody">
+            <div class="APIDescription__tableBodyCopy">
+               <p><a href="{{ terms_of_service_url }}" target="_blank" rel="noopener">{{ terms_of_service_url }}</a></p>
+            </div>
+         </div>
+      </div>
+      {% endif %}
+
       <p class="APIDescription__instructions">Curl command through streamdata.io</p>
    </div>
    <div class="APIDescription__browserWindow">
