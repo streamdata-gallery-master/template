@@ -33,7 +33,7 @@ collections:
     permalink: /media/:path/
   social_network:
     output: true
-    permalink: /social_network/:path/    
+    permalink: /social-network/:path/    
 
 defaults:
   - scope:
