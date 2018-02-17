@@ -155,7 +155,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock--symbol--chart--range-.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock-symbol-chart-range-.md
 - name: IEX Trading API
   description: IEX, the Investors Exchange, is a fair, simple and transparent stock
     exchange dedicated to investor and issuer protection
@@ -166,7 +166,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock--symbol--delayed-quote.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock-symbol-delayed-quote.md
 - name: IEX Trading API
   description: IEX, the Investors Exchange, is a fair, simple and transparent stock
     exchange dedicated to investor and issuer protection
@@ -177,7 +177,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock--symbol--earnings.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock-symbol-earnings.md
 - name: IEX Trading API
   description: IEX, the Investors Exchange, is a fair, simple and transparent stock
     exchange dedicated to investor and issuer protection
@@ -188,7 +188,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock--symbol--financials.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock-symbol-financials.md
 - name: IEX Trading API
   description: IEX, the Investors Exchange, is a fair, simple and transparent stock
     exchange dedicated to investor and issuer protection
@@ -199,7 +199,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock--symbol--list.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock-symbol-list.md
 - name: IEX Trading API
   description: IEX, the Investors Exchange, is a fair, simple and transparent stock
     exchange dedicated to investor and issuer protection
@@ -210,7 +210,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock--symbol--news-last--range-.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock-symbol-news-last-range-.md
 - name: IEX Trading API
   description: IEX, the Investors Exchange, is a fair, simple and transparent stock
     exchange dedicated to investor and issuer protection
@@ -221,7 +221,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock--symbol--previous.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock-symbol-previous.md
 - name: IEX Trading API
   description: IEX, the Investors Exchange, is a fair, simple and transparent stock
     exchange dedicated to investor and issuer protection
@@ -232,7 +232,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock--symbol--quote.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock-symbol-quote.md
 - name: IEX Trading API
   description: IEX, the Investors Exchange, is a fair, simple and transparent stock
     exchange dedicated to investor and issuer protection
@@ -243,7 +243,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock--symbol--short-interest.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock-symbol-short-interest.md
 - name: IEX Trading API
   description: IEX, the Investors Exchange, is a fair, simple and transparent stock
     exchange dedicated to investor and issuer protection
@@ -254,7 +254,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock--symbol--splits--range-.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_market_data/iex/stock-symbol-splits-range-.md
 - name: IEX Trading API
   description: IEX, the Investors Exchange, is a fair, simple and transparent stock
     exchange dedicated to investor and issuer protection
