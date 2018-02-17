@@ -1,5 +1,5 @@
-title:        Market Data APIs
-url:          http://market.data.apievangelist.com
+title:        Streamdata Gallery
+url:          https://streamdata-gallery.github.io/apis/
 raw_url: https://raw.githubusercontent.com/api-stack/market-data/master/_data/api-commons/
 
 tag: Market Data
@@ -28,9 +28,16 @@ collections:
   market_data:
     output: true
     permalink: /market-data/:path/
+  media:
+    output: true
+    permalink: /media/:path/
 
 defaults:
   - scope:
       type: market_data
     values:
       layout: market_data
+  - scope:
+      type: media
+    values:
+      layout: media
