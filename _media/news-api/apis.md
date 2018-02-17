@@ -14,7 +14,40 @@ created: "2018-02-16"
 modified: "2018-02-16"
 url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/news-api/apis.yaml
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: News API
+  description: Get live article metadata from a range of sources including BBC News,
+    TechCrunch, Huffington Post and more with our free News API
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26590-newsapi-org.jpg
+  humanURL: https://newsapi.org
+  baseURL: https://newsapi.org
+  tags:
+  - Gallery
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/news-api/everything.md
+- name: News API
+  description: Get live article metadata from a range of sources including BBC News,
+    TechCrunch, Huffington Post and more with our free News API
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26590-newsapi-org.jpg
+  humanURL: https://newsapi.org
+  baseURL: https://newsapi.org
+  tags:
+  - Gallery
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/news-api/sources.md
+- name: News API
+  description: Get live article metadata from a range of sources including BBC News,
+    TechCrunch, Huffington Post and more with our free News API
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26590-newsapi-org.jpg
+  humanURL: https://newsapi.org
+  baseURL: https://newsapi.org
+  tags:
+  - Gallery
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/news-api/top-headlines.md
 x-common:
 - type: x-email
   url: support@newsapi.org
