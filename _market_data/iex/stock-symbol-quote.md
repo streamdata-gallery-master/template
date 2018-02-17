@@ -39,10 +39,10 @@ paths:
       - quotes
 definitions: []
 x-streamrank:
-  polling_total_time_average: "0.2659291284476"
-  polling_size_download_average: "807.68636721828"
-  streaming_total_time_average: "0.16491843735225"
-  streaming_size_download_average: "404.4743892829"
+  polling_total_time_average: "0.27"
+  polling_size_download_average: "807.69"
+  streaming_total_time_average: "0.16"
+  streaming_size_download_average: "404.47"
   change_yes: "538"
   change_no: "731"
   time_percentage: "38"
