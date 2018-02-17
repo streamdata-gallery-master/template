@@ -16,10 +16,29 @@ consumes:
 - application/json
 paths:
   /account/settings:
-    get:
-      summary: Get Account Settings
-      description: returns settings for user
-      operationId: returns-settings-for-user
+    post:
+      summary: Update  Account Settings
+      description: updates user's settings
+      operationId: updates-users-settings
+      parameters:
+      - in: query
+        name: end_sleep_time
+        description: the hour that sleep time should end if enabled
+      - in: query
+        name: lang
+        description: language which Twitter should render in for the user
+      - in: query
+        name: sleep_time_enabled
+        description: enables/disables sleep time, silencing notifications
+      - in: query
+        name: start_sleep_time
+        description: the hour that sleep time should begin if enabled
+      - in: query
+        name: time_zone
+        description: timezone dates and times should be displayed in
+      - in: query
+        name: trend_location_woeid
+        description: the Yahoo! Where On Earth ID to user as defaul tend location
       responses:
         200:
           description: OK
