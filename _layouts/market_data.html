@@ -48,7 +48,7 @@ layout: default
          <h2 class="APIDetailHeader__subtitle">{{ api_path_description }}</h2>
          <div class="APIDetailHeader__dateContainer">
             <p class="APIDetailHeader__dateCallout">Posted on:</p>
-            <p class="APIDetailHeader__date">{{ apis_json.modified }}</p>
+            <p class="APIDetailHeader__date">{{ apis_json.modified | date: %b %y" }}</p>
          </div>
       </div>
    </div>
@@ -184,8 +184,8 @@ layout: default
                <div class="APISpecs__rowHeaderCopy">Date of test</div>
             </div>
             <div class="APISpecs__rowStats">
-               <div class="APISpecs__rowStatsCopy">
-                  <p><strong>{{ stream_rank.last_run | date: ""%b %y"" }}</strong></p>
+               <div class="APISpecs__rowStatsCopy"
+                  <p><strong>{{ stream_rank.last_run | date: %b %y" }}</strong></p>
                </div>
             </div>
          </div>
