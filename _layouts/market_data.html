@@ -34,6 +34,8 @@ layout: default
   {% endfor %}
 {% endfor %}
 
+{% assign api_url = page.schemes[0] | append: '://' | append: page.host | append: page.basePath | append: path %}
+
 {% assign stream_rank = page.x-streamrank %}
 
 <section class="APIDetailHeader  APIDetailHeader--extra-top-padding ">
@@ -111,7 +113,7 @@ layout: default
          </div>
          <div class="APIDescription__tableBody">
             <div class="APIDescription__tableBodyCopy">
-               <p><a href="http://content.guardianapis.com/search?api-key=test" target="_blank" rel="noopener">http://content.guardianapis.com/search?api-key=test</a></p>
+               <p><a href="{{ api_url }}" target="_blank" rel="noopener">{{ api_url }}</a></p>
             </div>
          </div>
       </div>
