@@ -3,7 +3,7 @@ name: New York Times
 description: The New York Times (sometimes abbreviated as The NYT or The Times) is
   an American newspaper based in New York City with worldwide influence and readership.
   Founded in 1851, the paper has won 122 Pulitzer Prizes, more than any other newspaper.
-image: http://developer.nytimes.com/files/NYTDevLogo.png
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Exciting-The-New-York-Times-Logo-36-In-Best-Logos-with-The-New-York-Times-Logo.jpg
 x-kinRank: "9"
 x-alexaRank: ""
 tags:
@@ -17,7 +17,7 @@ apis:
 - name: New York Times
   description: The New York Times (sometimes abbreviated as The NYT or The Times)
     is an American newspaper based in New York City with worldwide influence and readership
-  image: http://developer.nytimes.com/files/NYTDevLogo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Exciting-The-New-York-Times-Logo-36-In-Best-Logos-with-The-New-York-Times-Logo.jpg
   humanURL: http://nytimes.com/
   baseURL: http://nytimes.com/
   tags:
@@ -28,7 +28,7 @@ apis:
 - name: New York Times
   description: The New York Times (sometimes abbreviated as The NYT or The Times)
     is an American newspaper based in New York City with worldwide influence and readership
-  image: http://developer.nytimes.com/files/NYTDevLogo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Exciting-The-New-York-Times-Logo-36-In-Best-Logos-with-The-New-York-Times-Logo.jpg
   humanURL: http://nytimes.com/
   baseURL: http://nytimes.com/
   tags:
@@ -39,7 +39,7 @@ apis:
 - name: New York Times
   description: The New York Times (sometimes abbreviated as The NYT or The Times)
     is an American newspaper based in New York City with worldwide influence and readership
-  image: http://developer.nytimes.com/files/NYTDevLogo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Exciting-The-New-York-Times-Logo-36-In-Best-Logos-with-The-New-York-Times-Logo.jpg
   humanURL: http://nytimes.com/
   baseURL: http://nytimes.com/
   tags:
@@ -50,7 +50,7 @@ apis:
 - name: New York Times
   description: The New York Times (sometimes abbreviated as The NYT or The Times)
     is an American newspaper based in New York City with worldwide influence and readership
-  image: http://developer.nytimes.com/files/NYTDevLogo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Exciting-The-New-York-Times-Logo-36-In-Best-Logos-with-The-New-York-Times-Logo.jpg
   humanURL: http://nytimes.com/
   baseURL: http://nytimes.com/
   tags:
@@ -61,7 +61,7 @@ apis:
 - name: New York Times
   description: The New York Times (sometimes abbreviated as The NYT or The Times)
     is an American newspaper based in New York City with worldwide influence and readership
-  image: http://developer.nytimes.com/files/NYTDevLogo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Exciting-The-New-York-Times-Logo-36-In-Best-Logos-with-The-New-York-Times-Logo.jpg
   humanURL: http://nytimes.com/
   baseURL: http://nytimes.com/
   tags:
@@ -72,7 +72,7 @@ apis:
 - name: New York Times
   description: The New York Times (sometimes abbreviated as The NYT or The Times)
     is an American newspaper based in New York City with worldwide influence and readership
-  image: http://developer.nytimes.com/files/NYTDevLogo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Exciting-The-New-York-Times-Logo-36-In-Best-Logos-with-The-New-York-Times-Logo.jpg
   humanURL: http://nytimes.com/
   baseURL: http://nytimes.com/
   tags:
@@ -83,7 +83,7 @@ apis:
 - name: New York Times
   description: The New York Times (sometimes abbreviated as The NYT or The Times)
     is an American newspaper based in New York City with worldwide influence and readership
-  image: http://developer.nytimes.com/files/NYTDevLogo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Exciting-The-New-York-Times-Logo-36-In-Best-Logos-with-The-New-York-Times-Logo.jpg
   humanURL: http://nytimes.com/
   baseURL: http://nytimes.com/
   tags:
@@ -94,7 +94,7 @@ apis:
 - name: New York Times
   description: The New York Times (sometimes abbreviated as The NYT or The Times)
     is an American newspaper based in New York City with worldwide influence and readership
-  image: http://developer.nytimes.com/files/NYTDevLogo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Exciting-The-New-York-Times-Logo-36-In-Best-Logos-with-The-New-York-Times-Logo.jpg
   humanURL: http://nytimes.com/
   baseURL: http://nytimes.com/
   tags:
@@ -105,7 +105,7 @@ apis:
 - name: New York Times
   description: The New York Times (sometimes abbreviated as The NYT or The Times)
     is an American newspaper based in New York City with worldwide influence and readership
-  image: http://developer.nytimes.com/files/NYTDevLogo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Exciting-The-New-York-Times-Logo-36-In-Best-Logos-with-The-New-York-Times-Logo.jpg
   humanURL: http://nytimes.com/
   baseURL: http://nytimes.com/
   tags:
@@ -116,7 +116,7 @@ apis:
 - name: New York Times
   description: The New York Times (sometimes abbreviated as The NYT or The Times)
     is an American newspaper based in New York City with worldwide influence and readership
-  image: http://developer.nytimes.com/files/NYTDevLogo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Exciting-The-New-York-Times-Logo-36-In-Best-Logos-with-The-New-York-Times-Logo.jpg
   humanURL: http://nytimes.com/
   baseURL: http://nytimes.com/
   tags:
@@ -127,7 +127,7 @@ apis:
 - name: New York Times
   description: The New York Times (sometimes abbreviated as The NYT or The Times)
     is an American newspaper based in New York City with worldwide influence and readership
-  image: http://developer.nytimes.com/files/NYTDevLogo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Exciting-The-New-York-Times-Logo-36-In-Best-Logos-with-The-New-York-Times-Logo.jpg
   humanURL: http://nytimes.com/
   baseURL: http://nytimes.com/
   tags:
@@ -138,7 +138,7 @@ apis:
 - name: New York Times
   description: The New York Times (sometimes abbreviated as The NYT or The Times)
     is an American newspaper based in New York City with worldwide influence and readership
-  image: http://developer.nytimes.com/files/NYTDevLogo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Exciting-The-New-York-Times-Logo-36-In-Best-Logos-with-The-New-York-Times-Logo.jpg
   humanURL: http://nytimes.com/
   baseURL: http://nytimes.com/
   tags:
@@ -149,7 +149,7 @@ apis:
 - name: New York Times
   description: The New York Times (sometimes abbreviated as The NYT or The Times)
     is an American newspaper based in New York City with worldwide influence and readership
-  image: http://developer.nytimes.com/files/NYTDevLogo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Exciting-The-New-York-Times-Logo-36-In-Best-Logos-with-The-New-York-Times-Logo.jpg
   humanURL: http://nytimes.com/
   baseURL: http://nytimes.com/
   tags:
@@ -160,7 +160,7 @@ apis:
 - name: New York Times
   description: The New York Times (sometimes abbreviated as The NYT or The Times)
     is an American newspaper based in New York City with worldwide influence and readership
-  image: http://developer.nytimes.com/files/NYTDevLogo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Exciting-The-New-York-Times-Logo-36-In-Best-Logos-with-The-New-York-Times-Logo.jpg
   humanURL: http://nytimes.com/
   baseURL: http://nytimes.com/
   tags:
