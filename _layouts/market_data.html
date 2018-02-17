@@ -43,7 +43,17 @@ layout: default
   {% endif %}
 {% endfor %}
 
-{% assign stream_url = 'curl -v "https://streamdata.motwin.net/' | append: api_url | append: '?X-Sd-Token={streamdata_token}"' | append: api_query %}
+{% assign stream_url = 'curl -v' %}
+
+-H "Accept: application/json"
+
+{% for parameter in api_path_parameters %}
+  {% if parameter.in == 'header' %}
+    {% assign stream_url = stream_url | append: ' -h ' | append: '"' | append: parameter.in | append: '{header_value}"' %}
+  {% endif %}
+{% endfor %}
+
+{% assign stream_url = stream_url | append: '"https://streamdata.motwin.net/' | append: api_url | append: '?X-Sd-Token={streamdata_token}' | append: api_query | append: '"' %}
 
 {% assign stream_rank = page.x-streamrank %}
 
