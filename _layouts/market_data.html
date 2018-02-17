@@ -36,6 +36,15 @@ layout: default
 
 {% assign api_url = page.schemes[0] | append: '://' | append: page.host | append: page.basePath | append: path %}
 
+{% assign api_query = '' %}
+{% for parameter in api_path_parameters %}
+  {% if parameter.in == 'query' %}
+    {% assign api_query = api_query | append: parameter.name | append: '={field_value}' %}
+  {% endif %}
+{% endfor %}
+
+{% assign stream_url = 'curl -v "https://streamdata.motwin.net/' | append: api_url | append: '?X-Sd-Token={streamdata_token}"' | append: api_query %}
+
 {% assign stream_rank = page.x-streamrank %}
 
 <section class="APIDetailHeader  APIDetailHeader--extra-top-padding ">
@@ -183,7 +192,7 @@ layout: default
       </div>
       {% endif %}
 
-      <p class="APIDescription__instructions">Curl command through streamdata.io</p>
+      <p class="APIDescription__instructions">Curl command through Streamdata.io</p>
    </div>
    <div class="APIDescription__browserWindow">
       <div class="APIDescription__browserWindowTitlteBar">
@@ -201,7 +210,7 @@ layout: default
       </div>
       <div class="APIDescrpition__browserWindowMain">
          <p class="APIDescription__browserWindowMainCopy">
-            curl <span class="APIDescription__browserWindowCopyMainLink">"https://proxy.streamdata.io/http://content.guardianapis.com/search?api-key=test"</span>
+            {{ stream_url }}
          </p>
       </div>
    </div>
