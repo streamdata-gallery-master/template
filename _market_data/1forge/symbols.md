@@ -1,44 +1,12 @@
 ---
-swagger: "2.0"
-info:
-  title: 1Forge
-  description: 1Forge provides real-time quote data (bid &amp; ask) for 240+ pairs.
-    To see a full list of supported currency pairs, please see the full currency pair
-    list. At this time, we do not offer historical data, however, clients are more
-    than welcome to archive our quotes locally for internal use.
-  version: 1.0.0
-host: forex.1forge.com
-basePath: 1.0.3/
-schemes:
-- http
-produces:
-- application/json
-consumes:
-- application/json
-paths:
-  /symbols:
-    get:
-      summary: Get Currency Symbols API
-      description: Get a list of currency symbols to use when making calls to the
-        other APIs
-      operationId: getSymbols
-      parameters:
-      - in: query
-        name: api_key
-        description: The api key
-        type: string
-        format: string
-      - in: query
-        name: format
-        description: The format to return
-        type: string
-        format: string
-      responses:
-        200:
-          description: OK
-      tags:
-      - Symbols
-definitions: []
+? <html><head><title>Slim Application Error</title><style>body{margin:0;padding:30px;font:12px/1.5
+  Helvetica,Arial,Verdana,sans-serif;}h1{margin:0;font-size:48px;font-weight:normal;line-height:48px;}strong{display:inline-block;width:65px;}</style></head><body><h1>Slim
+  Application Error</h1><p>The application could not run because of the following
+  error:</p><h2>Details</h2><div><strong>Code:</strong> 2</div><div><strong>Message:</strong>
+  trim() expects parameter 1 to be string, array given</div><div><strong>File:</strong>
+  /var/www/html/kin_lane/api/api/methods/m-api-api_id-path-path_id-definitions-export-openapi-spec-20.php</div><div><strong>Line:</strong>
+  368</div><h2>Trace</h2><pre>#0 [internal function]
+: Slim\Slim::handleErrors(2, 'trim() expects ...', '/var/www/html/k...', 368, Array)
 x-streamrank:
   polling_total_time_average: 0
   polling_size_download_average: 0
