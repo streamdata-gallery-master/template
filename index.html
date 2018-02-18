@@ -24,10 +24,8 @@ title: Streamdata.io API Gallery
       <div class="filterTags__container">
 
         <div class="taggedLinkCards__cards">
-        {% assign collections = site.collections | sort: '' %}
-        {% for collection in collections %}
-          {{ collection }}<br />
-        {% endfor %}
+        {% assign collections = site.collections %}
+        {{ collections }}<br />
       </div>
 
       </div>
