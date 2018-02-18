@@ -36,7 +36,10 @@ collections:
     permalink: /social-network/:path/
   transportation:
     output: true
-    permalink: /transportation/:path/       
+    permalink: /transportation/:path/
+  weather:
+    output: true
+    permalink: /weather/:path/
 
 defaults:
   - scope:
@@ -55,3 +58,7 @@ defaults:
       type: transportation
     values:
       layout: transportation
+  - scope:
+      type: weather
+    values:
+      layout: weather      
