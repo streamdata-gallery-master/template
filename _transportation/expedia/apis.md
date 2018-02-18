@@ -26,7 +26,7 @@ modified: "2018-02-17"
 url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/apis.yaml
 specificationVersion: "0.14"
 apis:
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -36,7 +36,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/api-flight-airportdropdown-get.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -46,7 +46,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/api-flight-checkout-post.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -56,7 +56,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/api-flight-details-get.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -66,7 +66,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/api-flight-farerules-tripid-get.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -76,7 +76,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/api-flight-image-get.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -86,7 +86,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/api-flight-search-get.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -96,7 +96,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/api-flight-trip-cardfee-post.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -106,7 +106,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/api-flight-trip-create-post.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -116,7 +116,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/api-m-trip-coupon-post.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -126,7 +126,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/api-m-trip-remove-coupon-post.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -136,7 +136,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/api-mobile-image-get.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -146,7 +146,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/api-packages-checkout-post.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -156,7 +156,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/api-packages-createtrip-post.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -166,7 +166,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/api-packages-hoteloffers-get.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -176,7 +176,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/api-trips-get.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -186,7 +186,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/api-trips-tripid-get.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -196,7 +196,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/api-trips-tripid-updatetripnamedescription-post.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -206,7 +206,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/api-user-associateusertotrip-post.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -216,7 +216,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/api-user-create-post.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -226,7 +226,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/api-user-profile-get.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -236,7 +236,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/api-user-sign-in-post.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -246,7 +246,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/api-user-update-traveler-post.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -256,7 +256,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/api-users-userid-trips-get.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -266,7 +266,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/api-users-userid-trips-tripid-get.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -276,7 +276,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/getpackages-v1-get.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -286,7 +286,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/lx-api-activity-get.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -296,7 +296,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/lx-api-search-get.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -306,7 +306,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/m-api-cars-search-get.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -316,7 +316,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/m-api-cars-search-airport-get.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -326,7 +326,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/m-api-cars-search-location-get.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -336,7 +336,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/m-api-cars-trip-cancel-post.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -346,7 +346,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/m-api-cars-trip-checkout-post.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -356,7 +356,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/m-api-cars-trip-create-post.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -366,7 +366,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/m-api-flight-trip-v2-create-post.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -376,7 +376,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/m-api-hotel-info-get.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -386,7 +386,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/m-api-hotel-offers-get.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -396,7 +396,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/m-api-hotel-offers-v3-get.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -406,7 +406,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/m-api-hotel-product-get.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -416,7 +416,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/m-api-hotel-rooms-cancel-post.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -426,7 +426,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/m-api-hotel-search-get.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -436,7 +436,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/m-api-hotel-search-v3-get.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -446,7 +446,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/m-api-hotel-trip-cancel-post.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -456,7 +456,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/m-api-hotel-trip-cancelenquiry-get.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -466,7 +466,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/m-api-hotel-trip-checkout-post.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -476,7 +476,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/m-api-hotel-trip-checkoutfields-get.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -486,7 +486,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/m-api-hotel-trip-create-post.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -496,7 +496,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/m-api-hotel-trip-v2-cancelenquiry-get.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -506,7 +506,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/m-api-hotel-trip-v2-checkout-post.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -516,7 +516,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/m-api-lx-trip-checkout-post.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -526,7 +526,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/m-api-lx-trip-create-post.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -536,7 +536,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/m-api-rails-trip-cardfee-post.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
@@ -546,7 +546,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_transportation/expedia/m-api-rails-trip-checkout-post.md
-- name: Expedia API
+- name: Expedia
   description: Expedia
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
   humanURL: http://developer.ean.com/
