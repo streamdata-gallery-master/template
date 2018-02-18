@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Streamdata.io API Gallery - Photos
+title: Streamdata.io API Gallery - Images
 ---
 
 <div class="shortMasthead  shortMasthead--extra-top-padding ">
@@ -24,13 +24,13 @@ title: Streamdata.io API Gallery - Photos
       <div class="filterTags__container">
 
          <a href="index.html" class="filterTags__tag filterTags__tag--red" data-filter-tag-link="html5">
-         Photos
+         Images
          </a>
 
       </div>
    </section>
    <div class="taggedLinkCards__cards">
-     {% for item in site.photos %}
+     {% for item in site.images %}
        {% if item.swagger %}
          {% if item.swagger == "2.0" %}
 
@@ -41,7 +41,7 @@ title: Streamdata.io API Gallery - Photos
            {% assign api_json_kin_rank = "" %}
            {% assign api_json_alexa_rank = "" %}
 
-            {% for entry in site.photos %}
+            {% for entry in site.images %}
               {% if entry.name %}
                 {% if item.info.title == entry.name %}
                   {% assign api_name = entry.name %}
