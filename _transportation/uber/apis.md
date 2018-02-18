@@ -6,7 +6,7 @@ description: The Uber API exposes a set of RESTful endpoints that enable your ap
   reminders for users to take a ride at a specific time in the future.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/uber-logo.png
 x-kinRank: "9"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags:
 - Transportation
 - Transport
