@@ -22,10 +22,9 @@ title: Streamdata.io API Gallery
 <section class="taggedLinkCards">
    <section class="filterTags" data-filter-tags="">
       <div class="filterTags__container">
-        {{ navigation.tags }}
         <div class="taggedLinkCards__cards">
-        {% for tag in navigation.tags %}
-          {{ tag.label }}
+        {% for nav in site.data.navigation %}
+          {{ nav.label }}
         {% endfor %}
       </div>
 
