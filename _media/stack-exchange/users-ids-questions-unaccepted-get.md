@@ -1,7 +1,7 @@
 ---
 swagger: "2.0"
 info:
-  title: StackExchange
+  title: Stack Exchange
   description: Stack Exchange is a network of 130+ Q&amp;A communities including Stack
     Overflow.
   version: "2.0"
