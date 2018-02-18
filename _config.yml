@@ -33,7 +33,10 @@ collections:
     permalink: /media/:path/
   social_network:
     output: true
-    permalink: /social-network/:path/    
+    permalink: /social-network/:path/
+  transportation:
+    output: true
+    permalink: /transportation/:path/       
 
 defaults:
   - scope:
@@ -48,3 +51,7 @@ defaults:
       type: social_network
     values:
       layout: social_network
+  - scope:
+      type: transportation
+    values:
+      layout: transportation
