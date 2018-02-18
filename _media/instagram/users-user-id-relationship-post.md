@@ -1,7 +1,7 @@
 ---
 swagger: "2.0"
 info:
-  title: Instagram API
+  title: Instagram
   description: 'The first version of the Instagram API is an exciting step forward
     towardsmaking it easier for users to have open access to their data. We created
     itso that you can surface the amazing content Instagram users share everysecond,
