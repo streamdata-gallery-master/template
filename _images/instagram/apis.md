@@ -25,9 +25,9 @@ tags:
 - Change Log Example
 - Change Log
 - Advertising
-created: "2018-02-17"
-modified: "2018-02-17"
-url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/instagram/apis.yaml
+created: "2018-02-18"
+modified: "2018-02-18"
+url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_images/instagram/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: Instagram
@@ -42,7 +42,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/instagram/geographies-geo-id-media-recent-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_images/instagram/geographies-geo-id-media-recent-get.md
 - name: Instagram
   description: Instagram is an online mobile photo-sharing, video-sharing and social
     networking service that enables its users to take pictures and videos, and share
@@ -55,7 +55,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/instagram/locations-search-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_images/instagram/locations-search-get.md
 - name: Instagram
   description: Instagram is an online mobile photo-sharing, video-sharing and social
     networking service that enables its users to take pictures and videos, and share
@@ -68,7 +68,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/instagram/locations-location-id-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_images/instagram/locations-location-id-get.md
 - name: Instagram
   description: Instagram is an online mobile photo-sharing, video-sharing and social
     networking service that enables its users to take pictures and videos, and share
@@ -81,7 +81,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/instagram/locations-location-id-media-recent-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_images/instagram/locations-location-id-media-recent-get.md
 - name: Instagram
   description: Instagram is an online mobile photo-sharing, video-sharing and social
     networking service that enables its users to take pictures and videos, and share
@@ -94,7 +94,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/instagram/media-popular-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_images/instagram/media-popular-get.md
 - name: Instagram
   description: Instagram is an online mobile photo-sharing, video-sharing and social
     networking service that enables its users to take pictures and videos, and share
@@ -107,7 +107,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/instagram/media-search-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_images/instagram/media-search-get.md
 - name: Instagram
   description: Instagram is an online mobile photo-sharing, video-sharing and social
     networking service that enables its users to take pictures and videos, and share
@@ -120,7 +120,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/instagram/media-media-id-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_images/instagram/media-media-id-get.md
 - name: Instagram
   description: Instagram is an online mobile photo-sharing, video-sharing and social
     networking service that enables its users to take pictures and videos, and share
@@ -133,7 +133,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/instagram/media-media-id-comments-delete.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_images/instagram/media-media-id-comments-delete.md
 - name: Instagram
   description: Instagram is an online mobile photo-sharing, video-sharing and social
     networking service that enables its users to take pictures and videos, and share
@@ -146,7 +146,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/instagram/media-media-id-comments-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_images/instagram/media-media-id-comments-get.md
 - name: Instagram
   description: Instagram is an online mobile photo-sharing, video-sharing and social
     networking service that enables its users to take pictures and videos, and share
@@ -159,7 +159,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/instagram/media-media-id-comments-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_images/instagram/media-media-id-comments-post.md
 - name: Instagram
   description: Instagram is an online mobile photo-sharing, video-sharing and social
     networking service that enables its users to take pictures and videos, and share
@@ -172,7 +172,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/instagram/media-media-id-likes-delete.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_images/instagram/media-media-id-likes-delete.md
 - name: Instagram
   description: Instagram is an online mobile photo-sharing, video-sharing and social
     networking service that enables its users to take pictures and videos, and share
@@ -185,7 +185,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/instagram/media-media-id-likes-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_images/instagram/media-media-id-likes-get.md
 - name: Instagram
   description: Instagram is an online mobile photo-sharing, video-sharing and social
     networking service that enables its users to take pictures and videos, and share
@@ -198,7 +198,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/instagram/media-media-id-likes-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_images/instagram/media-media-id-likes-post.md
 - name: Instagram
   description: Instagram is an online mobile photo-sharing, video-sharing and social
     networking service that enables its users to take pictures and videos, and share
@@ -211,7 +211,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/instagram/media1-shortcode-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_images/instagram/media1-shortcode-get.md
 - name: Instagram
   description: Instagram is an online mobile photo-sharing, video-sharing and social
     networking service that enables its users to take pictures and videos, and share
@@ -224,7 +224,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/instagram/tags-search-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_images/instagram/tags-search-get.md
 - name: Instagram
   description: Instagram is an online mobile photo-sharing, video-sharing and social
     networking service that enables its users to take pictures and videos, and share
@@ -237,7 +237,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/instagram/tags-tag-name-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_images/instagram/tags-tag-name-get.md
 - name: Instagram
   description: Instagram is an online mobile photo-sharing, video-sharing and social
     networking service that enables its users to take pictures and videos, and share
@@ -250,7 +250,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/instagram/tags-tag-name-media-recent-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_images/instagram/tags-tag-name-media-recent-get.md
 - name: Instagram
   description: Instagram is an online mobile photo-sharing, video-sharing and social
     networking service that enables its users to take pictures and videos, and share
@@ -263,7 +263,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/instagram/users-search-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_images/instagram/users-search-get.md
 - name: Instagram
   description: Instagram is an online mobile photo-sharing, video-sharing and social
     networking service that enables its users to take pictures and videos, and share
@@ -276,7 +276,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/instagram/users-self-feed-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_images/instagram/users-self-feed-get.md
 - name: Instagram
   description: Instagram is an online mobile photo-sharing, video-sharing and social
     networking service that enables its users to take pictures and videos, and share
@@ -289,7 +289,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/instagram/users-self-media-liked-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_images/instagram/users-self-media-liked-get.md
 - name: Instagram
   description: Instagram is an online mobile photo-sharing, video-sharing and social
     networking service that enables its users to take pictures and videos, and share
@@ -302,7 +302,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/instagram/users-self-requested-by-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_images/instagram/users-self-requested-by-get.md
 - name: Instagram
   description: Instagram is an online mobile photo-sharing, video-sharing and social
     networking service that enables its users to take pictures and videos, and share
@@ -315,7 +315,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/instagram/users-user-id-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_images/instagram/users-user-id-get.md
 - name: Instagram
   description: Instagram is an online mobile photo-sharing, video-sharing and social
     networking service that enables its users to take pictures and videos, and share
@@ -328,7 +328,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/instagram/users-user-id-followed-by-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_images/instagram/users-user-id-followed-by-get.md
 - name: Instagram
   description: Instagram is an online mobile photo-sharing, video-sharing and social
     networking service that enables its users to take pictures and videos, and share
@@ -341,7 +341,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/instagram/users-user-id-follows-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_images/instagram/users-user-id-follows-get.md
 - name: Instagram
   description: Instagram is an online mobile photo-sharing, video-sharing and social
     networking service that enables its users to take pictures and videos, and share
@@ -354,7 +354,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/instagram/users-user-id-media-recent-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_images/instagram/users-user-id-media-recent-get.md
 - name: Instagram
   description: Instagram is an online mobile photo-sharing, video-sharing and social
     networking service that enables its users to take pictures and videos, and share
@@ -367,7 +367,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/instagram/users-user-id-relationship-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_images/instagram/users-user-id-relationship-post.md
 x-common:
 - type: x-application-manager
   url: https://instagram.com/accounts/manage_access/
