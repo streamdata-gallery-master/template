@@ -43,9 +43,18 @@ collections:
   images:
     output: true
     permalink: /images/:path/
-  music:
+  developers:
     output: true
-    permalink: /music/:path/
+    permalink: /developers/:path/
+  links:
+    output: true
+    permalink: /links/:path/
+  videos:
+    output: true
+    permalink: /videos/:path/
+  productivity:
+    output: true
+    permalink: /productivity/:path/            
 
 defaults:
   - scope:
@@ -76,3 +85,19 @@ defaults:
       type: music
     values:
       layout: music
+  - scope:
+      type: developers
+    values:
+      layout: developers
+  - scope:
+      type: links
+    values:
+      layout: links
+  - scope:
+      type: videos
+    values:
+      layout: videos
+  - scope:
+      type: productivity
+    values:
+      layout: productivity
