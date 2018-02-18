@@ -1,7 +1,7 @@
 ---
 swagger: "2.0"
 info:
-  title: Flights, Hotels, LX, Cars, Rails, Packages, Trips, User API
+  title: Expedia
   description: 'Expedia Mobile API Documentation. &lt;br&gt;&lt;font color=&quot;blue&quot;&gt;
     (Note: In case of authorization exception, just &lt;a href=&quot;/static/mobile/swaggerui/#!/User/signin-user&quot;&gt;Sign-In&lt;/a&gt;)&lt;/font&gt;'
   version: 0.0.1
