@@ -25,7 +25,9 @@ title: Streamdata.io API Gallery
 
         <div class="taggedLinkCards__cards">
         {% assign collections = site.collections %}
-        {{ collections }}<br />
+        {% for collection in collections %}
+          {{ collection }}
+        {% endfor %}
       </div>
 
       </div>
