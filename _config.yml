@@ -24,7 +24,7 @@ github_user: api-stack
 github_repo: apis
 github_branch: master
 
-tags:
+categories:
   - label: Market Data
     slug: market-data
   - label: Media
