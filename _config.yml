@@ -28,33 +28,43 @@ collections:
   market_data:
     output: true
     permalink: /market-data/:path/
+    label: Market Data
   media:
     output: true
     permalink: /media/:path/
+    label: Media
   social_network:
     output: true
     permalink: /social-network/:path/
+    label: Social Network
   transportation:
     output: true
     permalink: /transportation/:path/
+    label: Transportation
   weather:
     output: true
     permalink: /weather/:path/
+    label: Weather
   images:
     output: true
     permalink: /images/:path/
+    label: Images
   developers:
     output: true
     permalink: /developers/:path/
+    label: Developers
   links:
     output: true
     permalink: /links/:path/
+    label: Links
   videos:
     output: true
     permalink: /videos/:path/
+    label: Videos
   productivity:
     output: true
-    permalink: /productivity/:path/            
+    permalink: /productivity/:path/
+    label: Productivity
 
 defaults:
   - scope:
