@@ -40,6 +40,12 @@ collections:
   weather:
     output: true
     permalink: /weather/:path/
+  photos:
+    output: true
+    permalink: /photos/:path/
+  music:
+    output: true
+    permalink: /music/:path/        
 
 defaults:
   - scope:
@@ -61,4 +67,12 @@ defaults:
   - scope:
       type: weather
     values:
-      layout: weather      
+      layout: weather
+  - scope:
+      type: photos
+    values:
+      layout: photos
+  - scope:
+      type: music
+    values:
+      layout: music
