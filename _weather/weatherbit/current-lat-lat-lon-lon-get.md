@@ -1,7 +1,7 @@
 ---
 swagger: "2.0"
 info:
-  title: Weatherbit.io - Weather
+  title: Weatherbit
   description: This is the documentation for the Weatherbit API.  The base URL for
     the API is [http://api.weatherbit.io/v2.0/](http://api.weatherbit.io/v2.0/) or
     [https://api.weatherbit.io/v2.0/](http://api.weatherbit.io/v2.0/). Below is the
@@ -19,7 +19,7 @@ consumes:
 paths:
   /current?lat={lat}&lon={lon}:
     get:
-      summary: Returns a Current Observation - Given a lat/lon.
+      summary: Get Current Lat & Lon
       description: Returns a Current Observation - given a lat, and a lon
       operationId: returns-a-current-observation--given-a-lat-and-a-lon
       parameters:
@@ -50,6 +50,11 @@ paths:
           description: OK
       tags:
       - weather
+      - current
+      - lat
+      - lat
+      - '&lon'
+      - lon
 definitions:
   CurrentObs:
     properties:
