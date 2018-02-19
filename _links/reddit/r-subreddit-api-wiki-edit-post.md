@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   '{/r/subreddit}/api/wiki/edit':
-    post&nbsp;:
+    post:
       summary: Add&nbsp; R Subreddit Api Wiki Edit
       description: Edit a wiki page
       operationId: wiki
