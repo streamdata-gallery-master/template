@@ -1,7 +1,7 @@
 ---
 swagger: "2.0"
 info:
-  title: Gitlab
+  title: GitLab
   description: 'GitLab Inc. is a company based on the GitLab open-source project,
     helping developers collaborate on code to build great things and ship on time.
     We are an active participant in our global community of customers and contributors,
