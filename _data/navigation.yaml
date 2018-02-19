@@ -4,11 +4,11 @@
   description: API driven solutions for developers to do wha they do.
 - label: Images
   slug: images
-  image: images.php
+  image: images.png
   description: Photos, images, icons, and all the visual APIs.
 - label: Links
   slug: links
-  image: links.padding
+  image: links.png
   description: API tooling for managing links, and operating on the web.
 - label: Market Data
   slug: market-data
