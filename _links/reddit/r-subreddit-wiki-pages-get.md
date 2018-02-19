@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   '{/r/subreddit}/wiki/pages':
-    get&nbsp;:
+    get:
       summary: Get&nbsp; R Subreddit Wiki Pages
       description: Retrieve a list of wiki pages in this subreddit
       operationId: wiki
