@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/multi/multipath/r/srname:
-    get&nbsp;:
+    get:
       summary: Get&nbsp; Api Multi Multipath R Srname
       description: Get data about a subreddit in a multi
       operationId: multis
