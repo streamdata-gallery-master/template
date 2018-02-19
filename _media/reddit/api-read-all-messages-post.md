@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/read_all_messages:
-    post&nbsp;:
+    post:
       summary: Add&nbsp; Api Read All Messages
       description: Queue up marking all messages for a user as read
       operationId: private-messages

@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/block:
-    post&nbsp;:
+    post:
       summary: Add&nbsp; Api Block
       description: For blocking the author of a thing via inbox
       operationId: private-messages

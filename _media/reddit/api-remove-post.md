@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/remove:
-    post&nbsp;:
+    post:
       summary: Add&nbsp; Api Remove
       description: Remove a link, comment, or modmail message
       operationId: moderation

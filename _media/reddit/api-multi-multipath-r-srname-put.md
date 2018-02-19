@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/multi/multipath/r/srname:
-    put&nbsp;:
+    put:
       summary: Put&nbsp; Api Multi Multipath R Srname
       description: Add a subreddit to a multi
       operationId: multis

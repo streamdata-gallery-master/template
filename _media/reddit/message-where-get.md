@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /message/where:
-    get&nbsp;:
+    get:
       summary: Get&nbsp; Message Where
       description: This endpoint is a listing
       operationId: private-messages

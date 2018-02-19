@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   '{/r/subreddit}/wiki/settings/page':
-    get&nbsp;:
+    get:
       summary: Get&nbsp; R Subreddit Wiki Settings Page
       description: Retrieve the current permission settings for page
       operationId: wiki

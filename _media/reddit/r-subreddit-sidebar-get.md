@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   '{/r/subreddit}/sidebar':
-    get&nbsp;:
+    get:
       summary: Get&nbsp; R Subreddit Sebar
       description: Get the sidebar for the current subreddit
       operationId: subreddits

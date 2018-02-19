@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/leavemoderator:
-    post&nbsp;:
+    post:
       summary: Add&nbsp; Api Leavemoderator
       description: Abdicate moderator status in a subreddit
       operationId: moderation

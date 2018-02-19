@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/unread_message:
-    post&nbsp;:
+    post:
       summary: Add&nbsp; Api Unread Message
       description: A comma-separated list of thing fullnames
       operationId: private-messages

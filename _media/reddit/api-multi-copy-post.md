@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/multi/copy:
-    post&nbsp;:
+    post:
       summary: Add&nbsp; Api Multi Copy
       description: Copy a multi
       operationId: multis

@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/v1/me:
-    get&nbsp;:
+    get:
       summary: Get&nbsp; Api V1 Me
       description: Returns the identity of the user currently authenticated via OAuth
       operationId: sign-up-to-get-your-own-personalized-reddit-experience

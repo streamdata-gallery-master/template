@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/v1/me/prefs:
-    patch&nbsp;:
+    patch:
       summary: Patch&nbsp; Api V1 Me Prefs
       description: ""
       operationId: sign-up-to-get-your-own-personalized-reddit-experience

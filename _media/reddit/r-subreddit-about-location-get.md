@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   '{/r/subreddit}/about/location':
-    get&nbsp;:
+    get:
       summary: Get&nbsp; R Subreddit About Location
       description: Return a listing of posts relevant to moderators
       operationId: moderation

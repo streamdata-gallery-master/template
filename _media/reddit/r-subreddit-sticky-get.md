@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   '{/r/subreddit}/sticky':
-    get&nbsp;:
+    get:
       summary: Get&nbsp; R Subreddit Sticky
       description: Redirect to one of the posts stickied in the current subreddit
       operationId: subreddits

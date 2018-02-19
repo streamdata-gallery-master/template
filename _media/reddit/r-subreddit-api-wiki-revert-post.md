@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   '{/r/subreddit}/api/wiki/revert':
-    post&nbsp;:
+    post:
       summary: Add&nbsp; R Subreddit Api Wiki Revert
       description: Revert a wiki page to revision
       operationId: wiki

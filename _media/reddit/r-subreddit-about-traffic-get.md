@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /r/subreddit/about/traffic:
-    get&nbsp;:
+    get:
       summary: Get&nbsp; R Subreddit About Traffic
       description: Get the traffic for the current subreddit
       operationId: subreddits

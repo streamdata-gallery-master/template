@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/v1/gold/gild/fullname:
-    post&nbsp;:
+    post:
       summary: Add&nbsp; Api V1 Gold Gild Fullname
       description: fullname of a thing
       operationId: reddit-gold

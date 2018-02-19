@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /prefs/where:
-    get&nbsp;:
+    get:
       summary: Get&nbsp; Prefs Where
       description: This endpoint is a listing
       operationId: sign-up-to-get-your-own-personalized-reddit-experience

@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/unignore_reports:
-    post&nbsp;:
+    post:
       summary: Add&nbsp; Api Unignore Reports
       description: Allow future reports on a thing to cause notifications
       operationId: moderation

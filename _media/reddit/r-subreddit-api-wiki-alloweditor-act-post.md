@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   '{/r/subreddit}/api/wiki/alloweditor/act':
-    post&nbsp;:
+    post:
       summary: Add&nbsp; R Subreddit Api Wiki Alloweditor Act
       description: Allow/deny username to edit this wiki page
       operationId: wiki

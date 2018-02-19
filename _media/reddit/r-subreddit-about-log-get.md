@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   '{/r/subreddit}/about/log':
-    get&nbsp;:
+    get:
       summary: Get&nbsp; R Subreddit About Log
       description: Get a list of recent moderation actions
       operationId: moderation

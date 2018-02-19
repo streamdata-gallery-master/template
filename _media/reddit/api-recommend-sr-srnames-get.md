@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/recommend/sr/srnames:
-    get&nbsp;:
+    get:
       summary: Get&nbsp; Api Recommend Sr Srnames
       description: Return subreddits recommended for the given subreddit(s)
       operationId: subreddits

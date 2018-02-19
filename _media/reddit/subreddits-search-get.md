@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /subreddits/search:
-    get&nbsp;:
+    get:
       summary: Get&nbsp; Subreddits Search
       description: Search subreddits by title and description
       operationId: subreddits

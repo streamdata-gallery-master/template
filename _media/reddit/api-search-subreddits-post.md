@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/search_subreddits:
-    post&nbsp;:
+    post:
       summary: Add&nbsp; Api Search Subreddits
       description: List subreddits that begin with a query string
       operationId: subreddits

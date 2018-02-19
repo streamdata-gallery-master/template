@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /subreddits/mine/where:
-    get&nbsp;:
+    get:
       summary: Get&nbsp; Subreddits Mine Where
       description: Get subreddits the user has a relationship with
       operationId: subreddits

@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   '{/r/subreddit}/api/accept_moderator_invite':
-    post&nbsp;:
+    post:
       summary: Add&nbsp; R Subreddit Api Accept Moderator Invite
       description: Accept an invite to moderate the specified subreddit
       operationId: moderation

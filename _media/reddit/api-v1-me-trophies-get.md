@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/v1/me/trophies:
-    get&nbsp;:
+    get:
       summary: Get&nbsp; Api V1 Me Trophies
       description: Return a list of trophies for the current user
       operationId: sign-up-to-get-your-own-personalized-reddit-experience

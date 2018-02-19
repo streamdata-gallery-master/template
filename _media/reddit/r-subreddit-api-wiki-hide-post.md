@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   '{/r/subreddit}/api/wiki/hide':
-    post&nbsp;:
+    post:
       summary: Add&nbsp; R Subreddit Api Wiki He
       description: Toggle the public visibility of a wiki page revision
       operationId: wiki

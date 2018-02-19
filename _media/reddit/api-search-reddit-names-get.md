@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/search_reddit_names:
-    get&nbsp;:
+    get:
       summary: Get&nbsp; Api Search Reddit Names
       description: List subreddit names that begin with a query string
       operationId: subreddits

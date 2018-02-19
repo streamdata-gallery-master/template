@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /subreddits/where:
-    get&nbsp;:
+    get:
       summary: Get&nbsp; Subreddits Where
       description: Get all subreddits
       operationId: subreddits

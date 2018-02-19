@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/multi/rename:
-    post&nbsp;:
+    post:
       summary: Add&nbsp; Api Multi Rename
       description: Rename a multi
       operationId: multis

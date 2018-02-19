@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/multi/multipath:
-    delete&nbsp;:
+    delete:
       summary: Delete&nbsp; Api Multi Multipath
       description: Delete a multi
       operationId: multis

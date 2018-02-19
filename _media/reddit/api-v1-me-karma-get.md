@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/v1/me/karma:
-    get&nbsp;:
+    get:
       summary: Get&nbsp; Api V1 Me Karma
       description: Return a breakdown of subreddit karma
       operationId: sign-up-to-get-your-own-personalized-reddit-experience

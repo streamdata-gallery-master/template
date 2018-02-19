@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/leavecontributor:
-    post&nbsp;:
+    post:
       summary: Add&nbsp; Api Leavecontributor
       description: Abdicate approved submitter status in a subreddit
       operationId: moderation

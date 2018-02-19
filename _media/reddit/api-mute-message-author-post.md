@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/mute_message_author:
-    post&nbsp;:
+    post:
       summary: Add&nbsp; Api Mute Message Author
       description: For muting user via modmail
       operationId: moderation

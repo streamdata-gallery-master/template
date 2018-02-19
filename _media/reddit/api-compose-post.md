@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/compose:
-    post&nbsp;:
+    post:
       summary: Add&nbsp; Api Compose
       description: Handles message composition under /message/compose
       operationId: private-messages
