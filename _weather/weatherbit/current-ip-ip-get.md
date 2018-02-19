@@ -1,7 +1,7 @@
 ---
 swagger: "2.0"
 info:
-  title: Weatherbit.io - Weather
+  title: Weatherbit
   description: This is the documentation for the Weatherbit API.  The base URL for
     the API is [http://api.weatherbit.io/v2.0/](http://api.weatherbit.io/v2.0/) or
     [https://api.weatherbit.io/v2.0/](http://api.weatherbit.io/v2.0/). Below is the
@@ -19,7 +19,7 @@ consumes:
 paths:
   /current?ip={ip}:
     get:
-      summary: Returns a Current Observation - Given an IP address, or auto.
+      summary: Get Current IP
       description: Returns a Current Observation - Given an IP address, or auto
       operationId: returns-a-current-observation--given-an-ip-address-or-auto
       parameters:
@@ -47,6 +47,9 @@ paths:
           description: OK
       tags:
       - weather
+      - current
+      - ip
+      - ip
 definitions:
   CurrentObs:
     properties:
