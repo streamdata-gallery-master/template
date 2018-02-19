@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/site_admin:
-    post&nbsp;:
+    post:
       summary: Add&nbsp; Api Site Admin
       description: Create or configure a subreddit
       operationId: subreddits
