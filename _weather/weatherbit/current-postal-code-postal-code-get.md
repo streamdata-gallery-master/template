@@ -1,7 +1,7 @@
 ---
 swagger: "2.0"
 info:
-  title: Weatherbit.io - Weather
+  title: Weatherbit
   description: This is the documentation for the Weatherbit API.  The base URL for
     the API is [http://api.weatherbit.io/v2.0/](http://api.weatherbit.io/v2.0/) or
     [https://api.weatherbit.io/v2.0/](http://api.weatherbit.io/v2.0/). Below is the
@@ -19,7 +19,7 @@ consumes:
 paths:
   /current?postal_code={postal_code}:
     get:
-      summary: Returns a current observation by postal code.
+      summary: Get Current Postla Code Code
       description: Returns current weather observation - Given a Postal Code
       operationId: returns-current-weather-observation--given-a-postal-code-
       parameters:
@@ -50,6 +50,11 @@ paths:
           description: OK
       tags:
       - weather
+      - current
+      - postal
+      - code
+      - postal
+      - code
 definitions:
   CurrentObs:
     properties:
