@@ -2,7 +2,7 @@
 name: News API
 description: Get live article metadata from a range of sources including BBC News,
   TechCrunch, Huffington Post and more with our free News API.
-image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/26590-newsapi-org.jpg
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26590-newsapi-org.jpg
 x-kinRank: "9"
 x-alexaRank: "149236"
 tags:
@@ -10,15 +10,15 @@ tags:
 - Publishing
 - News
 - Media
-created: "2018-02-18"
-modified: "2018-02-18"
+created: "2018-02-19"
+modified: "2018-02-19"
 url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/news-api/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: News API
   description: Get live article metadata from a range of sources including BBC News,
     TechCrunch, Huffington Post and more with our free News API
-  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/26590-newsapi-org.jpg
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26590-newsapi-org.jpg
   humanURL: https://newsapi.org
   baseURL: https://newsapi.org
   tags:
@@ -29,7 +29,7 @@ apis:
 - name: News API
   description: Get live article metadata from a range of sources including BBC News,
     TechCrunch, Huffington Post and more with our free News API
-  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/26590-newsapi-org.jpg
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26590-newsapi-org.jpg
   humanURL: https://newsapi.org
   baseURL: https://newsapi.org
   tags:
@@ -40,7 +40,7 @@ apis:
 - name: News API
   description: Get live article metadata from a range of sources including BBC News,
     TechCrunch, Huffington Post and more with our free News API
-  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/26590-newsapi-org.jpg
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26590-newsapi-org.jpg
   humanURL: https://newsapi.org
   baseURL: https://newsapi.org
   tags:
