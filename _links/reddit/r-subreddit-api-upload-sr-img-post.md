@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   '{/r/subreddit}/api/upload_sr_img':
-    post&nbsp;:
+    post:
       summary: Add&nbsp; R Subreddit Api Upload Sr Img
       description: |-
         Add or replace a subreddit image, custom header logo, custom mobile
