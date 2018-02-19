@@ -1,30 +1,40 @@
 - label: Developers
   slug: developers
   image: developers.png
+  description: API driven solutions for developers to do wha they do.
 - label: Images
   slug: images
   image: images.php
+  description: Photos, images, icons, and all the visual APIs.
 - label: Links
   slug: links
   image: links.padding
+  description: API tooling for managing links, and operating on the web.
 - label: Market Data
   slug: market-data
   image: market-data.png
+  description: Access to inancial market data APIs, and data sources.
 - label: Media
   slug: media
   image: media.png
+  description: Content, media, and other APIs that deliver rich media.
 - label: Productivity
   slug: productivity
   image: productivity.png
+  description: APIs that enable productivity within other applications.
 - label: Social Network
   slug: social-network
-  image:
+  image: social-network.png
+  description: Social networking APIs for use in other applications.
 - label: Transportation
   slug: transportation
-  image:
+  image: transportation.png
+  description: Transportation, transit and other APIs that move us around.
 - label: Weather
   slug: weather
-  image:
+  image: weather.png
+  description: Weather and environmental APIs for managing world around us.
 - label: Videos
   slug: videos
   image: videos.png
+  description: APIs for accessing and viewing videos via web technology.

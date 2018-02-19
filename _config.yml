@@ -24,28 +24,6 @@ github_user: api-stack
 github_repo: apis
 github_branch: master
 
-navigation:
-  - label: Market Data
-    slug: market-data
-  - label: Media
-    slug: media
-  - label: Social Network
-    slug: social-network
-  - label: Transportation
-    slug: transportation
-  - label: Weather
-    slug: weather
-  - label: Images
-    slug: images
-  - label: Developers
-    slug: developers
-  - label: Links
-    slug: links
-  - label: Videos
-    slug: videos
-  - label: Productivity
-    slug: productivity
-
 collections:
   market_data:
     output: true
