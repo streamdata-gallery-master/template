@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/multi/multipath:
-    get&nbsp;:
+    get:
       summary: Get&nbsp; Api Multi Multipath
       description: Fetch a multi&#39;s data and subreddit list by name
       operationId: multis
