@@ -1,7 +1,7 @@
 ---
 swagger: "2.0"
 info:
-  title: Wikimedia
+  title: Wikipedia
   description: This API provides cacheable and straightforward access to Wikimedia
     content and data, in machine-readable formats.
   termsOfService: https://wikimediafoundation.org/wiki/Terms_of_Use
