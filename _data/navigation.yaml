@@ -1,20 +1,30 @@
-- label: Market Data
-  slug: market-data
-- label: Media
-  slug: media
-- label: Social Network
-  slug: social-network
-- label: Transportation
-  slug: transportation
-- label: Weather
-  slug: weather
-- label: Images
-  slug: images
 - label: Developers
   slug: developers
+  image: developers.png
+- label: Images
+  slug: images
+  image: images.php
 - label: Links
   slug: links
-- label: Videos
-  slug: videos
+  image: links.padding
+- label: Market Data
+  slug: market-data
+  image: market-data.png
+- label: Media
+  slug: media
+  image: media.png
 - label: Productivity
   slug: productivity
+  image: productivity.png
+- label: Social Network
+  slug: social-network
+  image:
+- label: Transportation
+  slug: transportation
+  image:
+- label: Weather
+  slug: weather
+  image:
+- label: Videos
+  slug: videos
+  image: videos.png
