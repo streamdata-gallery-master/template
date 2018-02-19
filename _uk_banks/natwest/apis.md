@@ -8,7 +8,7 @@ description: National Westminster Bank, commonly known as NatWest, is a large re
   of the Groups core domestic business, the bank is a direct subsidiary of NatWest
   Holdings. NatWest Markets comprises its investment banking arm.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/natwest-logo.png
-x-kinRank: "0"
+x-kinRank: "8"
 x-alexaRank: ""
 tags:
 - UK Banks
