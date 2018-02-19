@@ -10,8 +10,8 @@ tags:
 - Publishing
 - News
 - Media
-created: "2018-02-16"
-modified: "2018-02-16"
+created: "2018-02-18"
+modified: "2018-02-18"
 url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/news-api/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -25,7 +25,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/news-api/everything.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/news-api/everything-get.md
 - name: News API
   description: Get live article metadata from a range of sources including BBC News,
     TechCrunch, Huffington Post and more with our free News API
@@ -36,7 +36,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/news-api/sources.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/news-api/sources-get.md
 - name: News API
   description: Get live article metadata from a range of sources including BBC News,
     TechCrunch, Huffington Post and more with our free News API
@@ -47,7 +47,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/news-api/top-headlines.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/news-api/top-headlines-get.md
 x-common:
 - type: x-email
   url: support@newsapi.org
