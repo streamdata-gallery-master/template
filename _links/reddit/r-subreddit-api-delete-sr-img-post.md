@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   '{/r/subreddit}/api/delete_sr_img':
-    post&nbsp;:
+    post:
       summary: Add&nbsp; R Subreddit Api Delete Sr Img
       description: Remove an image from the subreddit&#39;s custom image set
       operationId: subreddits
