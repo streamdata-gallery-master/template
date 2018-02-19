@@ -1,7 +1,7 @@
 ---
 swagger: "2.0"
 info:
-  title: Weatherbit.io - Weather
+  title: Weatherbit
   description: This is the documentation for the Weatherbit API.  The base URL for
     the API is [http://api.weatherbit.io/v2.0/](http://api.weatherbit.io/v2.0/) or
     [https://api.weatherbit.io/v2.0/](http://api.weatherbit.io/v2.0/). Below is the
@@ -19,7 +19,7 @@ consumes:
 paths:
   /current?stations={stations}:
     get:
-      summary: Returns a group of observations given a list of stations
+      summary: Get Current Stations Stations
       description: '**(Advanced/Advanced+/Enterprise plans only)** Returns a group
         of Current Observations - Given a list of Station Call IDs'
       operationId: advancedadvancedenterprise-plans-only-returns-a-group-of-current-observations--given-a-list-of-stati
@@ -45,6 +45,9 @@ paths:
           description: OK
       tags:
       - weather
+      - current
+      - stations
+      - stations
 definitions:
   CurrentObs:
     properties:
