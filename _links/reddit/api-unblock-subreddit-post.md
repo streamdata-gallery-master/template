@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/unblock_subreddit:
-    post&nbsp;:
+    post:
       summary: Add&nbsp; Api Unblock Subreddit
       description: fullname of a thing
       operationId: private-messages
