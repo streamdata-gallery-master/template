@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /r/subreddit/about/rules:
-    get&nbsp;:
+    get:
       summary: Get&nbsp; R Subreddit About Rules
       description: Get the rules for the current subreddit
       operationId: subreddits
