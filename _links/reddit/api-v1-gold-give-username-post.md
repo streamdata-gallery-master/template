@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/v1/gold/give/username:
-    post&nbsp;:
+    post:
       summary: Add&nbsp; Api V1 Gold Give Username
       description: an integer between 1 and 36
       operationId: reddit-gold
