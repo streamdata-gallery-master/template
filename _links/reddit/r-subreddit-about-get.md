@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /r/subreddit/about:
-    get&nbsp;:
+    get:
       summary: Get&nbsp; R Subreddit About
       description: Return information about the subreddit
       operationId: subreddits
