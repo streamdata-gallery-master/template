@@ -44,16 +44,16 @@ paths:
       - quotes
 definitions: []
 x-streamrank:
-  polling_total_time_average: ~
-  polling_size_download_average: ~
-  streaming_total_time_average: ~
-  streaming_size_download_average: ~
-  change_yes: ~
-  change_no: ~
-  time_percentage: ~
-  size_percentage: ~
-  change_percentage: ~
-  last_run: ~
-  days_run: ~
-  minute_run: ~
+  polling_total_time_average: "0.79"
+  polling_size_download_average: "9410.7"
+  streaming_total_time_average: "0.57"
+  streaming_size_download_average: "4708.32"
+  change_yes: "539"
+  change_no: "3202"
+  time_percentage: "28"
+  size_percentage: "50"
+  change_percentage: "14"
+  last_run: "2018-02-19"
+  days_run: "3"
+  minute_run: "0"
 ---
