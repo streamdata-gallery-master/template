@@ -9,8 +9,8 @@ x-alexaRank: ""
 tags:
 - News
 - Media
-created: "2018-02-16"
-modified: "2018-02-16"
+created: "2018-02-19"
+modified: "2018-02-19"
 url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/new-york-times/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -24,7 +24,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/new-york-times/articlesearch.json.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/new-york-times/articlesearch.json-get.md
 - name: New York Times
   description: The New York Times (sometimes abbreviated as The NYT or The Times)
     is an American newspaper based in New York City with worldwide influence and readership
@@ -35,7 +35,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/new-york-times/lists.-format-.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/new-york-times/lists.-format-get.md
 - name: New York Times
   description: The New York Times (sometimes abbreviated as The NYT or The Times)
     is an American newspaper based in New York City with worldwide influence and readership
@@ -46,7 +46,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/new-york-times/lists-best-sellers-history.json.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/new-york-times/lists-best-sellers-history.json-get.md
 - name: New York Times
   description: The New York Times (sometimes abbreviated as The NYT or The Times)
     is an American newspaper based in New York City with worldwide influence and readership
@@ -57,7 +57,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/new-york-times/lists-names.-format-.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/new-york-times/lists-names.-format-get.md
 - name: New York Times
   description: The New York Times (sometimes abbreviated as The NYT or The Times)
     is an American newspaper based in New York City with worldwide influence and readership
@@ -68,7 +68,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/new-york-times/lists-overview.-format-.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/new-york-times/lists-overview.-format-get.md
 - name: New York Times
   description: The New York Times (sometimes abbreviated as The NYT or The Times)
     is an American newspaper based in New York City with worldwide influence and readership
@@ -79,7 +79,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/new-york-times/lists-date--list-.json.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/new-york-times/lists-date-list-.json-get.md
 - name: New York Times
   description: The New York Times (sometimes abbreviated as The NYT or The Times)
     is an American newspaper based in New York City with worldwide influence and readership
@@ -90,7 +90,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/new-york-times/mostemailed-section--time-period-.json.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/new-york-times/mostemailed-section-time-period-.json-get.md
 - name: New York Times
   description: The New York Times (sometimes abbreviated as The NYT or The Times)
     is an American newspaper based in New York City with worldwide influence and readership
@@ -101,7 +101,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/new-york-times/mostshared-section--time-period-.json.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/new-york-times/mostshared-section-time-period-.json-get.md
 - name: New York Times
   description: The New York Times (sometimes abbreviated as The NYT or The Times)
     is an American newspaper based in New York City with worldwide influence and readership
@@ -112,7 +112,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/new-york-times/mostviewed-section--time-period-.json.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/new-york-times/mostviewed-section-time-period-.json-get.md
 - name: New York Times
   description: The New York Times (sometimes abbreviated as The NYT or The Times)
     is an American newspaper based in New York City with worldwide influence and readership
@@ -123,7 +123,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/new-york-times/name-concept-type--specific-concept-.json.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/new-york-times/name-concept-type-specific-concept-.json-get.md
 - name: New York Times
   description: The New York Times (sometimes abbreviated as The NYT or The Times)
     is an American newspaper based in New York City with worldwide influence and readership
@@ -134,7 +134,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/new-york-times/query.json.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/new-york-times/query.json-get.md
 - name: New York Times
   description: The New York Times (sometimes abbreviated as The NYT or The Times)
     is an American newspaper based in New York City with worldwide influence and readership
@@ -145,7 +145,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/new-york-times/reviews-search.json.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/new-york-times/reviews-search.json-get.md
 - name: New York Times
   description: The New York Times (sometimes abbreviated as The NYT or The Times)
     is an American newspaper based in New York City with worldwide influence and readership
@@ -156,7 +156,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/new-york-times/timestags.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/new-york-times/timestags-get.md
 - name: New York Times
   description: The New York Times (sometimes abbreviated as The NYT or The Times)
     is an American newspaper based in New York City with worldwide influence and readership
@@ -167,7 +167,7 @@ apis:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/new-york-times/section-.-format-.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/new-york-times/section-.-format-get.md
 x-common:
 - type: x-application-gallery
   url: http://developer.nytimes.com/gallery
