@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/multi/mine:
-    get&nbsp;:
+    get:
       summary: Get&nbsp; Api Multi Mine
       description: Fetch a list of multis belonging to the current user
       operationId: multis
