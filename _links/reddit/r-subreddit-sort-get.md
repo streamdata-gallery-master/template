@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   '{/r/subreddit}/sort':
-    get&nbsp;:
+    get:
       summary: Get&nbsp; R Subreddit Sort
       description: This endpoint is a listing
       operationId: listings
