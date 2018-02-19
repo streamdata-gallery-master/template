@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/v1/subreddit/emoji.json:
-    post&nbsp;:
+    post:
       summary: Add&nbsp; Api V1 Subreddit Emoji.json
       description: Add an emoji to the DB by posting a message on emoji_upload_q
       operationId: emoji
