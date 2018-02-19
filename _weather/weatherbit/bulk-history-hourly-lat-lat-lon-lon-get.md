@@ -1,7 +1,7 @@
 ---
 swagger: "2.0"
 info:
-  title: Weatherbit.io - Weather
+  title: Weatherbit
   description: This is the documentation for the Weatherbit API.  The base URL for
     the API is [http://api.weatherbit.io/v2.0/](http://api.weatherbit.io/v2.0/) or
     [https://api.weatherbit.io/v2.0/](http://api.weatherbit.io/v2.0/). Below is the
@@ -19,7 +19,7 @@ consumes:
 paths:
   /bulk/history/hourly?lat={lat}&lon={lon}:
     get:
-      summary: Returns Historical Observations - Given a lat/lon. (1 Year/call limit)
+      summary: Get Bulk History Hourly Lat & Lon
       description: Returns Historical Observations - Given a lat, and lon
       operationId: returns-historical-observations--given-a-lat-and-lon
       parameters:
@@ -53,6 +53,13 @@ paths:
           description: OK
       tags:
       - weather
+      - bulk
+      - history
+      - hourly
+      - lat
+      - lat
+      - '&lon'
+      - lon
 definitions:
   CurrentObs:
     properties:
