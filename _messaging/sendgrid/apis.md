@@ -1,5 +1,5 @@
 ---
-name: SendGrid
+name: SendGrid v3
 description: SendGrid is a cloud-based email service that delivers email on behalf
   of companies to increase deliverability and improve customer communications integration
   with new or existing email systems is done via SMTP or through a REST API, providing
