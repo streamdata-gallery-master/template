@@ -1,15 +1,6 @@
 <section class="filterTags" data-filter-tags="">
    <div class="filterTags__container">
 
-     <script>
-      function filter()
-        {
-        url = document.getElementById('tagfilter').value;
-        alert(url);
-        location.href = url;
-        }
-     </script>
-
      <form>
      <strong>Filter By:</strong>
      <select name="filter" id="tagfilter">
@@ -18,7 +9,17 @@
          <option value="https://streamdata-gallery.github.io/apis/{{ nav.label }}/apis/">{{ nav.label }}</option>
     {% endfor %}
      </select>
-     <input type="button" onclick="filter();" name="filter_by" value="Go" />
+     <input type="button" onclick="filterbytag();" name="filter_by" value="Go" />
    </form>
+
+   <script>
+    function filterbytag()
+      {
+      url = document.getElementById('tagfilter').value;
+      alert(url);
+      location.href = url;
+      }
+   </script>
+
    </div>
 </section>
