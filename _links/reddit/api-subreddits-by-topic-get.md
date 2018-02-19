@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/subreddits_by_topic:
-    get&nbsp;:
+    get:
       summary: Get&nbsp; Api Subreddits By Topic
       description: Return a list of subreddits that are relevant to a search query
       operationId: subreddits
