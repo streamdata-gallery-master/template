@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   '{/r/subreddit}/api/submit_text':
-    get&nbsp;:
+    get:
       summary: Get&nbsp; R Subreddit Api Submit Text
       description: Get the submission text for the subreddit
       operationId: subreddits
