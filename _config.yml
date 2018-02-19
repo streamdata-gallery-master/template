@@ -72,6 +72,10 @@ collections:
     output: true
     permalink: /blockchain/:path/
     label: Blockchain
+  messaging:
+    output: true
+    permalink: /messaging/:path/
+    label: Messaging
 
 defaults:
   - scope:
@@ -125,4 +129,8 @@ defaults:
   - scope:
       type: analytics
     values:
-      layout: analytics      
+      layout: analytics
+  - scope:
+      type: messaging
+    values:
+      layout: messaging        
