@@ -60,16 +60,16 @@ paths:
       - news
 definitions: []
 x-streamrank:
-  polling_total_time_average: ~
-  polling_size_download_average: ~
-  streaming_total_time_average: ~
-  streaming_size_download_average: ~
-  change_yes: ~
-  change_no: ~
-  time_percentage: ~
-  size_percentage: ~
-  change_percentage: ~
-  last_run: ~
-  days_run: ~
-  minute_run: ~
+  polling_total_time_average: "0.2"
+  polling_size_download_average: "12461.57"
+  streaming_total_time_average: "0.12"
+  streaming_size_download_average: "6242.61"
+  change_yes: "387"
+  change_no: "3062"
+  time_percentage: "41"
+  size_percentage: "50"
+  change_percentage: "11"
+  last_run: "2018-02-19"
+  days_run: "3"
+  minute_run: "0"
 ---
