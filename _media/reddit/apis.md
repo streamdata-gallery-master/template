@@ -5,7 +5,7 @@ description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social 
   such as text posts or direct links. Only registered users can then vote submissions
   up or down to organize the posts and determine their position on the sites pages.
   Content entries are organized by areas of interest called subreddits.
-image: http://www.redditstatic.com/about/assets/reddit-logo.png
+image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
 x-kinRank: "9"
 x-alexaRank: ""
 tags:
@@ -26,7 +26,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -38,7 +38,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -50,7 +50,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -62,7 +62,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -74,7 +74,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -86,7 +86,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -98,7 +98,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -110,7 +110,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -122,7 +122,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -134,7 +134,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -146,7 +146,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -158,7 +158,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -170,7 +170,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -182,7 +182,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -194,7 +194,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -206,7 +206,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -218,7 +218,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -230,7 +230,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -242,7 +242,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -254,7 +254,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -266,7 +266,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -278,7 +278,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -290,7 +290,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -302,7 +302,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -314,7 +314,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -326,7 +326,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -338,7 +338,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -350,7 +350,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -362,7 +362,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -374,7 +374,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -386,7 +386,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -398,7 +398,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -410,7 +410,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -422,7 +422,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -434,7 +434,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -446,7 +446,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -458,7 +458,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -470,7 +470,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -482,7 +482,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -494,7 +494,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -506,7 +506,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -518,7 +518,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -530,7 +530,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -542,7 +542,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -554,7 +554,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -566,7 +566,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -578,7 +578,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -590,7 +590,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -602,7 +602,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -614,7 +614,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -626,7 +626,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -638,7 +638,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -650,7 +650,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -662,7 +662,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -674,7 +674,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -686,7 +686,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -698,7 +698,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -710,7 +710,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -722,7 +722,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -734,7 +734,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -746,7 +746,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -758,7 +758,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -770,7 +770,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -782,7 +782,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -794,7 +794,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -806,7 +806,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -818,7 +818,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -830,7 +830,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -842,7 +842,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -854,7 +854,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -866,7 +866,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -878,7 +878,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -890,7 +890,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -902,7 +902,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -914,7 +914,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -926,7 +926,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -938,7 +938,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -950,7 +950,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -962,7 +962,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -974,7 +974,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -986,7 +986,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -998,7 +998,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -1010,7 +1010,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -1022,7 +1022,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -1034,7 +1034,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -1046,7 +1046,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -1058,7 +1058,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -1070,7 +1070,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -1082,7 +1082,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -1094,7 +1094,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -1106,7 +1106,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -1118,7 +1118,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -1130,7 +1130,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -1142,7 +1142,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
@@ -1154,7 +1154,7 @@ apis:
   description: Reddit /??r??d?t/, stylized as reddit, is an entertainment, social
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
-  image: http://www.redditstatic.com/about/assets/reddit-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/reddit-logo.png
   humanURL: http://www.reddit.com
   baseURL: http://www.reddit.com
   tags:
