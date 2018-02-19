@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/del_msg:
-    post&nbsp;:
+    post:
       summary: Add&nbsp; Api Del Msg
       description: Delete messages from the recipient&#39;s view of their inbox
       operationId: private-messages
