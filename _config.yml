@@ -64,6 +64,14 @@ collections:
     output: true
     permalink: /productivity/:path/
     label: Productivity
+  analytics:
+    output: true
+    permalink: /analytics/:path/
+    label: Analytics
+  blockchain:
+    output: true
+    permalink: /blockchain/:path/
+    label: Blockchain
 
 defaults:
   - scope:
@@ -110,3 +118,11 @@ defaults:
       type: productivity
     values:
       layout: productivity
+  - scope:
+      type: blockchain
+    values:
+      layout: blockchain
+  - scope:
+      type: analytics
+    values:
+      layout: analytics      
