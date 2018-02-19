@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   '{/r/subreddit}/wiki/revisions':
-    get&nbsp;:
+    get:
       summary: Get&nbsp; R Subreddit Wiki Revisions
       description: Retrieve a list of recently changed wiki pages in this subreddit
       operationId: wiki
