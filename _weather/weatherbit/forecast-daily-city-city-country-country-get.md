@@ -1,7 +1,7 @@
 ---
 swagger: "2.0"
 info:
-  title: Weatherbit.io - Weather
+  title: Weatherbit
   description: This is the documentation for the Weatherbit API.  The base URL for
     the API is [http://api.weatherbit.io/v2.0/](http://api.weatherbit.io/v2.0/) or
     [https://api.weatherbit.io/v2.0/](http://api.weatherbit.io/v2.0/). Below is the
@@ -19,7 +19,7 @@ consumes:
 paths:
   /forecast/daily?city={city}&country={country}:
     get:
-      summary: Returns a daily forecast - Given City and/or State, Country.
+      summary: Get Forecast Daily City & Country
       description: '**(REQUIRED: Basic Plan or Higher)** Returns a daily forecast,
         where each point represents one day (24hr) period'
       operationId: required-basic-plan-or-higher-returns-a-daily-forecast-where-each-point-represents-one-day-24hr-peri
@@ -54,6 +54,12 @@ paths:
           description: OK
       tags:
       - weather
+      - forecast
+      - daily
+      - city
+      - city
+      - '&country'
+      - country
 definitions:
   CurrentObs:
     properties:
