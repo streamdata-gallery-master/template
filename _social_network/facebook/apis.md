@@ -5,7 +5,7 @@ description: Facebook is an online social networking service that allows its use
   its users with the ability to create a profile, update information, add images,
   send friend requests, and accept requests from other users. Its features include
   status update, photo tagging and sharing, and more.
-image: https://avatars3.githubusercontent.com/u/69631?v=4
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
 x-kinRank: "9"
 x-alexaRank: ""
 tags:
@@ -15,7 +15,6 @@ tags:
 - Social API
 - Social
 - Road Map
-- Payments
 - Payment API
 - Partners
 - My API Stack
@@ -24,15 +23,15 @@ tags:
 - Indie EdTech Data Jam
 - Facebook Stack
 - Advertising
-created: "2018-02-17"
-modified: "2018-02-17"
+created: "2018-02-18"
+modified: "2018-02-18"
 url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_social_network/facebook/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -43,7 +42,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -54,7 +53,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -65,7 +64,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -76,7 +75,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -87,7 +86,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -98,7 +97,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -109,7 +108,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -120,7 +119,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -131,7 +130,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -142,7 +141,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -153,7 +152,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -164,7 +163,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -175,7 +174,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -186,7 +185,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -197,7 +196,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -208,7 +207,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -219,7 +218,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -230,7 +229,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -241,7 +240,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -252,7 +251,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -263,7 +262,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -274,7 +273,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -285,7 +284,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -296,7 +295,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -307,7 +306,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -318,7 +317,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -329,7 +328,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -340,7 +339,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -351,7 +350,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -362,7 +361,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -373,7 +372,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -384,7 +383,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -395,7 +394,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -406,7 +405,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -417,7 +416,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -428,7 +427,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -439,7 +438,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -450,7 +449,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -461,7 +460,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -472,7 +471,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -483,7 +482,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -494,7 +493,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -505,7 +504,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -516,7 +515,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -527,7 +526,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -538,7 +537,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -549,7 +548,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -560,7 +559,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -571,7 +570,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -582,7 +581,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -593,7 +592,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -604,7 +603,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -615,7 +614,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -626,7 +625,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -637,7 +636,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -648,7 +647,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -659,7 +658,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -670,7 +669,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -681,7 +680,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -692,7 +691,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -703,7 +702,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -714,7 +713,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -725,7 +724,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -736,7 +735,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -747,7 +746,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -758,7 +757,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -769,7 +768,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -780,7 +779,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -791,7 +790,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -802,7 +801,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -813,7 +812,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -824,7 +823,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -835,7 +834,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -846,7 +845,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -857,7 +856,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -868,7 +867,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -879,7 +878,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -890,7 +889,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -901,7 +900,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -912,7 +911,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -923,7 +922,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -934,7 +933,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -945,7 +944,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -956,7 +955,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -967,7 +966,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -978,7 +977,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -989,7 +988,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1000,7 +999,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1011,7 +1010,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1022,7 +1021,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1033,29 +1032,29 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_social_network/facebook/from.id--status-id-delete.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_social_network/facebook/from.id-status-id-delete.md
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
   - Gallery
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_social_network/facebook/from.id--status-id-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_social_network/facebook/from.id-status-id-post.md
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1066,7 +1065,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1077,7 +1076,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1088,7 +1087,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1099,7 +1098,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1110,7 +1109,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1121,7 +1120,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1132,7 +1131,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1143,7 +1142,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1154,7 +1153,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1165,7 +1164,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1176,7 +1175,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1187,7 +1186,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1198,7 +1197,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1209,7 +1208,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1220,7 +1219,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1231,7 +1230,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1242,7 +1241,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1253,7 +1252,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1264,7 +1263,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1275,7 +1274,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1286,7 +1285,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1297,7 +1296,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1308,7 +1307,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1319,7 +1318,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1330,7 +1329,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1341,7 +1340,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1352,7 +1351,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1363,7 +1362,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1374,7 +1373,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1385,7 +1384,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1396,7 +1395,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1407,7 +1406,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1418,7 +1417,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1429,7 +1428,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1440,7 +1439,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1451,7 +1450,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1462,7 +1461,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1473,7 +1472,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1484,7 +1483,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1495,7 +1494,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1506,7 +1505,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1517,7 +1516,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1528,7 +1527,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1539,7 +1538,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1550,7 +1549,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1561,7 +1560,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1572,7 +1571,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1583,7 +1582,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1594,7 +1593,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1605,7 +1604,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1616,7 +1615,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1627,7 +1626,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1638,7 +1637,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1649,7 +1648,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1660,7 +1659,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1671,7 +1670,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1682,7 +1681,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1693,7 +1692,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1704,7 +1703,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1715,7 +1714,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1726,7 +1725,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1737,7 +1736,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1748,7 +1747,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1759,7 +1758,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1770,7 +1769,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1781,7 +1780,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1792,7 +1791,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1803,7 +1802,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1814,7 +1813,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1825,7 +1824,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1836,7 +1835,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1847,7 +1846,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1858,7 +1857,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1869,7 +1868,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1880,7 +1879,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1891,7 +1890,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1902,7 +1901,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1913,7 +1912,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1924,7 +1923,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1935,7 +1934,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1946,7 +1945,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1957,7 +1956,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1968,7 +1967,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1979,7 +1978,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -1990,7 +1989,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2001,7 +2000,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2012,7 +2011,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2023,7 +2022,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2034,7 +2033,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2045,7 +2044,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2056,7 +2055,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2067,7 +2066,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2078,7 +2077,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2089,7 +2088,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2100,7 +2099,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2111,7 +2110,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2122,7 +2121,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2133,7 +2132,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2144,7 +2143,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2155,7 +2154,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2166,7 +2165,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2177,7 +2176,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2188,7 +2187,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2199,7 +2198,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2210,7 +2209,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2221,7 +2220,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2232,7 +2231,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2243,7 +2242,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2254,7 +2253,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2265,7 +2264,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2276,7 +2275,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2287,7 +2286,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2298,7 +2297,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2309,7 +2308,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2320,7 +2319,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2331,7 +2330,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2342,7 +2341,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2353,7 +2352,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2364,7 +2363,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2375,7 +2374,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2386,7 +2385,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2397,7 +2396,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2408,7 +2407,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2419,7 +2418,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2430,7 +2429,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2441,7 +2440,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2452,7 +2451,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2463,7 +2462,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2474,7 +2473,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2485,7 +2484,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2496,7 +2495,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2507,7 +2506,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2518,7 +2517,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2529,7 +2528,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2540,7 +2539,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2551,7 +2550,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2562,7 +2561,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2573,7 +2572,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2584,7 +2583,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2595,7 +2594,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2606,7 +2605,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2617,7 +2616,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2628,7 +2627,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2639,7 +2638,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2650,7 +2649,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2661,7 +2660,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2672,7 +2671,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2683,7 +2682,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2694,7 +2693,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2705,7 +2704,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2716,7 +2715,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2727,7 +2726,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2738,7 +2737,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2749,7 +2748,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2760,7 +2759,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2771,7 +2770,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2782,7 +2781,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2793,7 +2792,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2804,7 +2803,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2815,7 +2814,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2826,7 +2825,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2837,7 +2836,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2848,7 +2847,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2859,7 +2858,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2870,7 +2869,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2881,7 +2880,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2892,7 +2891,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2903,7 +2902,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2914,7 +2913,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2925,7 +2924,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
@@ -2936,7 +2935,7 @@ apis:
 - name: Facebook
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
-  image: https://avatars3.githubusercontent.com/u/69631?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
   humanURL: https://facebook.com
   baseURL: https://facebook.com
   tags:
