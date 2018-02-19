@@ -3,7 +3,7 @@ name: Google Analytics
 description: Google Analytics gives you the digital analytics tools you need to analyze
   data from all touchpoints in one place, for a deeper understanding of the customer
   experience. You can then share the insights that matter with your whole organization.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
 x-kinRank: "9"
 x-alexaRank: ""
 tags:
@@ -21,7 +21,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -33,7 +33,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -45,7 +45,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -57,7 +57,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -69,7 +69,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -81,7 +81,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -93,7 +93,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -105,7 +105,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -117,7 +117,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -129,7 +129,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -141,7 +141,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -153,7 +153,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -165,7 +165,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -177,7 +177,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -189,7 +189,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -201,7 +201,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -213,7 +213,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -225,7 +225,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -237,7 +237,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -249,7 +249,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -261,7 +261,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -273,7 +273,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -285,7 +285,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -297,7 +297,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -309,7 +309,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -321,7 +321,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -333,7 +333,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -345,7 +345,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -357,7 +357,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -369,7 +369,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -381,7 +381,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -393,7 +393,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -405,7 +405,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -417,7 +417,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -429,7 +429,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -441,7 +441,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -453,7 +453,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -465,7 +465,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -477,7 +477,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -489,7 +489,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -501,7 +501,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -513,7 +513,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -525,7 +525,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -537,7 +537,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -549,7 +549,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -561,7 +561,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -573,7 +573,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -585,7 +585,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -597,7 +597,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -609,7 +609,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -621,7 +621,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -633,7 +633,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -645,7 +645,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -657,7 +657,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -669,7 +669,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -681,7 +681,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -693,7 +693,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -705,7 +705,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -717,7 +717,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -729,7 +729,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -741,7 +741,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -753,7 +753,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -765,7 +765,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -777,7 +777,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -789,7 +789,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -801,7 +801,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -813,7 +813,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -825,7 +825,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -837,7 +837,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -849,7 +849,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -861,7 +861,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -873,7 +873,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -885,7 +885,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -897,7 +897,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -909,7 +909,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -921,7 +921,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -933,7 +933,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -945,7 +945,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -957,7 +957,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -969,7 +969,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -981,7 +981,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -993,7 +993,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -1005,7 +1005,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
@@ -1017,7 +1017,7 @@ apis:
   description: Google Analytics gives you the digital analytics tools you need to
     analyze data from all touchpoints in one place, for a deeper understanding of
     the customer experience
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
