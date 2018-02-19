@@ -3,7 +3,7 @@ name: Santander Bank
 description: Apply for a bank account online with Santander Bank. Enjoy convenient
   online bank account options from one of the best personal banks.
 image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28128-www-santanderbank-com.jpg
-x-kinRank: "0"
+x-kinRank: "8"
 x-alexaRank: "11016"
 tags:
 - UK Banks
