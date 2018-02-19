@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /duplicates/article:
-    get&nbsp;:
+    get:
       summary: Get&nbsp; Duplicates Article
       description: Return a list of other submissions of the same URL
       operationId: listings
