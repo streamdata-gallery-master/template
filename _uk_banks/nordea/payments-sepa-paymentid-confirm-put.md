@@ -1,7 +1,7 @@
 ---
 swagger: "2.0"
 info:
-  title: Nordea Open Banking API
+  title: Nordea
   description: 'The Nordea''s Open Banking Initiative (OBI) API, offers a safe and
     simple way to try out the upcoming OBI. This API is a sandbox version, and its
     purpose is to make developers familiar with the upcoming OBI production release.
