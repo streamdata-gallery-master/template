@@ -1,0 +1,15 @@
+<section class="filterTags" data-filter-tags="">
+   <div class="filterTags__container">
+
+      <strong>Filter By:</strong>
+      <select>
+        {% assign collections = site.collections | sort: '' %}
+        {% for collection in collections %}
+          {% assign collection_name = collection[0] | replace: '_','-' %}
+          <option value="{{ collection_name }}">{{ collection.label }}</option>
+        {% endfor %}
+      </select>
+      <input type="button" name="filter_by" value="Go" />
+
+   </div>
+</section>
