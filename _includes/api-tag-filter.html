@@ -6,7 +6,7 @@
      <select name="filter" id="tagfilter">
      {% assign navigation = site.data.navigation | sort: 'label' %}
      {% for nav in navigation %}}
-         <option value="https://streamdata-gallery.github.io/apis/{{ nav.label }}/apis/">{{ nav.label }}</option>
+         <option value="https://streamdata-gallery.github.io/apis/{{ nav.slug }}/apis/">{{ nav.label }}</option>
     {% endfor %}
      </select>
      <input type="button" onclick="filterbytag();" name="filter_by" value="Go" />
@@ -16,7 +16,7 @@
     function filterbytag()
       {
       url = document.getElementById('tagfilter').value;
-      alert(url);
+      //alert(url);
       location.href = url;
       }
    </script>
