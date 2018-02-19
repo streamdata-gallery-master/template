@@ -7,7 +7,7 @@ description: Allied Irish Banks (AIB) is one of the so-called Big Four commercia
   such as home, travel, and health insurance. It offers life assurance and pensions
   through its tied agency with Irish Life Assurance plc.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/allied-irish-bank.jpeg
-x-kinRank: "0"
+x-kinRank: "8"
 x-alexaRank: ""
 tags:
 - UK Banks
