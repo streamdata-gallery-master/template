@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   '{/r/subreddit}/random':
-    get&nbsp;:
+    get:
       summary: Get&nbsp; R Subreddit Random
       description: The Serendipity button
       operationId: listings
