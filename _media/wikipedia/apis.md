@@ -4,7 +4,7 @@ description: Wikipedia is a Wikimedia Foundation project to build free encyclope
   in all languages of the world. Virtually anyone with Internet access is free to
   contribute, by contributing neutral, cited information. As of March 2008 Wikipedia
   is offered in 250 languages.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpb
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpg
 x-kinRank: "8"
 x-alexaRank: ""
 tags:
@@ -22,7 +22,7 @@ apis:
 - name: Wikipedia
   description: Wikipedia is a Wikimedia Foundation project to build free encyclopedias
     in all languages of the world
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpb
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpg
   humanURL: http://www.mediawiki.org/wiki/API
   baseURL: http://www.mediawiki.org/wiki/API
   tags:
@@ -33,7 +33,7 @@ apis:
 - name: Wikipedia
   description: Wikipedia is a Wikimedia Foundation project to build free encyclopedias
     in all languages of the world
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpb
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpg
   humanURL: http://www.mediawiki.org/wiki/API
   baseURL: http://www.mediawiki.org/wiki/API
   tags:
@@ -44,7 +44,7 @@ apis:
 - name: Wikipedia
   description: Wikipedia is a Wikimedia Foundation project to build free encyclopedias
     in all languages of the world
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpb
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpg
   humanURL: http://www.mediawiki.org/wiki/API
   baseURL: http://www.mediawiki.org/wiki/API
   tags:
@@ -55,7 +55,7 @@ apis:
 - name: Wikipedia
   description: Wikipedia is a Wikimedia Foundation project to build free encyclopedias
     in all languages of the world
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpb
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpg
   humanURL: http://www.mediawiki.org/wiki/API
   baseURL: http://www.mediawiki.org/wiki/API
   tags:
@@ -66,7 +66,7 @@ apis:
 - name: Wikipedia
   description: Wikipedia is a Wikimedia Foundation project to build free encyclopedias
     in all languages of the world
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpb
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpg
   humanURL: http://www.mediawiki.org/wiki/API
   baseURL: http://www.mediawiki.org/wiki/API
   tags:
@@ -77,7 +77,7 @@ apis:
 - name: Wikipedia
   description: Wikipedia is a Wikimedia Foundation project to build free encyclopedias
     in all languages of the world
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpb
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpg
   humanURL: http://www.mediawiki.org/wiki/API
   baseURL: http://www.mediawiki.org/wiki/API
   tags:
@@ -88,7 +88,7 @@ apis:
 - name: Wikipedia
   description: Wikipedia is a Wikimedia Foundation project to build free encyclopedias
     in all languages of the world
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpb
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpg
   humanURL: http://www.mediawiki.org/wiki/API
   baseURL: http://www.mediawiki.org/wiki/API
   tags:
@@ -99,7 +99,7 @@ apis:
 - name: Wikipedia
   description: Wikipedia is a Wikimedia Foundation project to build free encyclopedias
     in all languages of the world
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpb
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpg
   humanURL: http://www.mediawiki.org/wiki/API
   baseURL: http://www.mediawiki.org/wiki/API
   tags:
@@ -110,7 +110,7 @@ apis:
 - name: Wikipedia
   description: Wikipedia is a Wikimedia Foundation project to build free encyclopedias
     in all languages of the world
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpb
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpg
   humanURL: http://www.mediawiki.org/wiki/API
   baseURL: http://www.mediawiki.org/wiki/API
   tags:
@@ -121,7 +121,7 @@ apis:
 - name: Wikipedia
   description: Wikipedia is a Wikimedia Foundation project to build free encyclopedias
     in all languages of the world
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpb
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpg
   humanURL: http://www.mediawiki.org/wiki/API
   baseURL: http://www.mediawiki.org/wiki/API
   tags:
@@ -132,7 +132,7 @@ apis:
 - name: Wikipedia
   description: Wikipedia is a Wikimedia Foundation project to build free encyclopedias
     in all languages of the world
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpb
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpg
   humanURL: http://www.mediawiki.org/wiki/API
   baseURL: http://www.mediawiki.org/wiki/API
   tags:
@@ -143,7 +143,7 @@ apis:
 - name: Wikipedia
   description: Wikipedia is a Wikimedia Foundation project to build free encyclopedias
     in all languages of the world
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpb
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpg
   humanURL: http://www.mediawiki.org/wiki/API
   baseURL: http://www.mediawiki.org/wiki/API
   tags:
@@ -154,7 +154,7 @@ apis:
 - name: Wikipedia
   description: Wikipedia is a Wikimedia Foundation project to build free encyclopedias
     in all languages of the world
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpb
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpg
   humanURL: http://www.mediawiki.org/wiki/API
   baseURL: http://www.mediawiki.org/wiki/API
   tags:
@@ -165,7 +165,7 @@ apis:
 - name: Wikipedia
   description: Wikipedia is a Wikimedia Foundation project to build free encyclopedias
     in all languages of the world
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpb
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpg
   humanURL: http://www.mediawiki.org/wiki/API
   baseURL: http://www.mediawiki.org/wiki/API
   tags:
@@ -176,7 +176,7 @@ apis:
 - name: Wikipedia
   description: Wikipedia is a Wikimedia Foundation project to build free encyclopedias
     in all languages of the world
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpb
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpg
   humanURL: http://www.mediawiki.org/wiki/API
   baseURL: http://www.mediawiki.org/wiki/API
   tags:
@@ -187,7 +187,7 @@ apis:
 - name: Wikipedia
   description: Wikipedia is a Wikimedia Foundation project to build free encyclopedias
     in all languages of the world
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpb
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpg
   humanURL: http://www.mediawiki.org/wiki/API
   baseURL: http://www.mediawiki.org/wiki/API
   tags:
@@ -198,7 +198,7 @@ apis:
 - name: Wikipedia
   description: Wikipedia is a Wikimedia Foundation project to build free encyclopedias
     in all languages of the world
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpb
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpg
   humanURL: http://www.mediawiki.org/wiki/API
   baseURL: http://www.mediawiki.org/wiki/API
   tags:
@@ -209,7 +209,7 @@ apis:
 - name: Wikipedia
   description: Wikipedia is a Wikimedia Foundation project to build free encyclopedias
     in all languages of the world
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpb
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpg
   humanURL: http://www.mediawiki.org/wiki/API
   baseURL: http://www.mediawiki.org/wiki/API
   tags:
@@ -220,7 +220,7 @@ apis:
 - name: Wikipedia
   description: Wikipedia is a Wikimedia Foundation project to build free encyclopedias
     in all languages of the world
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpb
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpg
   humanURL: http://www.mediawiki.org/wiki/API
   baseURL: http://www.mediawiki.org/wiki/API
   tags:
@@ -231,7 +231,7 @@ apis:
 - name: Wikipedia
   description: Wikipedia is a Wikimedia Foundation project to build free encyclopedias
     in all languages of the world
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpb
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpg
   humanURL: http://www.mediawiki.org/wiki/API
   baseURL: http://www.mediawiki.org/wiki/API
   tags:
@@ -242,7 +242,7 @@ apis:
 - name: Wikipedia
   description: Wikipedia is a Wikimedia Foundation project to build free encyclopedias
     in all languages of the world
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpb
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpg
   humanURL: http://www.mediawiki.org/wiki/API
   baseURL: http://www.mediawiki.org/wiki/API
   tags:
@@ -253,7 +253,7 @@ apis:
 - name: Wikipedia
   description: Wikipedia is a Wikimedia Foundation project to build free encyclopedias
     in all languages of the world
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpb
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpg
   humanURL: http://www.mediawiki.org/wiki/API
   baseURL: http://www.mediawiki.org/wiki/API
   tags:
@@ -264,7 +264,7 @@ apis:
 - name: Wikipedia
   description: Wikipedia is a Wikimedia Foundation project to build free encyclopedias
     in all languages of the world
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpb
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpg
   humanURL: http://www.mediawiki.org/wiki/API
   baseURL: http://www.mediawiki.org/wiki/API
   tags:
@@ -275,7 +275,7 @@ apis:
 - name: Wikipedia
   description: Wikipedia is a Wikimedia Foundation project to build free encyclopedias
     in all languages of the world
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpb
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpg
   humanURL: http://www.mediawiki.org/wiki/API
   baseURL: http://www.mediawiki.org/wiki/API
   tags:
@@ -286,7 +286,7 @@ apis:
 - name: Wikipedia
   description: Wikipedia is a Wikimedia Foundation project to build free encyclopedias
     in all languages of the world
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpb
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpg
   humanURL: http://www.mediawiki.org/wiki/API
   baseURL: http://www.mediawiki.org/wiki/API
   tags:
@@ -297,7 +297,7 @@ apis:
 - name: Wikipedia
   description: Wikipedia is a Wikimedia Foundation project to build free encyclopedias
     in all languages of the world
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpb
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpg
   humanURL: http://www.mediawiki.org/wiki/API
   baseURL: http://www.mediawiki.org/wiki/API
   tags:
@@ -308,7 +308,7 @@ apis:
 - name: Wikipedia
   description: Wikipedia is a Wikimedia Foundation project to build free encyclopedias
     in all languages of the world
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpb
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpg
   humanURL: http://www.mediawiki.org/wiki/API
   baseURL: http://www.mediawiki.org/wiki/API
   tags:
@@ -319,7 +319,7 @@ apis:
 - name: Wikipedia
   description: Wikipedia is a Wikimedia Foundation project to build free encyclopedias
     in all languages of the world
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpb
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpg
   humanURL: http://www.mediawiki.org/wiki/API
   baseURL: http://www.mediawiki.org/wiki/API
   tags:
@@ -330,7 +330,7 @@ apis:
 - name: Wikipedia
   description: Wikipedia is a Wikimedia Foundation project to build free encyclopedias
     in all languages of the world
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpb
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/144_logo.jpg
   humanURL: http://www.mediawiki.org/wiki/API
   baseURL: http://www.mediawiki.org/wiki/API
   tags:
