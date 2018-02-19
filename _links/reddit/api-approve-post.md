@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/approve:
-    post&nbsp;:
+    post:
       summary: Add&nbsp; Api Approve
       description: Approve a link or comment
       operationId: moderation
