@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/multi/multipath/description:
-    get&nbsp;:
+    get:
       summary: Get&nbsp; Api Multi Multipath Description
       description: Get a multi&#39;s description
       operationId: multis
