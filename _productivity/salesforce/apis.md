@@ -7,7 +7,7 @@ description: Salesforce.com Inc. is a global enterprise software company headqua
   magazine, as well as number 27 in Fortunes magazines 100 Best Companies to Work
   For in 2012. As of April 2013, the company is ranked sixth in providing services
   in marketing and customer service automation
-image: https://avatars.githubusercontent.com/u/453694?v=3
+image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/salesforce-logo.png
 x-kinRank: "10"
 x-alexaRank: ""
 tags:
@@ -33,7 +33,7 @@ specificationVersion: "0.14"
 apis:
 - name: SalesForce
   description: Salesforce
-  image: https://avatars.githubusercontent.com/u/453694?v=3
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/salesforce-logo.png
   humanURL: https://developer.salesforce.com/
   baseURL: https://developer.salesforce.com/
   tags:
@@ -43,7 +43,7 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_productivity/salesforce/version-get.md
 - name: SalesForce
   description: Salesforce
-  image: https://avatars.githubusercontent.com/u/453694?v=3
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/salesforce-logo.png
   humanURL: https://developer.salesforce.com/
   baseURL: https://developer.salesforce.com/
   tags:
@@ -53,7 +53,7 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_productivity/salesforce/version-query-get.md
 - name: SalesForce
   description: Salesforce
-  image: https://avatars.githubusercontent.com/u/453694?v=3
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/salesforce-logo.png
   humanURL: https://developer.salesforce.com/
   baseURL: https://developer.salesforce.com/
   tags:
@@ -63,7 +63,7 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_productivity/salesforce/version-query-id-get.md
 - name: SalesForce
   description: Salesforce
-  image: https://avatars.githubusercontent.com/u/453694?v=3
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/salesforce-logo.png
   humanURL: https://developer.salesforce.com/
   baseURL: https://developer.salesforce.com/
   tags:
@@ -73,7 +73,7 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_productivity/salesforce/version-search-get.md
 - name: SalesForce
   description: Salesforce
-  image: https://avatars.githubusercontent.com/u/453694?v=3
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/salesforce-logo.png
   humanURL: https://developer.salesforce.com/
   baseURL: https://developer.salesforce.com/
   tags:
@@ -83,7 +83,7 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_productivity/salesforce/version-sobjects-get.md
 - name: SalesForce
   description: Salesforce
-  image: https://avatars.githubusercontent.com/u/453694?v=3
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/salesforce-logo.png
   humanURL: https://developer.salesforce.com/
   baseURL: https://developer.salesforce.com/
   tags:
@@ -93,7 +93,7 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_productivity/salesforce/version-sobjects-user-id-password-delete.md
 - name: SalesForce
   description: Salesforce
-  image: https://avatars.githubusercontent.com/u/453694?v=3
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/salesforce-logo.png
   humanURL: https://developer.salesforce.com/
   baseURL: https://developer.salesforce.com/
   tags:
@@ -103,7 +103,7 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_productivity/salesforce/version-sobjects-user-id-password-get.md
 - name: SalesForce
   description: Salesforce
-  image: https://avatars.githubusercontent.com/u/453694?v=3
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/salesforce-logo.png
   humanURL: https://developer.salesforce.com/
   baseURL: https://developer.salesforce.com/
   tags:
@@ -113,7 +113,7 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_productivity/salesforce/version-sobjects-user-id-password-post.md
 - name: SalesForce
   description: Salesforce
-  image: https://avatars.githubusercontent.com/u/453694?v=3
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/salesforce-logo.png
   humanURL: https://developer.salesforce.com/
   baseURL: https://developer.salesforce.com/
   tags:
@@ -123,7 +123,7 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_productivity/salesforce/version-sobjects-sobject-get.md
 - name: SalesForce
   description: Salesforce
-  image: https://avatars.githubusercontent.com/u/453694?v=3
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/salesforce-logo.png
   humanURL: https://developer.salesforce.com/
   baseURL: https://developer.salesforce.com/
   tags:
@@ -133,7 +133,7 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_productivity/salesforce/version-sobjects-sobject-post.md
 - name: SalesForce
   description: Salesforce
-  image: https://avatars.githubusercontent.com/u/453694?v=3
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/salesforce-logo.png
   humanURL: https://developer.salesforce.com/
   baseURL: https://developer.salesforce.com/
   tags:
@@ -143,7 +143,7 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_productivity/salesforce/version-sobjects-sobject-describe-get.md
 - name: SalesForce
   description: Salesforce
-  image: https://avatars.githubusercontent.com/u/453694?v=3
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/salesforce-logo.png
   humanURL: https://developer.salesforce.com/
   baseURL: https://developer.salesforce.com/
   tags:
@@ -153,7 +153,7 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_productivity/salesforce/version-sobjects-sobject-id-delete.md
 - name: SalesForce
   description: Salesforce
-  image: https://avatars.githubusercontent.com/u/453694?v=3
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/salesforce-logo.png
   humanURL: https://developer.salesforce.com/
   baseURL: https://developer.salesforce.com/
   tags:
@@ -163,7 +163,7 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_productivity/salesforce/version-sobjects-sobject-id-get.md
 - name: SalesForce
   description: Salesforce
-  image: https://avatars.githubusercontent.com/u/453694?v=3
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/salesforce-logo.png
   humanURL: https://developer.salesforce.com/
   baseURL: https://developer.salesforce.com/
   tags:
