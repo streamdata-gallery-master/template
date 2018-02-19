@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   '{/r/subreddit}/stylesheet':
-    get&nbsp;:
+    get:
       summary: Get&nbsp; R Subreddit Stylesheet
       description: Redirect to the subreddit&#39;s stylesheet if one exists
       operationId: moderation
