@@ -76,6 +76,10 @@ collections:
     output: true
     permalink: /messaging/:path/
     label: Messaging
+  uk_banks:
+    output: true
+    permalink: /uk-banks/:path/
+    label: UK Banks
 
 defaults:
   - scope:
@@ -133,4 +137,8 @@ defaults:
   - scope:
       type: messaging
     values:
-      layout: messaging        
+      layout: messaging
+  - scope:
+      type: uk_banks
+    values:
+      layout: uk_banks              
