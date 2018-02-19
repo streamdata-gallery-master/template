@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/multi/user/username:
-    get&nbsp;:
+    get:
       summary: Get&nbsp; Api Multi User Username
       description: Fetch a list of public multis belonging to username
       operationId: multis
