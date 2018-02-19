@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   '{/r/subreddit}/rising':
-    get&nbsp;:
+    get:
       summary: Get&nbsp; R Subreddit Rising
       description: This endpoint is a listing
       operationId: listings
