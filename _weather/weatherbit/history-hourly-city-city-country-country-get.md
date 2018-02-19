@@ -1,7 +1,7 @@
 ---
 swagger: "2.0"
 info:
-  title: Weatherbit.io - Weather
+  title: Weatherbit
   description: This is the documentation for the Weatherbit API.  The base URL for
     the API is [http://api.weatherbit.io/v2.0/](http://api.weatherbit.io/v2.0/) or
     [https://api.weatherbit.io/v2.0/](http://api.weatherbit.io/v2.0/). Below is the
@@ -19,7 +19,7 @@ consumes:
 paths:
   /history/hourly?city={city}&country={country}:
     get:
-      summary: Returns Historical Observations - Given City and/or State, Country.
+      summary: Get History Hourly City & Country
       description: Returns Historical Observations - Given a city in the format of
         City,ST or City
       operationId: returns-historical-observations--given-a-city-in-the-format-of-cityst-or-city-the-state-and-country-
@@ -57,6 +57,12 @@ paths:
           description: OK
       tags:
       - weather
+      - history
+      - hourly
+      - city
+      - city
+      - '&country'
+      - country
 definitions:
   CurrentObs:
     properties:
