@@ -1,7 +1,7 @@
 ---
 swagger: "2.0"
 info:
-  title: Weatherbit.io - Weather
+  title: Weatherbit
   description: This is the documentation for the Weatherbit API.  The base URL for
     the API is [http://api.weatherbit.io/v2.0/](http://api.weatherbit.io/v2.0/) or
     [https://api.weatherbit.io/v2.0/](http://api.weatherbit.io/v2.0/). Below is the
@@ -19,7 +19,7 @@ consumes:
 paths:
   /history/energy/bbox?lat1={lat1}&lon1={lon1}&lat2={lat2}&lon2={lon2}:
     get:
-      summary: 'Returns multiple locations given a bounding box. '
+      summary: Get History Energy Bbox Lat1 Lat1 &lon1 Lon1 &lat2 Lat2 &lon2 Lon2
       description: Returns aggregate energy specific historical weather fields, over
         a specified time period
       operationId: returns-aggregate-energy-specific-historical-weather-fields-over-a-specified-time-period-supply-a-bo
@@ -56,6 +56,17 @@ paths:
           description: OK
       tags:
       - weather
+      - history
+      - energy
+      - bbox
+      - lat1
+      - lat1
+      - '&lon1'
+      - lon1
+      - '&lat2'
+      - lat2
+      - '&lon2'
+      - lon2
 definitions:
   CurrentObs:
     properties:
