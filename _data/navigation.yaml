@@ -48,6 +48,6 @@
   image: videos.png
   description: APIs for accessing and viewing videos via web technology.
 - label: UK Banks
-  slug: uk_banks
+  slug: uk-banks
   image: uk-banks.png
   description: These are the APIs for banks in the United Kingdom (UK).
