@@ -1,7 +1,7 @@
 ---
 swagger: "2.0"
 info:
-  title: Weatherbit.io - Weather
+  title: Weatherbit
   description: This is the documentation for the Weatherbit API.  The base URL for
     the API is [http://api.weatherbit.io/v2.0/](http://api.weatherbit.io/v2.0/) or
     [https://api.weatherbit.io/v2.0/](http://api.weatherbit.io/v2.0/). Below is the
@@ -19,7 +19,7 @@ consumes:
 paths:
   /bulk/{file}:
     get:
-      summary: Download pre-generated bulk datasets
+      summary: Get Bulk File
       description: '**(Advanced/Advanced+/Enterprise plans only)** Downloads bulk
         data files - OPTIONS: (forecast16d'
       operationId: advancedadvancedenterprise-plans-only-downloads-bulk-data-files--options-forecast16djsongz--16-day-f
@@ -35,6 +35,8 @@ paths:
           description: OK
       tags:
       - weather
+      - bulk
+      - file
 definitions:
   CurrentObs:
     properties:
