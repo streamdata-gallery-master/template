@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   '{/r/subreddit}/api/delete_sr_icon':
-    post&nbsp;:
+    post:
       summary: Add&nbsp; R Subreddit Api Delete Sr Icon
       description: Remove the subreddit&#39;s custom mobile icon
       operationId: subreddits
