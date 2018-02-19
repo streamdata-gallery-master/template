@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   '{/r/subreddit}/comments/article':
-    get&nbsp;:
+    get:
       summary: Get&nbsp; R Subreddit Comments Article
       description: Get the comment tree for a given Link article
       operationId: listings
