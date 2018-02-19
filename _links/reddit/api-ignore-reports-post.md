@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/ignore_reports:
-    post&nbsp;:
+    post:
       summary: Add&nbsp; Api Ignore Reports
       description: Prevent future reports on a thing from causing notifications
       operationId: moderation
