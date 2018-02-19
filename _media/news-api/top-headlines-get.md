@@ -15,7 +15,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /top-headlines:
+  top-headlines/:
     get:
       summary: Top Headlines
       description: This endpoint provides live top and breaking headlines for a country,
