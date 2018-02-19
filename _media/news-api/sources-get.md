@@ -15,7 +15,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /sources:
+  sources/:
     get:
       summary: Sources
       description: This endpoint returns the subset of news publishers that top headlines
