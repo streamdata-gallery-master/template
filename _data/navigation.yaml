@@ -23,6 +23,10 @@
   slug: media
   image: media.png
   description: Content, media, and other APIs that deliver rich media.
+- label: Messaging
+  slug: messaging
+  image: messaging.png
+  description: APIs for sending emails, SMS, and other messaging formats.
 - label: Productivity
   slug: productivity
   image: productivity.png
