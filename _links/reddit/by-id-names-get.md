@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /by_id/names:
-    get&nbsp;:
+    get:
       summary: Get&nbsp; By  Names
       description: Get a listing of links by fullname
       operationId: listings
