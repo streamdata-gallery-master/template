@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/subreddit_autocomplete_v2:
-    get&nbsp;:
+    get:
       summary: Get&nbsp; Api Subreddit Autocomplete V2
       description: boolean value
       operationId: subreddits
