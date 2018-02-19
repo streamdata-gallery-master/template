@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/v1/subreddit/emojis/all:
-    get&nbsp;:
+    get:
       summary: Get&nbsp; Api V1 Subreddit Emojis All
       description: Get all emojis for a SR
       operationId: emoji
