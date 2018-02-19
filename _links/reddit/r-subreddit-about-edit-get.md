@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /r/subreddit/about/edit:
-    get&nbsp;:
+    get:
       summary: Get&nbsp; R Subreddit About Edit
       description: Get the current settings of a subreddit
       operationId: subreddits
