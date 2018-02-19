@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/v1/subreddit/emoji/emoji_name:
-    delete&nbsp;:
+    delete:
       summary: Delete&nbsp; Api V1 Subreddit Emoji Emoji Name
       description: Delete a Subreddit emoji
       operationId: emoji
