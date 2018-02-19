@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/multi/multipath/r/srname:
-    delete&nbsp;:
+    delete:
       summary: Delete&nbsp; Api Multi Multipath R Srname
       description: Remove a subreddit from a multi
       operationId: multis
