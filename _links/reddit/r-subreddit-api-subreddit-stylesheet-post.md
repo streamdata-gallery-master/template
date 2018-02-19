@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   '{/r/subreddit}/api/subreddit_stylesheet':
-    post&nbsp;:
+    post:
       summary: Add&nbsp; R Subreddit Api Subreddit Stylesheet
       description: Update a subreddit&#39;s stylesheet
       operationId: subreddits
