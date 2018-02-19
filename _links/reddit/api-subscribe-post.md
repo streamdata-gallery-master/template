@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/subscribe:
-    post&nbsp;:
+    post:
       summary: Add&nbsp; Api Subscribe
       description: Subscribe to or unsubscribe from a subreddit
       operationId: subreddits
