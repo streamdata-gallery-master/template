@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /best:
-    get&nbsp;:
+    get:
       summary: Get&nbsp; Best
       description: This endpoint is a listing
       operationId: listings
