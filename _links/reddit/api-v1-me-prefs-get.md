@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/v1/me/prefs:
-    get&nbsp;:
+    get:
       summary: Get&nbsp; Api V1 Me Prefs
       description: Return the preference settings of the logged in user
       operationId: sign-up-to-get-your-own-personalized-reddit-experience
