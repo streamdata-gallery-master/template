@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/uncollapse_message:
-    post&nbsp;:
+    post:
       summary: Add&nbsp; Api Uncollapse Message
       description: Uncollapse a message
       operationId: private-messages
