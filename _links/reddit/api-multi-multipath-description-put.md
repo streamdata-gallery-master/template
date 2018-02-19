@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/multi/multipath/description:
-    put&nbsp;:
+    put:
       summary: Put&nbsp; Api Multi Multipath Description
       description: Change a multi&#39;s markdown description
       operationId: multis
