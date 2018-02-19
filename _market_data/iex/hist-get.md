@@ -35,16 +35,16 @@ paths:
       - historical
 definitions: []
 x-streamrank:
-  polling_total_time_average: ~
-  polling_size_download_average: ~
-  streaming_total_time_average: ~
-  streaming_size_download_average: ~
-  change_yes: ~
-  change_no: ~
-  time_percentage: ~
-  size_percentage: ~
-  change_percentage: ~
-  last_run: ~
-  days_run: ~
-  minute_run: ~
+  polling_total_time_average: "0.15"
+  polling_size_download_average: "498.61"
+  streaming_total_time_average: "0.08"
+  streaming_size_download_average: "249.37"
+  change_yes: "7"
+  change_no: "3741"
+  time_percentage: "45"
+  size_percentage: "50"
+  change_percentage: "0"
+  last_run: "2018-02-19"
+  days_run: "3"
+  minute_run: "0"
 ---
