@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/multi/multipath:
-    put&nbsp;:
+    put:
       summary: Put&nbsp; Api Multi Multipath
       description: Create or update a multi
       operationId: multis
