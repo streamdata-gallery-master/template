@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/subreddit_autocomplete:
-    get&nbsp;:
+    get:
       summary: Get&nbsp; Api Subreddit Autocomplete
       description: |-
         Return a list of subreddits and data for subreddits whose names start
