@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/v1/subreddit/emoji_asset_upload_s3.json:
-    post&nbsp;:
+    post:
       summary: Add&nbsp; Api V1 Subreddit Emoji Asset Upload S3.json
       description: Acquire and return an upload lease to s3 temp bucket
       operationId: emoji
