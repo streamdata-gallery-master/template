@@ -1,7 +1,7 @@
 ---
 swagger: "2.0"
 info:
-  title: Weatherbit.io - Weather
+  title: Weatherbit
   description: This is the documentation for the Weatherbit API.  The base URL for
     the API is [http://api.weatherbit.io/v2.0/](http://api.weatherbit.io/v2.0/) or
     [https://api.weatherbit.io/v2.0/](http://api.weatherbit.io/v2.0/). Below is the
@@ -19,8 +19,7 @@ consumes:
 paths:
   /forecast/3hourly?ip={ip}:
     get:
-      summary: Returns a 3hourly forecast - Given an IP Address, or ip=auto for automatic
-        IP lookup.
+      summary: Get Forecast 3hourly IP
       description: Returns a 3-hourly forecast, where each point represents a three
         hour   period
       operationId: returns-a-3hourly-forecast-where-each-point-represents-a-three-hour---period-every-point-has-a-datet
@@ -49,6 +48,10 @@ paths:
           description: OK
       tags:
       - weather
+      - forecast
+      - 3hourly
+      - ip
+      - ip
 definitions:
   CurrentObs:
     properties:
