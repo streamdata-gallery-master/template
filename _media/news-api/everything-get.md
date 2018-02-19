@@ -15,7 +15,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /everything:
+  everything/:
     get:
       summary: Everything
       description: Search through millions of articles from over 5,000 large and small
