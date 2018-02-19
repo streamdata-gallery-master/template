@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   '{/r/subreddit}/wiki/settings/page':
-    post&nbsp;:
+    post:
       summary: Add&nbsp; R Subreddit Wiki Settings Page
       description: Update the permissions and visibility of wiki page
       operationId: wiki
