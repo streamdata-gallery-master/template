@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   '{/r/subreddit}/about/where':
-    get&nbsp;:
+    get:
       summary: Get&nbsp; R Subreddit About Where
       description: This endpoint is a listing
       operationId: subreddits
