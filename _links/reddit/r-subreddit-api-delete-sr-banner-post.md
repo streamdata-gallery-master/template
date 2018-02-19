@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   '{/r/subreddit}/api/delete_sr_banner':
-    post&nbsp;:
+    post:
       summary: Add&nbsp; R Subreddit Api Delete Sr Banner
       description: Remove the subreddit&#39;s custom mobile banner
       operationId: subreddits
