@@ -16,7 +16,7 @@ consumes:
 - application/json
 paths:
   /api/distinguish:
-    post&nbsp;:
+    post:
       summary: Add&nbsp; Api Distinguish
       description: Distinguish a thing&#39;s author with a sigil
       operationId: moderation
