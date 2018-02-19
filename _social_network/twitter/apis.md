@@ -3,7 +3,7 @@ name: Twitter
 description: Twitter is a global real-time communications platform with 400 million
   monthly visitors to twitter.com, more than 200 million monthly active users around
   the world.
-image: https://avatars1.githubusercontent.com/u/50278?v=4
+image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
 x-kinRank: "10"
 x-alexaRank: ""
 tags:
@@ -27,7 +27,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -38,7 +38,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -49,7 +49,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -60,7 +60,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -71,7 +71,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -82,7 +82,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -93,7 +93,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -104,7 +104,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -115,7 +115,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -126,7 +126,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -137,7 +137,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -148,7 +148,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -159,7 +159,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -170,7 +170,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -181,7 +181,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -192,7 +192,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -203,7 +203,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -214,7 +214,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -225,7 +225,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -236,7 +236,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -247,7 +247,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -258,7 +258,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -269,7 +269,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -280,7 +280,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -291,7 +291,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -302,7 +302,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -313,7 +313,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -324,7 +324,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -335,7 +335,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -346,7 +346,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -357,7 +357,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -368,7 +368,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -379,7 +379,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -390,7 +390,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -401,7 +401,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -412,7 +412,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -423,7 +423,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -434,7 +434,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -445,7 +445,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -456,7 +456,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -467,7 +467,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -478,7 +478,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -489,7 +489,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -500,7 +500,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -511,7 +511,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -522,7 +522,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -533,7 +533,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -544,7 +544,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -555,7 +555,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -566,7 +566,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -577,7 +577,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -588,7 +588,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -599,7 +599,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -610,7 +610,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -621,7 +621,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -632,7 +632,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -643,7 +643,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -654,7 +654,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -665,7 +665,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -676,7 +676,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -687,7 +687,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -698,7 +698,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -709,7 +709,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -720,7 +720,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -731,7 +731,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -742,7 +742,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -753,7 +753,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -764,7 +764,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -775,7 +775,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -786,7 +786,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -797,7 +797,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -808,7 +808,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -819,7 +819,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
@@ -830,7 +830,7 @@ apis:
 - name: Twitter
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
-  image: https://avatars1.githubusercontent.com/u/50278?v=4
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/company/twitter-logo.png
   humanURL: https://twitter.com/
   baseURL: https://twitter.com/
   tags:
