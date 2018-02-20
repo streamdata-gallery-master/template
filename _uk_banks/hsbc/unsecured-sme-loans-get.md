@@ -29,7 +29,9 @@ paths:
         200:
           description: OK
       tags:
-      - ""
+      - unsecured
+      - sme
+      - loans
 definitions:
   atms:
     properties:
