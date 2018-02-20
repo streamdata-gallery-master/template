@@ -6,7 +6,7 @@ description: Lloyds Bank plc is a British retail and commercial bank with branch
   nineteenth and twentieth centuries and took over a number of smaller banking companies.
   In 1995 it merged with the Trustee Savings Bank and traded as Lloyds TSB Bank plc
   between 1999 and 2013.
-image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28109-lloyds-bank.jpg
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/lloyds_bank.png
 x-kinRank: "7"
 x-alexaRank: "4007"
 tags:
@@ -20,7 +20,7 @@ apis:
 - name: Lloyds Bank
   description: Lloyds Bank plc is a British retail and commercial bank with branches
     across England and Wales
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28109-lloyds-bank.jpg
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/lloyds_bank.png
   humanURL: https://lloydsbank.com
   baseURL: https://lloydsbank.com
   tags:
@@ -31,7 +31,7 @@ apis:
 - name: Lloyds Bank
   description: Lloyds Bank plc is a British retail and commercial bank with branches
     across England and Wales
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28109-lloyds-bank.jpg
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/lloyds_bank.png
   humanURL: https://lloydsbank.com
   baseURL: https://lloydsbank.com
   tags:
@@ -42,7 +42,7 @@ apis:
 - name: Lloyds Bank
   description: Lloyds Bank plc is a British retail and commercial bank with branches
     across England and Wales
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28109-lloyds-bank.jpg
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/lloyds_bank.png
   humanURL: https://lloydsbank.com
   baseURL: https://lloydsbank.com
   tags:
@@ -53,7 +53,7 @@ apis:
 - name: Lloyds Bank
   description: Lloyds Bank plc is a British retail and commercial bank with branches
     across England and Wales
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28109-lloyds-bank.jpg
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/lloyds_bank.png
   humanURL: https://lloydsbank.com
   baseURL: https://lloydsbank.com
   tags:
@@ -64,7 +64,7 @@ apis:
 - name: Lloyds Bank
   description: Lloyds Bank plc is a British retail and commercial bank with branches
     across England and Wales
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28109-lloyds-bank.jpg
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/lloyds_bank.png
   humanURL: https://lloydsbank.com
   baseURL: https://lloydsbank.com
   tags:
@@ -75,7 +75,7 @@ apis:
 - name: Lloyds Bank
   description: Lloyds Bank plc is a British retail and commercial bank with branches
     across England and Wales
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28109-lloyds-bank.jpg
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/lloyds_bank.png
   humanURL: https://lloydsbank.com
   baseURL: https://lloydsbank.com
   tags:
