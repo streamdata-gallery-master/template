@@ -1,7 +1,12 @@
 ---
 name: Santander Bank
-description: Apply for a bank account online with Santander Bank. Enjoy convenient
-  online bank account options from one of the best personal banks.
+description: Santander Bank, N. A., formerly Sovereign Bank, is a wholly owned subsidiary
+  of Spanish Santander Group. It is based in Boston and its principal market is the
+  northeastern United States. It has $54.7 billion in deposits, operates about 650
+  retail banking offices and over 2,000 ATMs, and employs approximately 9,800 people.
+  It offers an array of financial services and products including retail banking,
+  mortgages, corporate banking, cash management, credit card, capital markets, trust
+  and wealth management, and insurance.
 image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28128-www-santanderbank-com.jpg
 x-kinRank: "8"
 x-alexaRank: "11016"
@@ -14,7 +19,7 @@ url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_uk_banks/
 specificationVersion: "0.14"
 apis:
 - name: Santander Bank
-  description: Apply for a bank account online with Santander Bank
+  description: Santander Bank, N
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28128-www-santanderbank-com.jpg
   humanURL: https://www.santanderbank.com
   baseURL: https://www.santanderbank.com
@@ -24,7 +29,7 @@ apis:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_uk_banks/santander-bank/atms-get.md
 - name: Santander Bank
-  description: Apply for a bank account online with Santander Bank
+  description: Santander Bank, N
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28128-www-santanderbank-com.jpg
   humanURL: https://www.santanderbank.com
   baseURL: https://www.santanderbank.com
@@ -34,7 +39,7 @@ apis:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_uk_banks/santander-bank/branches-get.md
 - name: Santander Bank
-  description: Apply for a bank account online with Santander Bank
+  description: Santander Bank, N
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28128-www-santanderbank-com.jpg
   humanURL: https://www.santanderbank.com
   baseURL: https://www.santanderbank.com
@@ -44,7 +49,7 @@ apis:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_uk_banks/santander-bank/business-current-accounts-get.md
 - name: Santander Bank
-  description: Apply for a bank account online with Santander Bank
+  description: Santander Bank, N
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28128-www-santanderbank-com.jpg
   humanURL: https://www.santanderbank.com
   baseURL: https://www.santanderbank.com
@@ -54,7 +59,7 @@ apis:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_uk_banks/santander-bank/commercial-credit-cards-get.md
 - name: Santander Bank
-  description: Apply for a bank account online with Santander Bank
+  description: Santander Bank, N
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28128-www-santanderbank-com.jpg
   humanURL: https://www.santanderbank.com
   baseURL: https://www.santanderbank.com
@@ -64,7 +69,7 @@ apis:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_uk_banks/santander-bank/personal-current-accounts-get.md
 - name: Santander Bank
-  description: Apply for a bank account online with Santander Bank
+  description: Santander Bank, N
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28128-www-santanderbank-com.jpg
   humanURL: https://www.santanderbank.com
   baseURL: https://www.santanderbank.com
