@@ -80,10 +80,6 @@ collections:
     output: true
     permalink: /uk-banks/:path/
     label: UK Banks
-  monitoring:
-    output: true
-    permalink: /monitoring/:path/
-    label: Monitoring
   payments:
     output: true
     permalink: /payments/:path/
@@ -150,10 +146,6 @@ defaults:
       type: uk_banks
     values:
       layout: uk_banks
-  - monitoring:
-      type: monitoring
-    values:
-      layout: monitoring
   - payments:
       type: payments
     values:
