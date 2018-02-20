@@ -29,7 +29,9 @@ paths:
         200:
           description: OK
       tags:
-      - ""
+      - commercial
+      - credit
+      - cards
 definitions:
   atms:
     properties:
