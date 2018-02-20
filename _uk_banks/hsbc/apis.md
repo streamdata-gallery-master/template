@@ -1,7 +1,15 @@
 ---
 name: HSBC
-description: HSBC, one of the largest banking and financial services institutions
-  in the world, serves millions of customers through its four Global Businesses.
+description: HSBC Holdings plc is a British multinational banking and financial services
+  holding company, tracing its origin to a hong in Hong Kong. It is the worlds seventh
+  largest bank by total assets and the largest in Europe with total assets of US$2.374
+  trillion (as of December 2016). It was established in its present form in London
+  in 1991 by The Hongkong and Shanghai Banking Corporation to act as a new group holding
+  company. The origins of the bank lie mainly in Hong Kong and to a lesser extent
+  in Shanghai, where branches were first opened in 1865. The HSBC name is derived
+  from the initials of the Hongkong and Shanghai Banking Corporation. The company
+  was first formally incorporated in 1866. The company continues to see both the United
+  Kingdom and Hong Kong as its home markets.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/HSBC-Logo.png
 x-kinRank: "8"
 x-alexaRank: "8074"
@@ -14,8 +22,8 @@ url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_uk_banks/
 specificationVersion: "0.14"
 apis:
 - name: HSBC
-  description: HSBC, one of the largest banking and financial services institutions
-    in the world, serves millions of customers through its four Global Businesses
+  description: HSBC Holdings plc is a British multinational banking and financial
+    services holding company, tracing its origin to a hong in Hong Kong
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/HSBC-Logo.png
   humanURL: https://hsbc.com
   baseURL: https://hsbc.com
@@ -25,8 +33,8 @@ apis:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_uk_banks/hsbc/atms-get.md
 - name: HSBC
-  description: HSBC, one of the largest banking and financial services institutions
-    in the world, serves millions of customers through its four Global Businesses
+  description: HSBC Holdings plc is a British multinational banking and financial
+    services holding company, tracing its origin to a hong in Hong Kong
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/HSBC-Logo.png
   humanURL: https://hsbc.com
   baseURL: https://hsbc.com
@@ -36,8 +44,8 @@ apis:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_uk_banks/hsbc/branches-get.md
 - name: HSBC
-  description: HSBC, one of the largest banking and financial services institutions
-    in the world, serves millions of customers through its four Global Businesses
+  description: HSBC Holdings plc is a British multinational banking and financial
+    services holding company, tracing its origin to a hong in Hong Kong
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/HSBC-Logo.png
   humanURL: https://hsbc.com
   baseURL: https://hsbc.com
@@ -47,8 +55,8 @@ apis:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_uk_banks/hsbc/business-current-accounts-get.md
 - name: HSBC
-  description: HSBC, one of the largest banking and financial services institutions
-    in the world, serves millions of customers through its four Global Businesses
+  description: HSBC Holdings plc is a British multinational banking and financial
+    services holding company, tracing its origin to a hong in Hong Kong
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/HSBC-Logo.png
   humanURL: https://hsbc.com
   baseURL: https://hsbc.com
@@ -58,8 +66,8 @@ apis:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_uk_banks/hsbc/commercial-credit-cards-get.md
 - name: HSBC
-  description: HSBC, one of the largest banking and financial services institutions
-    in the world, serves millions of customers through its four Global Businesses
+  description: HSBC Holdings plc is a British multinational banking and financial
+    services holding company, tracing its origin to a hong in Hong Kong
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/HSBC-Logo.png
   humanURL: https://hsbc.com
   baseURL: https://hsbc.com
@@ -69,8 +77,8 @@ apis:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_uk_banks/hsbc/personal-current-accounts-get.md
 - name: HSBC
-  description: HSBC, one of the largest banking and financial services institutions
-    in the world, serves millions of customers through its four Global Businesses
+  description: HSBC Holdings plc is a British multinational banking and financial
+    services holding company, tracing its origin to a hong in Hong Kong
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/HSBC-Logo.png
   humanURL: https://hsbc.com
   baseURL: https://hsbc.com
