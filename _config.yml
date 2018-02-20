@@ -80,10 +80,6 @@ collections:
     output: true
     permalink: /uk-banks/:path/
     label: UK Banks
-  payments:
-    output: true
-    permalink: /payments/:path/
-    label: Payments
 
 defaults:
   - scope:
@@ -145,8 +141,4 @@ defaults:
   - scope:
       type: uk_banks
     values:
-      layout: uk_banks
-  - payments:
-      type: payments
-    values:
-      layout: payments
+      layout: uk_banks              

@@ -27,10 +27,6 @@
   slug: messaging
   image: messaging.png
   description: APIs for sending emails, SMS, and other messaging formats.
-- label: Monitoring
-  slug: monitoring
-  image: monitoring.png
-  description: The APIs that monitor the APIs, ensuring APIs are reliable.
 - label: Payments
   slug: payments
   image: payments.png
