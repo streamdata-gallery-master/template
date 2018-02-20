@@ -29,7 +29,7 @@ paths:
         200:
           description: OK
       tags:
-      - ""
+      - branches
 definitions:
   atms:
     properties:
