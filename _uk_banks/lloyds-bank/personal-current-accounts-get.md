@@ -1,7 +1,7 @@
 ---
 swagger: "2.0"
 info:
-  title: Lloyds Ban
+  title: Lloyds Bank
   description: This is an OpenAPI definition for the standard set of Open Banking
     (http://openbankingapis.io/) APIs from Lloyds Ban.
   termsOfService: https://www.openbanking.org.uk/open-licence/
