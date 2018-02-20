@@ -157,4 +157,4 @@ defaults:
   - payments:
       type: payments
     values:
-      layout: payments        
+      layout: payments
