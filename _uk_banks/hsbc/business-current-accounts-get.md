@@ -29,7 +29,9 @@ paths:
         200:
           description: OK
       tags:
-      - ""
+      - business
+      - current
+      - accounts
 definitions:
   atms:
     properties:
