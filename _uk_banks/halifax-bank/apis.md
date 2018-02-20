@@ -4,7 +4,7 @@ description: Halifax is a British bank operating as a trading division of Bank o
   Scotland, itself a wholly owned subsidiary of Lloyds Banking Group. It is named
   after the town of Halifax, West Yorkshire where it was founded as a building society
   in 1853
-image: ""
+image: "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Halifax_Logo.png"
 x-kinRank: "0"
 x-alexaRank: ""
 tags:
@@ -17,7 +17,7 @@ apis:
 - name: Halifax Bank
   description: Halifax is a British bank operating as a trading division of Bank of
     Scotland, itself a wholly owned subsidiary of Lloyds Banking Group
-  image: ""
+  image: "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Halifax_Logo.png"
   humanURL: https://www.halifax.co.uk/
   baseURL: https://www.halifax.co.uk/
   tags:
@@ -28,7 +28,7 @@ apis:
 - name: Halifax Bank
   description: Halifax is a British bank operating as a trading division of Bank of
     Scotland, itself a wholly owned subsidiary of Lloyds Banking Group
-  image: ""
+  image: "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Halifax_Logo.png"
   humanURL: https://www.halifax.co.uk/
   baseURL: https://www.halifax.co.uk/
   tags:
@@ -39,7 +39,7 @@ apis:
 - name: Halifax Bank
   description: Halifax is a British bank operating as a trading division of Bank of
     Scotland, itself a wholly owned subsidiary of Lloyds Banking Group
-  image: ""
+  image: "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Halifax_Logo.png"
   humanURL: https://www.halifax.co.uk/
   baseURL: https://www.halifax.co.uk/
   tags:
