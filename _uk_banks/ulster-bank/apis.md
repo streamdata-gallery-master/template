@@ -8,7 +8,7 @@ description: Ulster Bank is a large commercial bank, and one of the traditional 
   the official headquarters of UBL is in Donegall Square East, Belfast, in Northern
   Ireland, and it maintains a large sector of the financial services in both the UK
   and the Republic of Ireland.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Ulster-Bank-Limited-2090.gif
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Ulster-Bank-Limited-2090.png
 x-kinRank: "8"
 x-alexaRank: ""
 tags:
@@ -21,7 +21,7 @@ apis:
 - name: Ulster Bank
   description: Ulster Bank is a large commercial bank, and one of the traditional
     Big Four Irish banks
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Ulster-Bank-Limited-2090.gif
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Ulster-Bank-Limited-2090.png
   humanURL: https://digital.ulsterbank.co.uk/
   baseURL: https://digital.ulsterbank.co.uk/
   tags:
@@ -32,7 +32,7 @@ apis:
 - name: Ulster Bank
   description: Ulster Bank is a large commercial bank, and one of the traditional
     Big Four Irish banks
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Ulster-Bank-Limited-2090.gif
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Ulster-Bank-Limited-2090.png
   humanURL: https://digital.ulsterbank.co.uk/
   baseURL: https://digital.ulsterbank.co.uk/
   tags:
@@ -43,7 +43,7 @@ apis:
 - name: Ulster Bank
   description: Ulster Bank is a large commercial bank, and one of the traditional
     Big Four Irish banks
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Ulster-Bank-Limited-2090.gif
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Ulster-Bank-Limited-2090.png
   humanURL: https://digital.ulsterbank.co.uk/
   baseURL: https://digital.ulsterbank.co.uk/
   tags:
@@ -54,7 +54,7 @@ apis:
 - name: Ulster Bank
   description: Ulster Bank is a large commercial bank, and one of the traditional
     Big Four Irish banks
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Ulster-Bank-Limited-2090.gif
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Ulster-Bank-Limited-2090.png
   humanURL: https://digital.ulsterbank.co.uk/
   baseURL: https://digital.ulsterbank.co.uk/
   tags:
@@ -65,7 +65,7 @@ apis:
 - name: Ulster Bank
   description: Ulster Bank is a large commercial bank, and one of the traditional
     Big Four Irish banks
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Ulster-Bank-Limited-2090.gif
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Ulster-Bank-Limited-2090.png
   humanURL: https://digital.ulsterbank.co.uk/
   baseURL: https://digital.ulsterbank.co.uk/
   tags:
