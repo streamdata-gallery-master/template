@@ -21,14 +21,11 @@ consumes:
 paths:
   /flights/extensive-search:
     get:
-      summary: Flight Extensive Search - Build travel searches based on very flexible
-        and open range of dates. You can use it to answer questions such as "When
-        is the best date to fly...".  It's built on Amadeus' Featured Results technology,
-        which returns thousands
+      summary: Get Flights Extensive Search
       description: The Extensive Flight Search allows you to find the prices of one-way
         or return flights between two airports over a large number of dates, and for
         a large variety of stay durations
-      operationId: flights.extensive_search.get
+      operationId: getFlightsExtensiveSearch
       parameters:
       - in: query
         name: aggregation_mode
