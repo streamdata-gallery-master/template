@@ -31,71 +31,71 @@ collections:
   media:
     output: true
     permalink: /media/:path/
-      label: Media
+    label: Media
   social_network:
     output: true
     permalink: /social-network/:path/
-      label: Social Network
+    label: Social Network
   transportation:
     output: true
     permalink: /transportation/:path/
-      label: Transportation
+    label: Transportation
   weather:
     output: true
     permalink: /weather/:path/
-      label: Weather
+    label: Weather
   images:
     output: true
     permalink: /images/:path/
-      label: Images
+    label: Images
   developers:
     output: true
     permalink: /developers/:path/
-      label: Developers
+    label: Developers
   links:
     output: true
     permalink: /links/:path/
-      label: Links
+    label: Links
   videos:
     output: true
     permalink: /videos/:path/
-      label: Videos
+    label: Videos
   productivity:
     output: true
     permalink: /productivity/:path/
-      label: Productivity
+    label: Productivity
   analytics:
     output: true
     permalink: /analytics/:path/
-      label: Analytics
+    label: Analytics
   blockchain:
     output: true
     permalink: /blockchain/:path/
-      label: Blockchain
+    label: Blockchain
   messaging:
     output: true
     permalink: /messaging/:path/
-      label: Messaging
+    label: Messaging
   uk_banks:
     output: true
     permalink: /uk-banks/:path/
-      label: UK Banks
+    label: UK Banks
   monitoring:
     output: true
     permalink: /monitoring/:path/
-      label: Monitoring
+    label: Monitoring
   payments:
     output: true
     permalink: /payments/:path/
-      label: Payments
+    label: Payments
   blockchains:
     output: true
     permalink: /blockchains/:path/
-      label: Blockchains
+    label: Blockchains
   advertising:
     output: true
     permalink: /advertising/:path/
-      label: Advertising
+    label: Advertising
   airlines:
     output: true
     permalink: /airlines/:path/
