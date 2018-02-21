@@ -2,6 +2,9 @@
   slug: analytics
   image: analytics.png
   description: The section for analytics API for measuring and tracking.
+- label: Blockchain
+  slug: blockchain
+  image: blockchain.png
   description: Bitcoin, Etherium and other Blockchai APIs for streaming.
 - label: Developers
   slug: developers
