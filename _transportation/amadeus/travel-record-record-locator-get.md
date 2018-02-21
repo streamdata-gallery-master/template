@@ -25,9 +25,9 @@ paths:
         their journeys stored in the Amadeus system using our Retrieve Travel Record
         API.
       description: |-
-        <p>Note: This API requires the use of HTTPS</p>
+        Note: This API requires the use of HTTPS
 
-        <p>This service retrieves a travel record (also sometimes referred to as a PNR) for a given journey when provided with Record Locator to identify a travel record, along with the last name of any traveler who is marked as a passenger on this record
+        This service retrieves a travel record (also sometimes referred to as a PNR) for a given journey when provided with Record Locator to identify a travel record, along with the last name of any traveler who is marked as a passenger on this record
       operationId: travel_record.record_locator.get
       parameters:
       - in: query
@@ -45,7 +45,10 @@ paths:
         200:
           description: OK
       tags:
-      - ""
+      - travel
+      - record
+      - record
+      - locator
 definitions:
   Address:
     properties:
