@@ -1,7 +1,7 @@
 ---
 swagger: "2.0"
 info:
-  title: Mastercard
+  title: MasterCard
   description: As a technology company in the global payments business, we operate
     the world&rsquo;s fastest payments processing network, connecting consumers, financial
     institutions, merchants, governments and businesses in more than 210 countries
