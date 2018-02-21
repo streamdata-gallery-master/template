@@ -25,8 +25,8 @@ paths:
         you provide an airport code, as well as the pick-up and drop-off dates. Optional
         parameters such as currency and rental provider codes are also available and
         can be used to narrow d
-      description: <p>With this API you can find out the price and type of car, for
-        all car rental providers, near a specified airport
+      description: With this API you can find out the price and type of car, for all
+        car rental providers, near a specified airport
       operationId: cars.search_airport.get
       parameters:
       - in: query
@@ -66,7 +66,9 @@ paths:
         200:
           description: OK
       tags:
-      - ""
+      - cars
+      - search
+      - airport
 definitions:
   Address:
     properties:
