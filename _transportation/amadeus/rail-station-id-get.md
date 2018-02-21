@@ -21,11 +21,9 @@ consumes:
 paths:
   /rail-station/{id}:
     get:
-      summary: Rail-Station Information - Retrieve the rail station information corresponding
-        to an Amadeus UIC rail station ID. Currently only French and Italian stations
-        are supported.
-      description: ""
-      operationId: rail_station.id.get
+      summary: Get Rail Station
+      description: Get rail station
+      operationId: getRailStation
       parameters:
       - in: path
         name: id
