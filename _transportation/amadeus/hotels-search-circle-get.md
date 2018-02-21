@@ -23,8 +23,8 @@ paths:
     get:
       summary: Hotel Geosearch by Circle API - Locate the cheapest available rooms
         within a given radius of a defined point for a given stay period.
-      description: <p>A fast Hotel shopping API to see which hotels are available
-        in a given area, on a given day and displays their lowest prices
+      description: A fast Hotel shopping API to see which hotels are available in
+        a given area, on a given day and displays their lowest prices
       operationId: hotels.search_circle.get
       parameters:
       - in: query
@@ -74,7 +74,9 @@ paths:
         200:
           description: OK
       tags:
-      - ""
+      - hotels
+      - search
+      - circle
 definitions:
   Address:
     properties:
