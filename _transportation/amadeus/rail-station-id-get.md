@@ -34,7 +34,8 @@ paths:
         200:
           description: OK
       tags:
-      - ""
+      - rail
+      - station
 definitions:
   Address:
     properties:
