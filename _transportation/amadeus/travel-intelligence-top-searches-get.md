@@ -24,9 +24,9 @@ paths:
       summary: Top Flight Searches - Find the most popular flight searches from an
         origin in a during given search period. This can help you answer questions
         like "Where are people looking to travel from Paris during the month of September?"
-      description: <p>The Top Flight Search allows you to find number of estimated
-        searches from an origin, optionally a destination, within a time period when
-        travelers are performing the searches
+      description: The Top Flight Search allows you to find number of estimated searches
+        from an origin, optionally a destination, within a time period when travelers
+        are performing the searches
       operationId: travel_intelligence.top_searches.get
       parameters:
       - in: query
@@ -50,7 +50,10 @@ paths:
         200:
           description: OK
       tags:
-      - ""
+      - travel
+      - intelligence
+      - top
+      - searches
 definitions:
   Address:
     properties:
