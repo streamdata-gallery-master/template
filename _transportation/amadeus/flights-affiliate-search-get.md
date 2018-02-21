@@ -21,14 +21,12 @@ consumes:
 paths:
   /flights/affiliate-search:
     get:
-      summary: Flight Affiliate Search - Use Travel Audience Connect's affiliate network
-        API to search flights from our list of partners and provides deep-links to
-        allow the user to book directly on the airline website.
+      summary: Get Flights Affiliate Search
       description: The Flight Affiliate Search API combines Amadeus' flight search
         technology with Travel Audience's Connect API partners to provide a unique
         flight search, where all results come with deep-links to book the flight at
         a partner's website
-      operationId: flights.affiliate_search.get
+      operationId: getFlightsAffiliateSearch
       parameters:
       - in: query
         name: adults
