@@ -21,13 +21,10 @@ consumes:
 paths:
   /location/{code}:
     get:
-      summary: Location Information - Find more information about any IATA city or
-        airport location code. With this API, you can find information such as city
-        and airport names and locations, as well as information on timezones and airport
-        usage.
+      summary: Get Location Code
       description: This service retrieves the location information corresponding to
         a IATA city or airport code
-      operationId: location.code.get
+      operationId: getLocationCode
       parameters:
       - in: path
         name: code
