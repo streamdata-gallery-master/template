@@ -25,8 +25,8 @@ paths:
         airport, for a given stay period. This API is ideal if you want to connect
         flight and hotels. Provide an IATA airport code, as well as the check-in and
         check-out dates, and get a
-      description: <p>A fast Hotel shopping API to see which hotels are available
-        in a given area, on a given day and displays their lowest prices
+      description: A fast Hotel shopping API to see which hotels are available in
+        a given area, on a given day and displays their lowest prices
       operationId: hotels.search_airport.get
       parameters:
       - in: query
@@ -73,7 +73,9 @@ paths:
         200:
           description: OK
       tags:
-      - ""
+      - hotels
+      - search
+      - airport
 definitions:
   Address:
     properties:
