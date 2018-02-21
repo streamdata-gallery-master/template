@@ -1,7 +1,7 @@
 ---
 swagger: "2.0"
 info:
-  title: Stackdriver Logging
+  title: Google Stackdriver
   description: Writes log entries and manages your Stackdriver Logging configuration.
   termsOfService: https://developers.google.com/terms/
   contact:
