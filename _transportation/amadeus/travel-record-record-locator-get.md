@@ -21,14 +21,12 @@ consumes:
 paths:
   /travel-record/{record_locator}:
     get:
-      summary: Travel Record Retrieve - Enable travelers to explore the details of
-        their journeys stored in the Amadeus system using our Retrieve Travel Record
-        API.
+      summary: Get Travel Record Record Locator
       description: |-
         Note: This API requires the use of HTTPS
 
         This service retrieves a travel record (also sometimes referred to as a PNR) for a given journey when provided with Record Locator to identify a travel record, along with the last name of any traveler who is marked as a passenger on this record
-      operationId: travel_record.record_locator.get
+      operationId: getTravelRecordRecordLocator
       parameters:
       - in: query
         name: env
