@@ -21,14 +21,11 @@ consumes:
 paths:
   /flights/inspiration-search:
     get:
-      summary: Flight Inspiration Search - Go beyond the traditional search by origin,
-        destination and dates to meet the needs of travelers looking for suggestions
-        and a search experience that reflects the way they choose their trip. This
-        can help you answer the qu
+      summary: Get Flights Inspiration Search
       description: The Inspiration Flight Search allows you to find the prices of
         one-way and return flights from an origin city without necessarily having
         a destination, or even a flight date, in mind
-      operationId: flights.inspiration_search.get
+      operationId: getFlightsInspirationSearch
       parameters:
       - in: query
         name: aggregation_mode
