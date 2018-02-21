@@ -4,7 +4,7 @@ description: Runscope was started with the idea that depending on a web service 
   in a mobile or web application should be as easy as depending on code running locally.
   We???ve assembled a team of API, infrastructure and developer experience experts
   to build tools to support the modern application development lifecycle.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/runscope-logo.png
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/runscope-logo.png
 x-kinRank: "9"
 x-alexaRank: ""
 tags:
@@ -24,7 +24,7 @@ apis:
   description: Runscope was started with the idea that depending on a web service
     API in a mobile or web application should be as easy as depending on code running
     locally
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/runscope-logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/runscope-logo.png
   humanURL: https://www.runscope.com/
   baseURL: https://api.runscope.com
   tags:
@@ -36,7 +36,7 @@ apis:
   description: Runscope was started with the idea that depending on a web service
     API in a mobile or web application should be as easy as depending on code running
     locally
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/runscope-logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/runscope-logo.png
   humanURL: https://www.runscope.com/
   baseURL: https://api.runscope.com
   tags:
@@ -48,7 +48,7 @@ apis:
   description: Runscope was started with the idea that depending on a web service
     API in a mobile or web application should be as easy as depending on code running
     locally
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/runscope-logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/runscope-logo.png
   humanURL: https://www.runscope.com/
   baseURL: https://api.runscope.com
   tags:
@@ -60,7 +60,7 @@ apis:
   description: Runscope was started with the idea that depending on a web service
     API in a mobile or web application should be as easy as depending on code running
     locally
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/runscope-logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/runscope-logo.png
   humanURL: https://www.runscope.com/
   baseURL: https://api.runscope.com
   tags:
@@ -72,7 +72,7 @@ apis:
   description: Runscope was started with the idea that depending on a web service
     API in a mobile or web application should be as easy as depending on code running
     locally
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/runscope-logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/runscope-logo.png
   humanURL: https://www.runscope.com/
   baseURL: https://api.runscope.com
   tags:
@@ -84,7 +84,7 @@ apis:
   description: Runscope was started with the idea that depending on a web service
     API in a mobile or web application should be as easy as depending on code running
     locally
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/runscope-logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/runscope-logo.png
   humanURL: https://www.runscope.com/
   baseURL: https://api.runscope.com
   tags:
@@ -96,7 +96,7 @@ apis:
   description: Runscope was started with the idea that depending on a web service
     API in a mobile or web application should be as easy as depending on code running
     locally
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/runscope-logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/runscope-logo.png
   humanURL: https://www.runscope.com/
   baseURL: https://api.runscope.com
   tags:
@@ -108,7 +108,7 @@ apis:
   description: Runscope was started with the idea that depending on a web service
     API in a mobile or web application should be as easy as depending on code running
     locally
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/runscope-logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/runscope-logo.png
   humanURL: https://www.runscope.com/
   baseURL: https://api.runscope.com
   tags:
@@ -120,7 +120,7 @@ apis:
   description: Runscope was started with the idea that depending on a web service
     API in a mobile or web application should be as easy as depending on code running
     locally
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/runscope-logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/runscope-logo.png
   humanURL: https://www.runscope.com/
   baseURL: https://api.runscope.com
   tags:
@@ -132,7 +132,7 @@ apis:
   description: Runscope was started with the idea that depending on a web service
     API in a mobile or web application should be as easy as depending on code running
     locally
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/runscope-logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/runscope-logo.png
   humanURL: https://www.runscope.com/
   baseURL: https://api.runscope.com
   tags:
@@ -144,7 +144,7 @@ apis:
   description: Runscope was started with the idea that depending on a web service
     API in a mobile or web application should be as easy as depending on code running
     locally
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/runscope-logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/runscope-logo.png
   humanURL: https://www.runscope.com/
   baseURL: https://api.runscope.com
   tags:
@@ -156,7 +156,7 @@ apis:
   description: Runscope was started with the idea that depending on a web service
     API in a mobile or web application should be as easy as depending on code running
     locally
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/runscope-logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/runscope-logo.png
   humanURL: https://www.runscope.com/
   baseURL: https://api.runscope.com
   tags:
@@ -168,7 +168,7 @@ apis:
   description: Runscope was started with the idea that depending on a web service
     API in a mobile or web application should be as easy as depending on code running
     locally
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/runscope-logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/runscope-logo.png
   humanURL: https://www.runscope.com/
   baseURL: https://api.runscope.com
   tags:
@@ -180,7 +180,7 @@ apis:
   description: Runscope was started with the idea that depending on a web service
     API in a mobile or web application should be as easy as depending on code running
     locally
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/runscope-logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/runscope-logo.png
   humanURL: https://www.runscope.com/
   baseURL: https://api.runscope.com
   tags:
@@ -192,7 +192,7 @@ apis:
   description: Runscope was started with the idea that depending on a web service
     API in a mobile or web application should be as easy as depending on code running
     locally
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/runscope-logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/runscope-logo.png
   humanURL: https://www.runscope.com/
   baseURL: https://api.runscope.com
   tags:
@@ -204,7 +204,7 @@ apis:
   description: Runscope was started with the idea that depending on a web service
     API in a mobile or web application should be as easy as depending on code running
     locally
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/runscope-logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/runscope-logo.png
   humanURL: https://www.runscope.com/
   baseURL: https://api.runscope.com
   tags:
@@ -216,7 +216,7 @@ apis:
   description: Runscope was started with the idea that depending on a web service
     API in a mobile or web application should be as easy as depending on code running
     locally
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/runscope-logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/runscope-logo.png
   humanURL: https://www.runscope.com/
   baseURL: https://api.runscope.com
   tags:
@@ -228,7 +228,7 @@ apis:
   description: Runscope was started with the idea that depending on a web service
     API in a mobile or web application should be as easy as depending on code running
     locally
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/runscope-logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/runscope-logo.png
   humanURL: https://www.runscope.com/
   baseURL: https://api.runscope.com
   tags:
@@ -240,7 +240,7 @@ apis:
   description: Runscope was started with the idea that depending on a web service
     API in a mobile or web application should be as easy as depending on code running
     locally
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/runscope-logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/runscope-logo.png
   humanURL: https://www.runscope.com/
   baseURL: https://api.runscope.com
   tags:
@@ -252,7 +252,7 @@ apis:
   description: Runscope was started with the idea that depending on a web service
     API in a mobile or web application should be as easy as depending on code running
     locally
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/runscope-logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/runscope-logo.png
   humanURL: https://www.runscope.com/
   baseURL: https://api.runscope.com
   tags:
@@ -264,7 +264,7 @@ apis:
   description: Runscope was started with the idea that depending on a web service
     API in a mobile or web application should be as easy as depending on code running
     locally
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/runscope-logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/runscope-logo.png
   humanURL: https://www.runscope.com/
   baseURL: https://api.runscope.com
   tags:
@@ -276,7 +276,7 @@ apis:
   description: Runscope was started with the idea that depending on a web service
     API in a mobile or web application should be as easy as depending on code running
     locally
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/runscope-logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/runscope-logo.png
   humanURL: https://www.runscope.com/
   baseURL: https://api.runscope.com
   tags:
@@ -288,7 +288,7 @@ apis:
   description: Runscope was started with the idea that depending on a web service
     API in a mobile or web application should be as easy as depending on code running
     locally
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/runscope-logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/runscope-logo.png
   humanURL: https://www.runscope.com/
   baseURL: https://api.runscope.com
   tags:
@@ -300,7 +300,7 @@ apis:
   description: Runscope was started with the idea that depending on a web service
     API in a mobile or web application should be as easy as depending on code running
     locally
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/runscope-logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/runscope-logo.png
   humanURL: https://www.runscope.com/
   baseURL: https://api.runscope.com
   tags:
@@ -312,7 +312,7 @@ apis:
   description: Runscope was started with the idea that depending on a web service
     API in a mobile or web application should be as easy as depending on code running
     locally
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/runscope-logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/runscope-logo.png
   humanURL: https://www.runscope.com/
   baseURL: https://api.runscope.com
   tags:
@@ -324,7 +324,7 @@ apis:
   description: Runscope was started with the idea that depending on a web service
     API in a mobile or web application should be as easy as depending on code running
     locally
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/runscope-logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/runscope-logo.png
   humanURL: https://www.runscope.com/
   baseURL: https://api.runscope.com
   tags:
@@ -336,7 +336,7 @@ apis:
   description: Runscope was started with the idea that depending on a web service
     API in a mobile or web application should be as easy as depending on code running
     locally
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/runscope-logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/runscope-logo.png
   humanURL: https://www.runscope.com/
   baseURL: https://api.runscope.com
   tags:
@@ -348,7 +348,7 @@ apis:
   description: Runscope was started with the idea that depending on a web service
     API in a mobile or web application should be as easy as depending on code running
     locally
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/runscope-logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/runscope-logo.png
   humanURL: https://www.runscope.com/
   baseURL: https://api.runscope.com
   tags:
@@ -360,7 +360,7 @@ apis:
   description: Runscope was started with the idea that depending on a web service
     API in a mobile or web application should be as easy as depending on code running
     locally
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/runscope-logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/runscope-logo.png
   humanURL: https://www.runscope.com/
   baseURL: https://api.runscope.com
   tags:
