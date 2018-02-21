@@ -25,9 +25,9 @@ paths:
         and open range of dates. You can use it to answer questions such as "When
         is the best date to fly...".  It's built on Amadeus' Featured Results technology,
         which returns thousands
-      description: <p>The Extensive Flight Search allows you to find the prices of
-        one-way or return flights between two airports over a large number of dates,
-        and for a large variety of stay durations
+      description: The Extensive Flight Search allows you to find the prices of one-way
+        or return flights between two airports over a large number of dates, and for
+        a large variety of stay durations
       operationId: flights.extensive_search.get
       parameters:
       - in: query
@@ -61,7 +61,9 @@ paths:
         200:
           description: OK
       tags:
-      - ""
+      - flights
+      - extensive
+      - search
 definitions:
   Address:
     properties:
