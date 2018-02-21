@@ -21,12 +21,10 @@ consumes:
 paths:
   /travel-intelligence/top-destinations:
     get:
-      summary: Top Flight Destinations - Find the most popular flight destinations
-        from an origin during a period. This can help you answer questions like "Where
-        are most people going to from Paris during the month of September?"
+      summary: Get Travel Intelligence Top Destinations
       description: The Top Flight Destinations API lets you find the most popular
         flight destinations from an origin during a period
-      operationId: travel_intelligence.top_destinations.get
+      operationId: getTravelIntelligenceTopDestinations
       parameters:
       - in: query
         name: number_of_results
