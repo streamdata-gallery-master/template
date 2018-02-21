@@ -25,8 +25,8 @@ paths:
         destination and dates to meet the needs of travelers looking for suggestions
         and a search experience that reflects the way they choose their trip. This
         can help you answer the qu
-      description: <p>The Inspiration Flight Search allows you to find the prices
-        of one-way and return flights from an origin city without necessarily having
+      description: The Inspiration Flight Search allows you to find the prices of
+        one-way and return flights from an origin city without necessarily having
         a destination, or even a flight date, in mind
       operationId: flights.inspiration_search.get
       parameters:
@@ -61,7 +61,9 @@ paths:
         200:
           description: OK
       tags:
-      - ""
+      - flights
+      - inspiration
+      - search
 definitions:
   Address:
     properties:
