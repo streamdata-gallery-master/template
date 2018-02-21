@@ -24,8 +24,8 @@ paths:
       summary: Train Extensive Search - Provides multi-day availability and a variety
         of schedule and pricing options to travel to your destination instantly. Supports
         SNCF French trains only.
-      description: <p>This API allows you to search trains availability and prices
-        for a single day or date range
+      description: This API allows you to search trains availability and prices for
+        a single day or date range
       operationId: trains.extensive_search.get
       parameters:
       - in: query
@@ -42,7 +42,9 @@ paths:
         200:
           description: OK
       tags:
-      - ""
+      - trains
+      - extensive
+      - search
 definitions:
   Address:
     properties:
