@@ -87,7 +87,11 @@ collections:
   payments:
     output: true
     permalink: /payments/:path/
-    label: Payments        
+    label: Payments
+  blockchains:
+    output: true
+    permalink: /blockchains/:path/
+    label: Blockchains
 
 defaults:
   - scope:
@@ -158,3 +162,7 @@ defaults:
       type: monitoring
     values:
       layout: monitoring
+  - scope:
+      type: blockchains
+    values:
+      layout: blockchains      
