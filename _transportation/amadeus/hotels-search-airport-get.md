@@ -21,13 +21,10 @@ consumes:
 paths:
   /hotels/search-airport:
     get:
-      summary: Hotel Airport Search - Locate the cheapest available rooms near a given
-        airport, for a given stay period. This API is ideal if you want to connect
-        flight and hotels. Provide an IATA airport code, as well as the check-in and
-        check-out dates, and get a
+      summary: Get Hotels Search Airport
       description: A fast Hotel shopping API to see which hotels are available in
         a given area, on a given day and displays their lowest prices
-      operationId: hotels.search_airport.get
+      operationId: getHotelsSearchAirport
       parameters:
       - in: query
         name: all_rooms
