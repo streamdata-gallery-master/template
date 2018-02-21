@@ -27,74 +27,74 @@ github_branch: master
 collections:
   market_data:
     output: true
-      permalink: /market-data/:path/
+    permalink: /market-data/:path/
   media:
     output: true
-      permalink: /media/:path/
+    permalink: /media/:path/
       label: Media
   social_network:
     output: true
-      permalink: /social-network/:path/
+    permalink: /social-network/:path/
       label: Social Network
   transportation:
     output: true
-      permalink: /transportation/:path/
+    permalink: /transportation/:path/
       label: Transportation
   weather:
     output: true
-      permalink: /weather/:path/
+    permalink: /weather/:path/
       label: Weather
   images:
     output: true
-      permalink: /images/:path/
+    permalink: /images/:path/
       label: Images
   developers:
     output: true
-      permalink: /developers/:path/
+    permalink: /developers/:path/
       label: Developers
   links:
     output: true
-      permalink: /links/:path/
+    permalink: /links/:path/
       label: Links
   videos:
     output: true
-      permalink: /videos/:path/
+    permalink: /videos/:path/
       label: Videos
   productivity:
     output: true
-      permalink: /productivity/:path/
+    permalink: /productivity/:path/
       label: Productivity
   analytics:
     output: true
-      permalink: /analytics/:path/
+    permalink: /analytics/:path/
       label: Analytics
   blockchain:
     output: true
-      permalink: /blockchain/:path/
+    permalink: /blockchain/:path/
       label: Blockchain
   messaging:
     output: true
-      permalink: /messaging/:path/
+    permalink: /messaging/:path/
       label: Messaging
   uk_banks:
     output: true
-      permalink: /uk-banks/:path/
+    permalink: /uk-banks/:path/
       label: UK Banks
   monitoring:
     output: true
-      permalink: /monitoring/:path/
+    permalink: /monitoring/:path/
       label: Monitoring
   payments:
     output: true
-      permalink: /payments/:path/
+    permalink: /payments/:path/
       label: Payments
   blockchains:
     output: true
-      permalink: /blockchains/:path/
+    permalink: /blockchains/:path/
       label: Blockchains
   advertising:
     output: true
-      permalink: /advertising/:path/
+    permalink: /advertising/:path/
       label: Advertising
   airlines:
     output: true
