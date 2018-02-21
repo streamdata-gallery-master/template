@@ -23,8 +23,8 @@ paths:
     get:
       summary: Hotel Property Code Search - Find out more room and rate information
         once you have found your preferred hotel.
-      description: <p>This API allows you to quickly see the detailed information
-        of a single hotel, including descriptions, address, GPS location, amenities,
+      description: This API allows you to quickly see the detailed information of
+        a single hotel, including descriptions, address, GPS location, amenities,
         awards, lowest priced room and all room prices and booking information
       operationId: hotels.property_code.get
       parameters:
@@ -56,7 +56,9 @@ paths:
         200:
           description: OK
       tags:
-      - ""
+      - hotels
+      - property
+      - code
 definitions:
   Address:
     properties:
