@@ -25,8 +25,8 @@ paths:
         when you define a circular area with one coordinate and radius, as well as
         the pick-up and drop-off dates. Optional parameters such as currency and rental
         provider codes are al
-      description: <p>With this API you can find out the price and type of car, for
-        all car rental providers, in a specified geographical location
+      description: With this API you can find out the price and type of car, for all
+        car rental providers, in a specified geographical location
       operationId: cars.search_circle.get
       parameters:
       - in: query
@@ -72,7 +72,9 @@ paths:
         200:
           description: OK
       tags:
-      - ""
+      - cars
+      - search
+      - circle
 definitions:
   Address:
     properties:
