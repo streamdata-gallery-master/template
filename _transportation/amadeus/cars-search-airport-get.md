@@ -21,13 +21,10 @@ consumes:
 paths:
   /cars/search-airport:
     get:
-      summary: Car Rental Airport Search - Find car rental providers and rates when
-        you provide an airport code, as well as the pick-up and drop-off dates. Optional
-        parameters such as currency and rental provider codes are also available and
-        can be used to narrow d
+      summary: Get Cars Search Airport
       description: With this API you can find out the price and type of car, for all
         car rental providers, near a specified airport
-      operationId: cars.search_airport.get
+      operationId: getCarsSearchAirport
       parameters:
       - in: query
         name: currency
