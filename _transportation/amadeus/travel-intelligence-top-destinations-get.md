@@ -24,7 +24,7 @@ paths:
       summary: Top Flight Destinations - Find the most popular flight destinations
         from an origin during a period. This can help you answer questions like "Where
         are most people going to from Paris during the month of September?"
-      description: <p>The Top Flight Destinations API lets you find the most popular
+      description: The Top Flight Destinations API lets you find the most popular
         flight destinations from an origin during a period
       operationId: travel_intelligence.top_destinations.get
       parameters:
@@ -41,7 +41,10 @@ paths:
         200:
           description: OK
       tags:
-      - ""
+      - travel
+      - intelligence
+      - top
+      - destinations
 definitions:
   Address:
     properties:
