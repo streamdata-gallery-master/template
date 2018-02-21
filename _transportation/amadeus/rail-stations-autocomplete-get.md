@@ -23,7 +23,7 @@ paths:
     get:
       summary: Rail Station Autocomplete - Transform user input into a unique rail
         station code. Currently only French and Italian stations are supported.
-      description: <p>Given the start of any word in a rail station's official name,
+      description: Given the start of any word in a rail station's official name,
         as a term, this API provides the full name and rail station ID of a rail station
         for use in searches
       operationId: rail_stations.autocomplete.get
@@ -35,7 +35,9 @@ paths:
         200:
           description: OK
       tags:
-      - ""
+      - rail
+      - stations
+      - autocomplete
 definitions:
   Address:
     properties:
