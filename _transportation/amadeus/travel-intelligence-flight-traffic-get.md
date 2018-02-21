@@ -21,13 +21,10 @@ consumes:
 paths:
   /travel-intelligence/flight-traffic:
     get:
-      summary: Flight Traffic API - Find the true origin and destination traffic summary
-        between two journey points over a specified period. This can help you answer
-        questions like "What cities are people coming from to visit Los Angeles between
-        January through Apr
+      summary: Get Travel Intelligence Flight Traffic
       description: The Flight Traffic API lets you find the origin and destination
         traffic summary between two journey points over a specified period
-      operationId: travel_intelligence.flight_traffic.get
+      operationId: getTravelIntelligenceFlightTraffic
       parameters:
       - in: query
         name: destination
