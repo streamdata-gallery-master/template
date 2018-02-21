@@ -21,12 +21,11 @@ consumes:
 paths:
   /trains/schedule-search:
     get:
-      summary: Train Schedule Search - Suggest destinations from your chosen departure
-        station. Supports SNCF French Rail only.
+      summary: Get Trains Schedule Search
       description: This API allows you to find all the possible destinations in the
         Rail Instant Search cache (used by Extensive Search above) from a given origin
         station on a given day
-      operationId: trains.schedule_search.get
+      operationId: getTrainsScheduleSearch
       parameters:
       - in: query
         name: departure_date
