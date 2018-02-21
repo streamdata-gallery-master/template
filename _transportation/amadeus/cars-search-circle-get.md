@@ -21,13 +21,10 @@ consumes:
 paths:
   /cars/search-circle:
     get:
-      summary: Car Rental Geosearch - Locate car rental providers and available vehicles
-        when you define a circular area with one coordinate and radius, as well as
-        the pick-up and drop-off dates. Optional parameters such as currency and rental
-        provider codes are al
+      summary: Get Cars Search
       description: With this API you can find out the price and type of car, for all
         car rental providers, in a specified geographical location
-      operationId: cars.search_circle.get
+      operationId: getCarsSearchCircle
       parameters:
       - in: query
         name: currency
