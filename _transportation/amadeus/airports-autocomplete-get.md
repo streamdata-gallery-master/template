@@ -21,15 +21,12 @@ consumes:
 paths:
   /airports/autocomplete:
     get:
-      summary: Airport Autocomplete - Find an IATA location code for flight search
-        based on a city or airport name using the term parameter. By only using the
-        country parameter, this API is also able to find all the IATA location codes
-        associated with a country. Bo
+      summary: Get Airports Autocomplete
       description: Using the term parameter and given the start of any word in an
         airport's official name, a city name, or the start of an IATA code, this API
         provides the full name and IATA location code of the city or airport, for
         use in flight searches
-      operationId: airports.autocomplete.get
+      operationId: getAirportsAutocomplete
       parameters:
       - in: query
         name: all_airports
