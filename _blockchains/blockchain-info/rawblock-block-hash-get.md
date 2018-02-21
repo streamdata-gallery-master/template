@@ -32,16 +32,16 @@ paths:
       - blocks
 definitions: []
 x-streamrank:
-  polling_total_time_average: ~
-  polling_size_download_average: ~
-  streaming_total_time_average: ~
-  streaming_size_download_average: ~
-  change_yes: ~
-  change_no: ~
-  time_percentage: ~
-  size_percentage: ~
-  change_percentage: ~
-  last_run: ~
-  days_run: ~
-  minute_run: ~
+  polling_total_time_average: "2.01"
+  polling_size_download_average: "5118517.81"
+  streaming_total_time_average: "1.15"
+  streaming_size_download_average: "2595773.99"
+  change_yes: "160"
+  change_no: "630"
+  time_percentage: "43"
+  size_percentage: "49"
+  change_percentage: "20"
+  last_run: "2018-02-21"
+  days_run: "1"
+  minute_run: "0"
 ---
