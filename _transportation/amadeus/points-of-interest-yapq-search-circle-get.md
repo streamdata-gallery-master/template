@@ -21,11 +21,11 @@ consumes:
 paths:
   /points-of-interest/yapq-search-circle:
     get:
-      summary: YapQ Geosearch - Find landmarks and attractions near a given point.
+      summary: Get Points Of Interest Yapq Search Circle
       description: Amadeus has partnered with YapQ to bring you point of interest
         APIs with the goal of offering you unbiased ratings of landmarks and tourist
         attractions
-      operationId: points_of_interest.yapq_search_circle.get
+      operationId: getPointsOfInterestYapqSearchCircle
       parameters:
       - in: query
         name: category
