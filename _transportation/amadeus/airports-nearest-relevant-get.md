@@ -23,8 +23,8 @@ paths:
     get:
       summary: Nearest Relevant Airport - Find the most useful nearby airport to a
         given location.
-      description: <p>This service gives the most relevant airports in a radius of
-        500 km around the given coordinates
+      description: This service gives the most relevant airports in a radius of 500
+        km around the given coordinates
       operationId: airports.nearest_relevant.get
       parameters:
       - in: query
@@ -37,7 +37,9 @@ paths:
         200:
           description: OK
       tags:
-      - ""
+      - airports
+      - nearest
+      - relevant
 definitions:
   Address:
     properties:
