@@ -22,7 +22,9 @@ paths:
   /points-of-interest/yapq-search-text:
     get:
       summary: YapQ City Name Search - Find landmarks and attractions in a given city.
-      description: Amadeus has partnered with <a href="http://yapq
+      description: Amadeus has partnered with YapQ to bring you point of interest
+        APIs with the goal of offering you unbiased ratings of landmarks and tourist
+        attractions
       operationId: points_of_interest.yapq_search_text.get
       parameters:
       - in: query
@@ -62,7 +64,12 @@ paths:
         200:
           description: OK
       tags:
-      - ""
+      - points
+      - of
+      - interest
+      - yapq
+      - search
+      - text
 definitions:
   Address:
     properties:
