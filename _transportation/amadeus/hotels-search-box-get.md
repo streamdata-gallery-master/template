@@ -21,12 +21,10 @@ consumes:
 paths:
   /hotels/search-box:
     get:
-      summary: Hotel Geosearch by box - Locate the cheapest available rooms within
-        a given rectangular region for a given stay period. It's ideal for displaying
-        results on a map.
+      summary: Get Hotels Search Box
       description: A fast Hotel shopping API to see which hotels are available in
         a given area, on a given day and displays their lowest prices
-      operationId: hotels.search_box.get
+      operationId: getHotelsSearchBox
       parameters:
       - in: query
         name: all_rooms
