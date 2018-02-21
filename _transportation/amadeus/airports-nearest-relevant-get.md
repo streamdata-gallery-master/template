@@ -21,11 +21,10 @@ consumes:
 paths:
   /airports/nearest-relevant:
     get:
-      summary: Nearest Relevant Airport - Find the most useful nearby airport to a
-        given location.
+      summary: Get Airports Nearest Relevant
       description: This service gives the most relevant airports in a radius of 500
         km around the given coordinates
-      operationId: airports.nearest_relevant.get
+      operationId: getAirportsNearestRelevant
       parameters:
       - in: query
         name: latitude
