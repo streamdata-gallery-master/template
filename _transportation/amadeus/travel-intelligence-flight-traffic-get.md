@@ -25,7 +25,7 @@ paths:
         between two journey points over a specified period. This can help you answer
         questions like "What cities are people coming from to visit Los Angeles between
         January through Apr
-      description: <p>The Flight Traffic API lets you find the origin and destination
+      description: The Flight Traffic API lets you find the origin and destination
         traffic summary between two journey points over a specified period
       operationId: travel_intelligence.flight_traffic.get
       parameters:
@@ -45,7 +45,10 @@ paths:
         200:
           description: OK
       tags:
-      - ""
+      - travel
+      - intelligence
+      - flight
+      - traffic
 definitions:
   Address:
     properties:
