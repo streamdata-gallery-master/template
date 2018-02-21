@@ -23,9 +23,8 @@ paths:
     get:
       summary: Flight Low-Fare Search - Find the cheapest one way or return itineraries
         and fares between two airports at specific dates.
-      description: <p>This is the low fare search engine Amadeus uses to retrieve
-        the best price for flights, based on our latest Master Pricer Travel Board
-        technology
+      description: This is the low fare search engine Amadeus uses to retrieve the
+        best price for flights, based on our latest Master Pricer Travel Board technology
       operationId: flights.low_fare_search.get
       parameters:
       - in: query
@@ -93,7 +92,10 @@ paths:
         200:
           description: OK
       tags:
-      - ""
+      - flights
+      - low
+      - fare
+      - search
 definitions:
   Address:
     properties:
