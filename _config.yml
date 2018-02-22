@@ -226,7 +226,7 @@ collections:
     label: Encryption
   facial_recognition:
     output: true
-    permalink: /facial_recognition/:path/
+    permalink: /facial-recognition/:path/
     label: Facial Recognition
   firewall:
     output: true
@@ -278,7 +278,7 @@ collections:
     label: Logging
   machine_learning:
     output: true
-    permalink: /machine_learning/:path/
+    permalink: /machine-learning/:path/
     label: Machine Learning
   management:
     output: true
@@ -306,7 +306,7 @@ collections:
     label: Movies
   natural_language:
     output: true
-    permalink: /natural_language/:path/
+    permalink: /natural-language/:path/
     label: Natural Language
   networks:
     output: true
@@ -318,7 +318,7 @@ collections:
     label: Notifications
   object_recognition:
     output: true
-    permalink: /object_recognition/:path/
+    permalink: /object-recognition/:path/
     label: Object Recognition
   orchestration:
     output: true
@@ -350,7 +350,7 @@ collections:
     label: Proxy
   real_time:
     output: true
-    permalink: /real_time/:path/
+    permalink: /real-time/:path/
     label: Real Time
   recovery:
     output: true
@@ -390,7 +390,7 @@ collections:
     label: Sensors
   sentiment_analysis:
     output: true
-    permalink: /sentiment_analysis/:path/
+    permalink: /sentiment-analysis/:path/
     label: Sentiment analysis
   serverless:
     output: true
@@ -406,7 +406,7 @@ collections:
     label: Speech
   speech_recognition:
     output: true
-    permalink: /speech_recognition/:path/
+    permalink: /speech-recognition/:path/
     label: Speech Recognition
   spreadsheets:
     output: true
@@ -442,7 +442,7 @@ collections:
     label: Testing
   text_recognition:
     output: true
-    permalink: /text_recognition/:path/
+    permalink: /text-recognition/:path/
     label: Text Recognition
   traffic:
     output: true
@@ -472,6 +472,7 @@ collections:
     output: true
     permalink: /webhooks/:path/
     label: Webhooks
+
 defaults:
   - scope:
       type: market_data
