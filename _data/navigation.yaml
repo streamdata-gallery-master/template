@@ -98,14 +98,6 @@
   slug: beacons
   image: beacons.png
   description: The section for beacons API providers.
-- label: Beacons
-  slug: beacons
-  image: beacons.png
-  description: The section for beacons API providers.
-- label: Billing
-  slug: billing
-  image: billing.png
-  description: The section for billing API providers.
 - label: Billing
   slug: billing
   image: billing.png
@@ -126,10 +118,6 @@
   slug: code
   image: code.png
   description: The section for code API providers.
-- label: Commerce
-  slug: commerce
-  image: commerce.png
-  description: The section for commerce API providers.
 - label: Commerce
   slug: commerce
   image: commerce.png

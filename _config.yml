@@ -128,14 +128,6 @@ collections:
     output: true
     permalink: /beacons/:path/
     label: Beacons
-  beacons:
-    output: true
-    permalink: /beacons/:path/
-    label: Beacons
-  billing:
-    output: true
-    permalink: /billing/:path/
-    label: Billing
   billing:
     output: true
     permalink: /billing/:path/
@@ -160,10 +152,6 @@ collections:
     output: true
     permalink: /commerce/:path/
     label: Commerce
-  commerce:
-    output: true
-    permalink: /commerce/:path/
-    label: Commerce
   compute:
     output: true
     permalink: /compute/:path/
@@ -172,10 +160,6 @@ collections:
     output: true
     permalink: /containers/:path/
     label: Containers
-  data:
-    output: true
-    permalink: /data/:path/
-    label: Data
   database:
     output: true
     permalink: /database/:path/
@@ -583,14 +567,6 @@ defaults:
     values:
       layout: beacons
   - scope:
-      type: beacons
-    values:
-      layout: beacons
-  - scope:
-      type: billing
-    values:
-      layout: billing
-  - scope:
       type: billing
     values:
       layout: billing
@@ -610,10 +586,6 @@ defaults:
       type: code
     values:
       layout: code
-  - scope:
-      type: commerce
-    values:
-      layout: commerce
   - scope:
       type: commerce
     values:
