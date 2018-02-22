@@ -19,8 +19,8 @@ tags:
 - Directory
 - Business
 - Angellist API Stack
-created: "2018-02-21"
-modified: "2018-02-21"
+created: "2018-02-17"
+modified: "2018-02-17"
 url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_media/angellist/apis.yaml
 specificationVersion: "0.14"
 apis:
