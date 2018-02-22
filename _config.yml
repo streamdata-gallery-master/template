@@ -20,7 +20,7 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "
 paginate: 25
 paginate_path: "/blog/page:num"
 
-github_user: api-stack
+github_user: streamdata-gallery
 github_repo: apis
 github_branch: master
 
