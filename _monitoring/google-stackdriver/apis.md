@@ -16,8 +16,8 @@ tags:
 - Logging
 - Google APIs
 - Debugging
-created: "2018-02-20"
-modified: "2018-02-20"
+created: "2018-02-22"
+modified: "2018-02-22"
 url: https://raw.githubusercontent.com/streamdata-gallery/apis/master/_monitoring/google-stackdriver/apis.yaml
 specificationVersion: "0.14"
 apis:
