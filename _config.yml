@@ -15,12 +15,13 @@ github_repo: template
 github_branch: master
 
 collections:
-  apis:
+  links:
     output: true
-    permalink: /apis/:path/
+    permalink: /links/:path/
+    label: Links
 
 defaults:
   - scope:
-      type: apis
+      type: links
     values:
-      layout: apis
+      layout: links
