@@ -3,29 +3,6 @@
     {% if item.swagger %}
       {% if item.swagger == "2.0" %}
 
-        {% assign api_name = "" %}
-        {% assign api_description = "" %}
-        {% assign api_image = "" %}
-        {% assign api_json_url = "" %}
-        {% assign api_json_kin_rank = "" %}
-        {% assign api_json_alexa_rank = "" %}
-
-         {% for entry in listing_object %}
-           {% if entry.name %}
-            {% for api in entry.apis %}
-               {% if item.info.title == api.name %}
-                 {% assign api_name = entry.name %}
-                 {% assign api_slug = api_name | replace: ' ','-' | replace: '/','' | replace: '&','-' | replace: '=','-' | replace: '{','-' | replace: '}','-' | replace: '?','-' | replace: '_','-' | replace: '--','-' | downcase %}
-                 {% assign api_description = entry.description %}
-                 {% assign api_image = entry.image %}
-                 {% assign api_json_url = entry.url %}
-                 {% assign api_json_kin_rank = entry.x-kinRank %}
-                 {% assign api_json_alexa_rank = entry.x-alexaRank %}
-               {% endif %}
-             {% endif %}
-           {% endif %}
-         {% endfor %}
-
 
 
       {% endif %}
