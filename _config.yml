@@ -1,12 +1,10 @@
 title: Streamdata Gallery
-url: https://streamdata-gallery.github.io/apis/
-raw_url: https://raw.githubusercontent.com/api-stack/market-data/master/_data/api-commons/
-tag: Market Data
-logo: https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-evangelist-logo-market-data.png
+url: template.streamdata.gallery
+tag: Template
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
 github_user: streamdata-gallery
-github_repo: apis
+github_repo: template
 github_branch: master
 collections:
   listings:
