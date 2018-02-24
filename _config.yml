@@ -13,11 +13,11 @@ github_user: streamdata-gallery
 github_repo: apis
 github_branch: master
 collections:
-  gallery:
+  template:
     output: true
-    permalink: /gallery/:path/
+    permalink: /template/:path/
 defaults:
   - scope:
-      type: gallery
+      type: template
     values:
-      layout: gallery
+      layout: template
