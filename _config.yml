@@ -12,10 +12,12 @@ paginate_path: "/blog/page:num"
 github_user: streamdata-gallery
 github_repo: apis
 github_branch: master
+
 collections:
   gallery:
     output: true
     permalink: /gallery/:path/
+    
 defaults:
   - scope:
       type: gallery
