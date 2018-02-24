@@ -10,14 +10,14 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "
 paginate: 25
 paginate_path: "/blog/page:num"
 github_user: streamdata-gallery
-github_repo: apis
+github_repo: template
 github_branch: master
 collections:
-  template:
+  apis:
     output: true
-    permalink: /template/:path/
+    permalink: /apis/:path/
 defaults:
   - scope:
-      type: template
+      type: apis
     values:
-      layout: template
+      layout: apis
