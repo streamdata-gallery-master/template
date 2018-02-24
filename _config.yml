@@ -25,13 +25,876 @@ github_repo: apis
 github_branch: master
 
 collections:
+  market_data:
+    output: true
+    permalink: /market-data/:path/
+  media:
+    output: true
+    permalink: /media/:path/
+    label: Media
+  social_network:
+    output: true
+    permalink: /social-network/:path/
+    label: Social Network
+  transportation:
+    output: true
+    permalink: /transportation/:path/
+    label: Transportation
+  weather:
+    output: true
+    permalink: /weather/:path/
+    label: Weather
+  images:
+    output: true
+    permalink: /images/:path/
+    label: Images
+  developers:
+    output: true
+    permalink: /developers/:path/
+    label: Developers
   links:
     output: true
     permalink: /links/:path/
     label: Links
+  videos:
+    output: true
+    permalink: /videos/:path/
+    label: Videos
+  productivity:
+    output: true
+    permalink: /productivity/:path/
+    label: Productivity
+  analytics:
+    output: true
+    permalink: /analytics/:path/
+    label: Analytics
+  blockchain:
+    output: true
+    permalink: /blockchain/:path/
+    label: Blockchain
+  messaging:
+    output: true
+    permalink: /messaging/:path/
+    label: Messaging
+  uk_banks:
+    output: true
+    permalink: /uk-banks/:path/
+    label: UK Banks
+  monitoring:
+    output: true
+    permalink: /monitoring/:path/
+    label: Monitoring
+  payments:
+    output: true
+    permalink: /payments/:path/
+    label: Payments
+  blockchains:
+    output: true
+    permalink: /blockchains/:path/
+    label: Blockchains
+  advertising:
+    output: true
+    permalink: /advertising/:path/
+    label: Advertising
+  airlines:
+    output: true
+    permalink: /airlines/:path/
+    label: Airlines
+  analysis:
+    output: true
+    permalink: /analysis/:path/
+    label: Analysis
+  applications:
+    output: true
+    permalink: /applications/:path/
+    label: Applications
+  authentication:
+    output: true
+    permalink: /authentication/:path/
+    label: Authentication
+  availability:
+    output: true
+    permalink: /availability/:path/
+    label: Availability
+  backups:
+    output: true
+    permalink: /backups/:path/
+    label: Backups
+  batch:
+    output: true
+    permalink: /batch/:path/
+    label: Batch
+  beacons:
+    output: true
+    permalink: /beacons/:path/
+    label: Beacons
+  billing:
+    output: true
+    permalink: /billing/:path/
+    label: Billing
+  cache:
+    output: true
+    permalink: /cache/:path/
+    label: Cache
+  cdn:
+    output: true
+    permalink: /cdn/:path/
+    label: CDN
+  certificates:
+    output: true
+    permalink: /certificates/:path/
+    label: Certificates
+  code:
+    output: true
+    permalink: /code/:path/
+    label: Code
+  commerce:
+    output: true
+    permalink: /commerce/:path/
+    label: Commerce
+  compute:
+    output: true
+    permalink: /compute/:path/
+    label: Compute
+  containers:
+    output: true
+    permalink: /containers/:path/
+    label: Containers
+  database:
+    output: true
+    permalink: /database/:path/
+    label: Database
+  deployment:
+    output: true
+    permalink: /deployment/:path/
+    label: Deployment
+  desktops:
+    output: true
+    permalink: /desktops/:path/
+    label: Desktops
+  devices:
+    output: true
+    permalink: /devices/:path/
+    label: Devices
+  diagnostics:
+    output: true
+    permalink: /diagnostics/:path/
+    label: Diagnostics
+  discovery:
+    output: true
+    permalink: /discovery/:path/
+    label: Discovery
+  dns:
+    output: true
+    permalink: /dns/:path/
+    label: DNS
+  documents:
+    output: true
+    permalink: /documents/:path/
+    label: Documents
+  education:
+    output: true
+    permalink: /education/:path/
+    label: Education
+  email:
+    output: true
+    permalink: /email/:path/
+    label: Email
+  embeddable:
+    output: true
+    permalink: /embeddable/:path/
+    label: Embeddable
+  encryption:
+    output: true
+    permalink: /encryption/:path/
+    label: Encryption
+  facial_recognition:
+    output: true
+    permalink: /facial-recognition/:path/
+    label: Facial Recognition
+  firewall:
+    output: true
+    permalink: /firewall/:path/
+    label: Firewall
+  fitness:
+    output: true
+    permalink: /fitness/:path/
+    label: Fitness
+  fonts:
+    output: true
+    permalink: /fonts/:path/
+    label: Fonts
+  gaming:
+    output: true
+    permalink: /gaming/:path/
+    label: Gaming
+  gateway:
+    output: true
+    permalink: /gateway/:path/
+    label: Gateway
+  genome:
+    output: true
+    permalink: /genome/:path/
+    label: Genome
+  government:
+    output: true
+    permalink: /government/:path/
+    label: Government
+  identity:
+    output: true
+    permalink: /identity/:path/
+    label: Identity
+  ipaas:
+    output: true
+    permalink: /ipaas/:path/
+    label: iPaaS
+  jobs:
+    output: true
+    permalink: /jobs/:path/
+    label: Jobs
+  licensing:
+    output: true
+    permalink: /licensing/:path/
+    label: Licensing
+  logging:
+    output: true
+    permalink: /logging/:path/
+    label: Logging
+  machine_learning:
+    output: true
+    permalink: /machine-learning/:path/
+    label: Machine Learning
+  management:
+    output: true
+    permalink: /management/:path/
+    label: Management
+  manufacturing:
+    output: true
+    permalink: /manufacturing/:path/
+    label: Manufacturing
+  mapping:
+    output: true
+    permalink: /mapping/:path/
+    label: Mapping
+  migration:
+    output: true
+    permalink: /migration/:path/
+    label: Migration
+  monetization:
+    output: true
+    permalink: /monetization/:path/
+    label: Monetization
+  movies:
+    output: true
+    permalink: /movies/:path/
+    label: Movies
+  natural_language:
+    output: true
+    permalink: /natural-language/:path/
+    label: Natural Language
+  networks:
+    output: true
+    permalink: /networks/:path/
+    label: Networks
+  notifications:
+    output: true
+    permalink: /notifications/:path/
+    label: Notifications
+  object_recognition:
+    output: true
+    permalink: /object-recognition/:path/
+    label: Object Recognition
+  orchestration:
+    output: true
+    permalink: /orchestration/:path/
+    label: Orchestration
+  partners:
+    output: true
+    permalink: /partners/:path/
+    label: Partners
+  people:
+    output: true
+    permalink: /people/:path/
+    label: People
+  performance:
+    output: true
+    permalink: /performance/:path/
+    label: Performance
+  predictions:
+    output: true
+    permalink: /predictions/:path/
+    label: Predictions
+  privacy:
+    output: true
+    permalink: /privacy/:path/
+    label: Privacy
+  proxy:
+    output: true
+    permalink: /proxy/:path/
+    label: Proxy
+  real_time:
+    output: true
+    permalink: /real-time/:path/
+    label: Real Time
+  recovery:
+    output: true
+    permalink: /recovery/:path/
+    label: Recovery
+  regulations:
+    output: true
+    permalink: /regulations/:path/
+    label: Regulations
+  resellers:
+    output: true
+    permalink: /resellers/:path/
+    label: Resellers
+  science:
+    output: true
+    permalink: /science/:path/
+    label: Science
+  scripts:
+    output: true
+    permalink: /scripts/:path/
+    label: Scripts
+  sdk:
+    output: true
+    permalink: /sdk/:path/
+    label: SDK
+  search:
+    output: true
+    permalink: /search/:path/
+    label: Search
+  security:
+    output: true
+    permalink: /security/:path/
+    label: Security
+  sensors:
+    output: true
+    permalink: /sensors/:path/
+    label: Sensors
+  sentiment_analysis:
+    output: true
+    permalink: /sentiment-analysis/:path/
+    label: Sentiment analysis
+  serverless:
+    output: true
+    permalink: /serverless/:path/
+    label: Serverless
+  slides:
+    output: true
+    permalink: /slides/:path/
+    label: Slides
+  speech:
+    output: true
+    permalink: /speech/:path/
+    label: Speech
+  speech_recognition:
+    output: true
+    permalink: /speech-recognition/:path/
+    label: Speech Recognition
+  spreadsheets:
+    output: true
+    permalink: /spreadsheets/:path/
+    label: Spreadsheets
+  stability:
+    output: true
+    permalink: /stability/:path/
+    label: Stability
+  status:
+    output: true
+    permalink: /status/:path/
+    label: Status
+  storage:
+    output: true
+    permalink: /storage/:path/
+    label: Storage
+  surveys:
+    output: true
+    permalink: /surveys/:path/
+    label: Surveys
+  tags:
+    output: true
+    permalink: /tags/:path/
+    label: Tags
+  tasks:
+    output: true
+    permalink: /tasks/:path/
+    label: Tasks
+  testing:
+    output: true
+    permalink: /testing/:path/
+    label: Testing
+  text_recognition:
+    output: true
+    permalink: /text-recognition/:path/
+    label: Text Recognition
+  traffic:
+    output: true
+    permalink: /traffic/:path/
+    label: Traffic
+  translation:
+    output: true
+    permalink: /translation/:path/
+    label: Translation
+  users:
+    output: true
+    permalink: /users/:path/
+    label: Users
+  visualizations:
+    output: true
+    permalink: /visualizations/:path/
+    label: Visualizations
+  voice:
+    output: true
+    permalink: /voice/:path/
+    label: Voice
+  wearables:
+    output: true
+    permalink: /wearables/:path/
+    label: Wearables
+  webhooks:
+    output: true
+    permalink: /webhooks/:path/
+    label: Webhooks
 
 defaults:
+  - scope:
+      type: market_data
+    values:
+      layout: market_data
+  - scope:
+      type: media
+    values:
+      layout: media
+  - scope:
+      type: social_network
+    values:
+      layout: social_network
+  - scope:
+      type: transportation
+    values:
+      layout: transportation
+  - scope:
+      type: weather
+    values:
+      layout: weather
+  - scope:
+      type: images
+    values:
+      layout: images
+  - scope:
+      type: music
+    values:
+      layout: music
+  - scope:
+      type: developers
+    values:
+      layout: developers
   - scope:
       type: links
     values:
       layout: links
+  - scope:
+      type: videos
+    values:
+      layout: videos
+  - scope:
+      type: productivity
+    values:
+      layout: productivity
+  - scope:
+      type: blockchain
+    values:
+      layout: blockchain
+  - scope:
+      type: analytics
+    values:
+      layout: analytics
+  - scope:
+      type: messaging
+    values:
+      layout: messaging
+  - scope:
+      type: uk_banks
+    values:
+      layout: uk_banks
+  - scope:
+      type: payments
+    values:
+      layout: payments
+  - scope:
+      type: monitoring
+    values:
+      layout: monitoring
+  - scope:
+      type: blockchains
+    values:
+      layout: blockchains
+  - scope:
+      type: advertising
+    values:
+      layout: advertising
+  - scope:
+      type: airlines
+    values:
+      layout: airlines
+  - scope:
+      type: analysis
+    values:
+      layout: analysis
+  - scope:
+      type: applications
+    values:
+      layout: applications
+  - scope:
+      type: authentication
+    values:
+      layout: authentication
+  - scope:
+      type: availability
+    values:
+      layout: availability
+  - scope:
+      type: backups
+    values:
+      layout: backups
+  - scope:
+      type: batch
+    values:
+      layout: batch
+  - scope:
+      type: beacons
+    values:
+      layout: beacons
+  - scope:
+      type: billing
+    values:
+      layout: billing
+  - scope:
+      type: cache
+    values:
+      layout: cache
+  - scope:
+      type: cdn
+    values:
+      layout: cdn
+  - scope:
+      type: certificates
+    values:
+      layout: certificates
+  - scope:
+      type: code
+    values:
+      layout: code
+  - scope:
+      type: commerce
+    values:
+      layout: commerce
+  - scope:
+      type: compute
+    values:
+      layout: compute
+  - scope:
+      type: containers
+    values:
+      layout: containers
+  - scope:
+      type: data
+    values:
+      layout: data
+  - scope:
+      type: database
+    values:
+      layout: database
+  - scope:
+      type: deployment
+    values:
+      layout: deployment
+  - scope:
+      type: desktops
+    values:
+      layout: desktops
+  - scope:
+      type: devices
+    values:
+      layout: devices
+  - scope:
+      type: diagnostics
+    values:
+      layout: diagnostics
+  - scope:
+      type: discovery
+    values:
+      layout: discovery
+  - scope:
+      type: dns
+    values:
+      layout: dns
+  - scope:
+      type: documents
+    values:
+      layout: documents
+  - scope:
+      type: education
+    values:
+      layout: education
+  - scope:
+      type: email
+    values:
+      layout: email
+  - scope:
+      type: embeddable
+    values:
+      layout: embeddable
+  - scope:
+      type: encryption
+    values:
+      layout: encryption
+  - scope:
+      type: facial_recognition
+    values:
+      layout: facial_recognition
+  - scope:
+      type: firewall
+    values:
+      layout: firewall
+  - scope:
+      type: fitness
+    values:
+      layout: fitness
+  - scope:
+      type: fonts
+    values:
+      layout: fonts
+  - scope:
+      type: gaming
+    values:
+      layout: gaming
+  - scope:
+      type: gateway
+    values:
+      layout: gateway
+  - scope:
+      type: genome
+    values:
+      layout: genome
+  - scope:
+      type: government
+    values:
+      layout: government
+  - scope:
+      type: identity
+    values:
+      layout: identity
+  - scope:
+      type: ipaas
+    values:
+      layout: ipaas
+  - scope:
+      type: jobs
+    values:
+      layout: jobs
+  - scope:
+      type: licensing
+    values:
+      layout: licensing
+  - scope:
+      type: logging
+    values:
+      layout: logging
+  - scope:
+      type: machine_learning
+    values:
+      layout: machine_learning
+  - scope:
+      type: management
+    values:
+      layout: management
+  - scope:
+      type: manufacturing
+    values:
+      layout: manufacturing
+  - scope:
+      type: mapping
+    values:
+      layout: mapping
+  - scope:
+      type: migration
+    values:
+      layout: migration
+  - scope:
+      type: monetization
+    values:
+      layout: monetization
+  - scope:
+      type: movies
+    values:
+      layout: movies
+  - scope:
+      type: natural_language
+    values:
+      layout: natural_language
+  - scope:
+      type: networks
+    values:
+      layout: networks
+  - scope:
+      type: notifications
+    values:
+      layout: notifications
+  - scope:
+      type: object_recognition
+    values:
+      layout: object_recognition
+  - scope:
+      type: orchestration
+    values:
+      layout: orchestration
+  - scope:
+      type: partners
+    values:
+      layout: partners
+  - scope:
+      type: people
+    values:
+      layout: people
+  - scope:
+      type: performance
+    values:
+      layout: performance
+  - scope:
+      type: predictions
+    values:
+      layout: predictions
+  - scope:
+      type: privacy
+    values:
+      layout: privacy
+  - scope:
+      type: proxy
+    values:
+      layout: proxy
+  - scope:
+      type: real_time
+    values:
+      layout: real_time
+  - scope:
+      type: recovery
+    values:
+      layout: recovery
+  - scope:
+      type: regulations
+    values:
+      layout: regulations
+  - scope:
+      type: resellers
+    values:
+      layout: resellers
+  - scope:
+      type: science
+    values:
+      layout: science
+  - scope:
+      type: scripts
+    values:
+      layout: scripts
+  - scope:
+      type: sdk
+    values:
+      layout: sdk
+  - scope:
+      type: search
+    values:
+      layout: search
+  - scope:
+      type: security
+    values:
+      layout: security
+  - scope:
+      type: sensors
+    values:
+      layout: sensors
+  - scope:
+      type: sentiment_analysis
+    values:
+      layout: sentiment_analysis
+  - scope:
+      type: serverless
+    values:
+      layout: serverless
+  - scope:
+      type: slides
+    values:
+      layout: slides
+  - scope:
+      type: speech
+    values:
+      layout: speech
+  - scope:
+      type: speech_recognition
+    values:
+      layout: speech_recognition
+  - scope:
+      type: spreadsheets
+    values:
+      layout: spreadsheets
+  - scope:
+      type: stability
+    values:
+      layout: stability
+  - scope:
+      type: status
+    values:
+      layout: status
+  - scope:
+      type: storage
+    values:
+      layout: storage
+  - scope:
+      type: surveys
+    values:
+      layout: surveys
+  - scope:
+      type: tags
+    values:
+      layout: tags
+  - scope:
+      type: tasks
+    values:
+      layout: tasks
+  - scope:
+      type: testing
+    values:
+      layout: testing
+  - scope:
+      type: text_recognition
+    values:
+      layout: text_recognition
+  - scope:
+      type: traffic
+    values:
+      layout: traffic
+  - scope:
+      type: translation
+    values:
+      layout: translation
+  - scope:
+      type: users
+    values:
+      layout: users
+  - scope:
+      type: visualizations
+    values:
+      layout: visualizations
+  - scope:
+      type: voice
+    values:
+      layout: voice
+  - scope:
+      type: wearables
+    values:
+      layout: wearables
+  - scope:
+      type: webhooks
+    values:
+      layout: webhooks
