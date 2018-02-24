@@ -24,8 +24,24 @@ title: Streamdata.io API Gallery
       <div class="filterTags__container">
 
         <div class="taggedLinkCards__cards">
-        hello 3!
-        </div>
+        {% assign navigation = site.data.navigation | sort: 'label' %}
+        {% for nav in navigation %}
+          <div class="taggedLinkCard taggedLinkCard--red" data-platform="html5">
+             <div class="taggedLinkCard__container enterAnimation enterAnimation--active" data-enter-animation="">
+                <div class="taggedLinkCard__upper" style="background-color:#FFF;">
+                   <a href="/{{ site.github_repo }}/{{ nav.slug }}/apis/"><img src="/{{ site.github_repo }}/assets/{{ nav.image }}" class="taggedLinkCard__image" alt=""></a>
+                </div>
+                <div class="taggedLinkCard__lower">
+                   <div class="taggedLinkCard__copy">
+                      <h3 class="taggedLinkCard__title"><a href="/{{ site.github_repo }}/{{ nav.slug }}/apis/">{{ nav.label }}</a></h3>
+                      <p class="taggedLinkCard__body">{{ nav.description }}</p>
+                   </div>
+                   <p><a href="/{{ site.github_repo }}/{{ nav.slug }}/apis/">Learn more</a></p>
+                </div>
+             </div>
+          </div>
+        {% endfor %}
+      </div>
 
       </div>
    </section>

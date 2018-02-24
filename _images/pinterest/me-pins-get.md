@@ -1,0 +1,49 @@
+---
+swagger: "2.0"
+info:
+  title: Pinterest
+  description: Pinterest API
+  termsOfService: https://developers.pinterest.com/terms/
+  version: 1.0.0
+host: api.pinterest.com
+basePath: /v1
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /me/pins:
+    get:
+      summary: Get My Pins
+      description: "The default response returns the ID, link, URL and descriptions
+        of the authenticated user\u2019s Pins"
+      operationId: PinterestPins
+      parameters:
+      - in: query
+        name: cursor
+        description: The starting page of the object to return
+      - in: query
+        name: limit
+        description: The maximum number of objects to return
+      responses:
+        200:
+          description: OK
+      tags:
+      - images
+definitions: []
+x-streamrank:
+  polling_total_time_average: 0
+  polling_size_download_average: 0
+  streaming_total_time_average: 0
+  streaming_size_download_average: 0
+  change_yes: 0
+  change_no: 0
+  time_percentage: 0
+  size_percentage: 0
+  change_percentage: 0
+  last_run: ""
+  days_run: 0
+  minute_run: 0
+---
