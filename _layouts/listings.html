@@ -6,7 +6,7 @@ layout: default
 {% assign slug = page.info.title | replace: ' ','-' | downcase %}
 
 {% assign slug = page.info.title %}
-{% for item in site.links %}
+{% for item in site.listings %}
   {% if item.name %}
     {% if slug == item.name %}
       {% assign apis_json = item %}
