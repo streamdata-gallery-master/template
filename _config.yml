@@ -27,7 +27,7 @@ github_branch: master
 collections:
   links:
     output: true
-    permalink: links/:path/
+    permalink: /links/:path/
     label: Links
 
 defaults:
