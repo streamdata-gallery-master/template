@@ -100,6 +100,13 @@
            <form>
            <strong>Tag(s):</strong>
            <select name="filter" id="tagfilter">
+
+           {% if listing_type == 'topic' %}
+              {% assign navigation = site.data.topics | sort: 'label' %}
+           {% else %}
+              {% assign navigation = site.data.organizations | sort: 'label' %}
+           {% endif %}
+
            {% assign navigation = site.data.navigation | sort: 'label' %}
            {% for nav in navigation %}}
                <option value="{{ nav.url }}"{% if nav.label == site.tag %} selected{% endif %}>{{ nav.label }}</option>
