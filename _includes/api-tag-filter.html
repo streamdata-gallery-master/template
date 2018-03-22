@@ -107,7 +107,6 @@
               {% assign navigation = site.data.organizations | sort: 'label' %}
            {% endif %}
 
-           {% assign navigation = site.data.navigation | sort: 'label' %}
            {% for nav in navigation %}}
                <option value="{{ nav.url }}"{% if nav.label == site.tag %} selected{% endif %}>{{ nav.label }}</option>
            {% endfor %}
