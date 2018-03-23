@@ -15,7 +15,7 @@
             {% for api in entry.apis %}
                {% if entry.name == item.x-collection-name %}
                  {% assign api_name = entry.name %}
-                 {% assign api_slug = api_name | replace: ' ','-' | replace: '/','' | replace: '&','-' | replace: '=','-' | replace: '{','-' | replace: '}','-' | replace: '?','-' | replace: '_','-' | replace: '--','-' | downcase %}
+                 {% assign api_slug = api_name | replace: ' ','-' | replace: '/','' | replace: '.','' | replace: '&','-' | replace: '=','-' | replace: '{','-' | replace: '}','-' | replace: '?','-' | replace: '_','-' | replace: '--','-' | downcase %}
                  {% assign api_description = entry.description %}
                  {% assign api_image = entry.image %}
                  {% assign api_json_url = entry.url %}
