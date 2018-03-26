@@ -2,37 +2,54 @@
 layout: default
 ---
 
-{% if page.info.title %}
+<div class="shortMasthead  shortMasthead--extra-top-padding ">
+     {% include api-listing-feature.html %}
+</div>
 
-  {% assign openapi = page | replace: ' ','-' | downcase %}
-  {% assign slug = page.info.title | replace: ' ','-' | downcase %}
+<section class="taggedLinkCards">
 
-  {% assign slug = page.info.title %}
-  {% for item in site.listings %}
-    {% if item.name %}
-      {% if page.x-collection-name == item.name %}
-        {% assign apis_json = item %}
-      {% endif %}
-    {% endif %}
-  {% endfor %}
+   {% include api-tag-filter.html %}
 
-  {% include apis-json.html %}
-  {% include x-common.html %}
-  {% include api-paths.html %}
-  {% include api-url.html %}
-  {% include api-stream-url.html %}
+   {% if page.info.title %}
 
-  {% assign stream_rank = page.x-streamrank %}
+     {% assign openapi = page | replace: ' ','-' | downcase %}
+     {% assign slug = page.info.title | replace: ' ','-' | downcase %}
 
-  {% include api-details.html %}
+     {% assign slug = page.info.title %}
+     {% for item in site.listings %}
+       {% if item.name %}
+         {% if page.x-collection-name == item.name %}
+           {% assign apis_json = item %}
+         {% endif %}
+       {% endif %}
+     {% endfor %}
 
-{% else %}
+     {% include apis-json.html %}
+     {% include x-common.html %}
+     {% include api-paths.html %}
+     {% include api-url.html %}
+     {% include api-stream-url.html %}
 
-  {% assign apis_json = page %}
+     {% assign stream_rank = page.x-streamrank %}
 
-  {% include apis-json.html %}
-  {% include x-common.html %}
+     {% include api-details.html %}
 
-  {% include org-details.html %}
+   {% else %}
 
-{% endif %}
+     {% assign apis_json = page %}
+
+     {% include apis-json.html %}
+     {% include x-common.html %}
+
+     {% include org-details.html %}
+
+   {% endif %}
+
+</section>
+<div class="submitApi__overflowContainer" data-submit-api="">
+   <div class="submitApi submitApi--left-hand-image">
+
+     {% include api-listing-submit.html %}
+
+   </div>
+</div>
