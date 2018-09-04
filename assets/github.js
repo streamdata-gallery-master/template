@@ -642,7 +642,7 @@
           _request("PUT", repoPath + "/contents/" + path, {
             message: message,
             //content: btoa(content),
-            content: btoa(content),
+            content: content,
             branch: branch,
             sha: sha
           }, cb);
