@@ -631,7 +631,7 @@
       };
 
       this.writeNew = function(branch, path, content, message, cb) {
-          _request("POST", 'user/' = repoPath + "/contents/" + path, {
+          _request("POST", 'user/' + repoPath + "/contents/" + path, {
             message: message,
             content: btoa(content),
             branch: branch
