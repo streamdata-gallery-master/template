@@ -630,6 +630,14 @@
         });
       };
 
+      this.writeNew = function(branch, path, content, message, cb) {
+          _request("POST", repoPath + "/contents/" + path, {
+            message: message,
+            content: btoa(content),
+            branch: branch
+          }, cb);
+      };
+
       this.writemanual = function(branch, path, content, message, sha, cb) {
           _request("PUT", repoPath + "/contents/" + path, {
             message: message,
