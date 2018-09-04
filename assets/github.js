@@ -634,8 +634,7 @@
           _request("POST", repoPath + "/contents/" + path, {
             message: message,
             content: btoa(content),
-            branch: branch,
-            sha: sha
+            branch: branch
           }, cb);
       };
 
