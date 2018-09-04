@@ -641,8 +641,8 @@
       this.writemanual = function(branch, path, content, message, sha, cb) {
           _request("PUT", repoPath + "/contents/" + path, {
             message: message,
-            //content: btoa(content),
-            content: content,
+            content: btoa(content),
+            //content: content,
             branch: branch,
             sha: sha
           }, cb);
