@@ -1,0 +1,115 @@
+{% for entry in listing_object %}
+  {% if entry.name %}
+
+      {% assign api_name = entry.name %}
+      {% assign api_slug = entry.x-slug %}
+      {% assign api_description = entry.description %}
+      {% assign api_image = entry.image %}
+      {% assign api_json_url = entry.url %}
+      {% assign api_json_kin_rank = entry.x-kinRank %}
+      {% assign api_json_alexa_rank = entry.x-alexaRank %}
+
+      {% assign number_of_apis = 0 %}
+      {% for item in listing_object %}
+        {% if item.swagger %}
+          {% if item.swagger == "2.0" %}
+              {% if api_name == item.x-collection-name %}
+                {% assign number_of_apis = number_of_apis | plus: 1 %}
+            {% endif %}
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+
+      {% assign apis_json = entry %}
+      {% include x-common.html %}
+
+      <h3>OpenAPI Definitions For {{ api_name }}</h3>
+      <p align="right"><img src="{{ api_image }}" width="25%" align="right" style="padding: 15px;" /></p>
+      <p>To add a company, organization, institution, or government agency to the API Gallery, you have to have an APIs.json and OpenAPI definition, describing not just the surface area of the API, but also the surface area of their API operations. This set of machine readable definitions provide us what we need to understand exactly what an API offers, as well as to be able add it to the gallery, driving the search, listings, and detail pages for the gallery.</p>
+
+      <p>After adding APIs to the gallery we like to write a story about the entity behind the API here on the blog, providing a list of the individual OpenAPI definitions for each of the invidual API endpoints they offer. Today we'd like to showcse the OpenAPI definitions for {{ api_name }}, helping make their API resources more accessible to our audience.</p>
+
+      <p><strong>OpenAPIs:</strong></p>
+      {% for item in listing_object %}
+        {% if item.swagger %}
+          {% if item.swagger == "2.0" %}
+
+              {% if api_name == item.x-collection-name %}
+
+                {% assign api_name = "" %}
+                {% assign api_description = "" %}
+                {% assign api_image = "" %}
+                {% assign api_json_url = "" %}
+                {% assign api_json_kin_rank = "" %}
+                {% assign api_json_alexa_rank = "" %}
+
+                {% assign api_json_openapi_spec = "" %}
+                {% assign api_json_postman_collection = "" %}
+                {% assign api_json_asyncapi_url = "" %}
+
+                {% for entry in listing_object %}
+                  {% if entry.name %}
+                    {% for api in entry.apis %}
+                      {% if entry.name == item.x-collection-name %}
+
+                        {% assign api_name = entry.name %}
+                        {% assign api_slug = entry.x-slug %}
+                        {% assign api_description = entry.description %}
+                        {% assign api_image = entry.image %}
+                        {% assign api_json_url = entry.url %}
+                        {% assign api_json_kin_rank = entry.x-kinRank %}
+                        {% assign api_json_alexa_rank = entry.x-alexaRank %}
+
+                        {% for property in api.properties %}
+
+                          {% if property.type == 'x-openapi-spec' %}
+                            {% assign api_json_openapi_spec = property.url %}
+                          {% endif %}
+
+                          {% if property.type == 'x-postman-collection' %}
+                            {% assign api_json_postman_collection = property.url %}
+                          {% endif %}
+
+                          {% if property.type == 'x-asyncapi-spec' %}
+                            {% assign api_json_asyncapi_url = property.url %}
+                          {% endif %}
+
+                        {% endfor %}
+
+                      {% endif %}
+                    {% endfor %}
+                  {% endif %}
+                {% endfor %}
+
+    	         {% for path in item.paths %}
+    	           {% assign path_name = path[0] %}
+    	           {% for method in path[1] %}
+    	             {% assign method_details = method[1] %}
+    	             {% assign verb = method[0] %}
+    	             {% assign api_path_summary = method_details.summary %}
+    	             {% assign api_path_description = method_details.description | truncate: 250, "..." %}
+    	             {% assign api_path_slug = method_details.x-api-path-slug | append: '-openapi' %}
+    	             {% assign api_path_parameters = method_details.parameters %}
+    	             {% assign api_path_tags = method_details.tags %}
+    	           {% endfor %}
+    	         {% endfor %}
+
+              {% if api_json_openapi_spec != '' %}
+                - <a href="/{{ tag_slug }}/{{ api_slug }}/{{ api_path_slug }}/#openapi" target="_blank"><strong>{{ api_path_summary }}</strong></a> - {{ api_path_description }}<br />
+              {% endif %}
+
+            {% endif %}
+
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+
+      {% assign gallery_domain = 'http://' | append: api_slug | replace: '-','.' | append: '.api.gallery.streamdata.io' %}
+
+      <p>The goal here is to provide individual, machine readable units of compute for each of the resources we have published to the API Gallery. Since all of these OpenAPI definitions live in an individual GitHub repository for {{ api_name }}, it means anyone can fork, clone, or download the API definitions and put to work in their applications and systems. Making the world of APIs more accessible, and continously integratable, as part the strategy for any company, organization, institution, or government agency looking to get more organized with their API discovery.</p>
+
+      <p>You can <a href="{{ gallery_domain }}">learn more about {{ api_name }} API Gallery page</a>, and <a href="{{ website_url }}">visit their website to sign up for their service(s)</a>. We will continue monitoring their platform, and benchmarking their APIs, and if it makes sense, develop some connectors and subscriptions that help data consumers more easily get what they need from the {{ api_name }} platform, and be notified of relevant events that are occuring across the resources they provide.</p>
+
+
+  {% endif %}
+{% endfor %}
